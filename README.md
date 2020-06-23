@@ -1,2 +1,2 @@
-# EO-Browser-pins-repository
-A repository of pin and pin descriptions for EO Browser (Pin library)
+# EO Browser pins' repository
+A repository of pins and pins' descriptions for EO Browser (Pin library)
