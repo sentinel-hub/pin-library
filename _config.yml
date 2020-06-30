@@ -1,1 +1,11 @@
+name: Sentinel-Hub pin repository
 theme: jekyll-theme-leap-day
+description: A repository of pins and pins’ descriptions for EO Browser (Pin library).
+author: Sentinel-Hub by Sinergise
+author_email: info@sentinel-hub.com
+url: https://dthiex.github.io/EO-Browser-pins-repository/
+
+---
+layout: post
+title: EO-Browser-pins-repository
+---
