@@ -1,5 +1,7 @@
 # Short description of the dataset
 
+Here will be a short description of the dataset.
+
 # Included pins 
 
 ## 1. Sundarbans, Mangrove Forest (NDVI)
@@ -11,34 +13,41 @@ Flickr: LINK TO IMAGE
 ## 2. Italian Agriculture (Moisture Index)
 
 Description
+
 Flickr: LINK TO IMAGE
 
 ## 3. Italian Agriculture (Moisture Index)
 
 Description
+
 Flickr: LINK TO IMAGE
 
 ## 4. Heavy Sedimentation Flow of the Betsiboka River, Madagascar (False Color)
 
 Description
+
 Flickr: LINK TO IMAGE
  
 ## 5. Glacier Grey, Chile
 
 Description
+
 Flickr: LINK TO IMAGE
  
 ## 6. Venice, Italy
 
- Description
- Flickr: LINK TO IMAGE
+Description
+ 
+Flickr: LINK TO IMAGE
 
 ## 7. Stromboli, Province of Messina, Italy (SWIR)
 
 Description
+
 Flickr: LINK TO IMAGE
 
 ## 8. Wildfires in Croatia, July 2017 (SWIR)
 
 Description
+
 Flickr: LINK TO IMAGE
