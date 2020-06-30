@@ -1,7 +1,6 @@
 # Monitoring Earth from Space
 
-Show pins.json, [download](Monitoring_Earth_from_Space.json){:target="_blank"} them or directly import the pins into EO Browser.
-
+[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=13e23d70-89f8-43fa-9338-95024bb401ec) pins directly into EO Browser or [download](Monitoring_Earth_from_Space.json){:target="_blank"} the pins.json.
 
 ## Short description of the dataset
 
