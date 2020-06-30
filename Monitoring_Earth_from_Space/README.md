@@ -54,4 +54,4 @@ Flickr: LINK TO IMAGE
 
 Description
 
-Flickr: LINK TO IMAGE
+[View image on Flickr](https://www.flickr.com/photos/sentinelhub/49657779548/)
