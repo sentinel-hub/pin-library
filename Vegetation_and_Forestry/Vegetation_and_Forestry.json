@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Forestry in Indonesia, 2018 (Barren soil)",
+        "lat": -2.0709,
+        "lng": 111.74452,
+        "zoom": 13,
+        "datasetId": "S2L2A",
+        "layerId": "8_BARREN-SOIL",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/2730da16-e275-480d-a58a-a6956ca3d025",
+        "toTime": "2019-03-20",
+        "evalscript": "",
+        "evalscripturl": "",
+        "themeId": "FORESTRY"
+    },
+    {
+        "title": "Forestry in Central African Republic, February (False color 11,8,2)",
+        "lat": 6.02152,
+        "lng": 23.25987,
+        "zoom": 13,
+        "datasetId": "S2L2A",
+        "layerId": "FALSE-COLOR-11-8-2",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/2730da16-e275-480d-a58a-a6956ca3d025",
+        "toTime": "2019-02-21",
+        "evalscript": "",
+        "evalscripturl": "",
+        "themeId": "FORESTRY"
+    },
+    {
+        "title": "Forestry; Indonesian rainforest (ARVI)",
+        "lat": -9.3756,
+        "lng": -52.1178,
+        "zoom": 11,
+        "datasetId": "S2L2A",
+        "layerId": "5_ARVI",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/2730da16-e275-480d-a58a-a6956ca3d025",
+        "toTime": "2019-07-18",
+        "evalscript": "",
+        "evalscripturl": "",
+        "themeId": "FORESTRY"
+    },
+    {
+        "title": "Sundarbans, Mangrove forest (EVI)",
+        "lat": 21.9502,
+        "lng": 89.1671,
+        "zoom": 12,
+        "datasetId": "S2L2A",
+        "layerId": "4_EVI",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/2730da16-e275-480d-a58a-a6956ca3d025",
+        "toTime": "2020-01-27",
+        "evalscript": "",
+        "evalscripturl": "",
+        "themeId": "FORESTRY"
+    },
+    {
+        "title": "Sundarbans, Mangrove forest (OTCI)",
+        "lat": 21.953,
+        "lng": 89.052,
+        "zoom": 9,
+        "datasetId": "S3OLCI",
+        "layerId": "3_OTCI",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/89b5c4ae-b850-4ca6-a0fd-12f506dd8fb0",
+        "toTime": "2020-01-27",
+        "evalscript": "",
+        "evalscripturl": "",
+        "themeId": "FORESTRY"
+    },
+    {
+        "title": "Russian Taiga (EVI)",
+        "lat": 62.072,
+        "lng": 44.789,
+        "zoom": 9,
+        "datasetId": "S2L2A",
+        "layerId": "4_EVI",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/2730da16-e275-480d-a58a-a6956ca3d025",
+        "toTime": "2019-08-12",
+        "evalscript": "",
+        "evalscripturl": "",
+        "themeId": "FORESTRY"
+    },
+    {
+        "title": "Serengetti National Park (right) (Barren Soil)",
+        "lat": -1.5937,
+        "lng": 34.8469,
+        "zoom": 12,
+        "datasetId": "S2L2A",
+        "layerId": "8_BARREN-SOIL",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/2730da16-e275-480d-a58a-a6956ca3d025",
+        "toTime": "2020-01-02",
+        "evalscript": "",
+        "evalscripturl": "",
+        "themeId": "FORESTRY"
+    }
+]
