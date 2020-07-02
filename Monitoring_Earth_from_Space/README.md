@@ -52,4 +52,4 @@ Flickr: LINK TO IMAGE
 
 Description
 
-[![Wildfires in Croatia, July 2017](fig/Monitoring_Earth_from_Space_thumbnail.jpg)](https://www.flickr.com/photos/sentinelhub/49657779548/)
+[![Wildfires in Croatia, July 2017](fig/Monitoring_Earth_from_Space_thumbnail.jpg)](https://www.flickr.com/photos/sentinelhub/49657779548/){:target="_blank"}
