@@ -5,6 +5,7 @@ Pins are organised by themes:
 
  - [Monitoring Earth from Space](Monitoring_Earth_from_Space)
  - [Agriculture](Agriculture)
+ - [Atmosphere and Pollution](Atmosphere_and_Pollution)
  - [Change Detection through Time](Change_Detection_through_Time)
  - [Flooding and Droughts](Flooding_and_Droughts)
  - [Geology](Geology)
