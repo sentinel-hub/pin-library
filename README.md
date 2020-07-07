@@ -16,6 +16,6 @@ Pins are organised by themes:
  - [Volcanoes](Volcanoes)
  - [Wildfires](Wildfires)
 
-# Adding or modifying pins 
+# Adding pins or modifying excisting 
 
-Have a look at the teamplate and follow the procedure described there.
+Have a look at the [instructions](example) and follow the procedure described there.
