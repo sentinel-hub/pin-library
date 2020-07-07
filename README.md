@@ -15,3 +15,7 @@ Pins are organised by themes:
  - [Vegetation and Forestry](Vegetation_and_Forestry)
  - [Volcanoes](Volcanoes)
  - [Wildfires](Wildfires)
+
+# Adding or modifying pins 
+
+Have a look at the teamplate and follow the procedure described there.
