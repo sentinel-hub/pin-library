@@ -1,4 +1,4 @@
-### Example README
+# Example README
 
 ---
 
