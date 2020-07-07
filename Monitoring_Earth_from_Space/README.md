@@ -14,11 +14,6 @@ Following is a set of pins which are all connected to the topic Monitoring Earth
 ### Italian Agriculture (Moisture Index)
 
 [<img src="fig/Italian_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50082988756/in/album-72157714991542468/)[Veneto agriculture](https://www.recare-hub.eu/news/45-06-bioforsk) is one of the most productive in Italy, producing mainly cereals, fruits and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### Richat Structure, Mauretania
 
