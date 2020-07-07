@@ -1,4 +1,4 @@
-# Title
+# Snow and Glaciers
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=c971df02-0886-4acb-a84d-fa666ad344e9){:target="_blank"} pins directly into EO Browser or [download](Snow_and_Glaciers.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
