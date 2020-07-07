@@ -1,4 +1,4 @@
-# Volcanoes
+# Titel
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=7db11184-de21-4647-8a6d-4871b5044ce8){:target="_blank"} pins directly into EO Browser or [download](Volcanoes.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
