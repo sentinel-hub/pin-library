@@ -2,7 +2,7 @@
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=ad47ae8d-1995-48ea-a4bb-3aadd3cf6b76){:target="_blank"} pins directly into EO Browser or [download](Agriculture.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
-Following is a set of pins which are all connected to the topic wildfires. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.  
+Following is a set of pins which are all connected to the topic "wildfires". Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.  
 
 ## Included pins 
 
