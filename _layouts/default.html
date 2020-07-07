@@ -8,17 +8,14 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   
   </head>
   <body>
       
       <header>
-        <!-- <h1>{{ site.title | default: site.github.repository_name }}</h1> -->
-		<a href="https://dthiex.github.io/EO-Browser-pins-repository/"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
+	<a href="https://dthiex.github.io/EO-Browser-pins-repository/"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
 
@@ -39,12 +36,11 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-          <p><a href="https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME">{{ EO Browser front page }}</a></p>
+          <p><a href="{{ site.github.owner_url }}">{{ site.author }}</a></p>
         {% endif %}
         <p></p>
       </footer>
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
   </body>
 </html>
