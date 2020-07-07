@@ -8,7 +8,6 @@ Here will be a short description of the dataset.
 
 ### Chennai, Before/During/After the drought (Moisture Index)
 
-<!--[<img src="fig/Sundarbans_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/album-72157714991542468/) [<img src="fig/Sundarbans_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/album-72157714991542468/)[<img src="fig/Sundarbans_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/album-72157714991542468/)-->
 Description
 
 ### Bangladesh, Before/During the flood (SWIR)
