@@ -1,6 +1,6 @@
 # Monitoring Earth from Space
 
-[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=13e23d70-89f8-43fa-9338-95024bb401ec){:target="_blank"} pins directly into EO Browser or [download](Monitoring_Earth_from_Space.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
+[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=3c138a4c-45a2-4e2d-aa77-14416f899f4d){:target="_blank"} pins directly into EO Browser or [download](Monitoring_Earth_from_Space.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
 Following is a set of pins which are all connected to the topic Monitoring Earth from Space. It is a meant as a starting point to explore what remote sensing data can do. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.
 
@@ -9,7 +9,6 @@ Following is a set of pins which are all connected to the topic Monitoring Earth
 ### Sundarbans, Mangrove Forest (NDVI)
  
 [<img src="fig/Sundarbans_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/album-72157714991542468/)[Mangrove forests](https://oceanservice.noaa.gov/facts/mangroves.html) have exceptionally high biodiversity and are indispensable in erosion reduction. There are 80 different species of mangrove trees known, growing in low-oxygen soil, where slow moving waters accumulate fine sediments for the roots to grow in. [Sundarbans Mangrove forest](https://whc.unesco.org/en/list/798/) covers 140.000 ha of land, making it one of the largest Mangrove forests in the world. It provides livelihood to many people living in the area and is a home to, among others, 250 bird species and an endangered Royal Bengal Tiger. The forest is threatened by seasonal monsoons, cyclones and tidal waves, which cause salinization. 
-
 
 ### Italian Agriculture (Moisture Index)
 
