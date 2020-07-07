@@ -2,7 +2,7 @@
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=f2395499-7d59-43d7-9f6f-f1557ff34bae){:target="_blank"} pins directly into EO Browser or [download](Ocean_and_Water_Bodies.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
-Here will be a short description of the dataset.
+Following is a set of pins which are all connected to the topic Ocean and Water Bodies. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.
 
 ## Included pins 
 

@@ -2,7 +2,7 @@
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=14c4b49f-4ccc-4977-9f0d-9da0c8cfe818){:target="_blank"} pins directly into EO Browser or [download](Change_Detection_through_Time.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
-Here will be a short description of the dataset.
+Following is a set of pins which are all connected to the topic Change Detection through Time. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.
 
 ## Included pins 
 
