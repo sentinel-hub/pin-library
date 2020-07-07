@@ -9,3 +9,6 @@ url: https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId
 layout: post
 title: EO-Browser-pins-repository
 ---
+
+sidebar:
+  nav: "themes"
