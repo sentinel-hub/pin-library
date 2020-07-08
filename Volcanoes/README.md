@@ -36,4 +36,5 @@ Description
 
 ### Jebel Marra, Sudan (not active)
 
-Description
+You're looking at the dormant Jebel Marra volcano in Sudan. The most prominent feature of this mountain is the volcanic caldera, 
+called Deriba Caldera. In its heart lie two volcanic lakes, formed some 3.500 years ago, as the eruptions removed rock material and created a crater. The lakes are supplied by rain and hot springs.
