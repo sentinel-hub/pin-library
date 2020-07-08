@@ -27,6 +27,6 @@ Description
 
 ### Russian Taiga (EVI)
 
-Description
+[Taiga](https://www.nationalgeographic.org/encyclopedia/taiga/), coniferous forest of the subarctic region, covering Alaska, Canada, Scandinavia and Siberia. Russian Taiga stretches 5.800 kilometers (3,600 miles) from the Pacific Ocean to the Ural Mountains and was completely covered with glaciers in the last ice age. The soil of Taiga forests often contains [permafrost](https://www.nrdc.org/stories/permafrost-everything-you-need-know), which means the ground has been frozen for years and up to thousand of years. Plants of Taiga are accustomed to harsh cold temperatures; the trees contain very little sap (nutrient distributing fluid), which helps prevent freezing, while their dark needles absorb as much sun light as possible. In Taiga forests, one can find many animal species, such as owls, moos, deer, lynx, rodents and a siberian tiger. Taiga is vulnerable to global warming, as higher temperatures cause the permafrost to thaw, making the area spongy and hard for tree roots to grow. Permafrost also contains [methane](https://www.nationalgeographic.com/environment/2018/08/news-arctic-permafrost-may-thaw-faster-than-expected/), a potent greenhouse gas, which is being released to the atmosphere, speeding up climate change even more. 
 
 ### Serengetti National Park (right) (Barren Soil)
