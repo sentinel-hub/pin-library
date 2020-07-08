@@ -56,4 +56,4 @@ A winter landscape of the [Christina Lake Oil Sands Factory](https://www.cenovus
 
 ### Drifting Ice Plates, Arctic Sea
 
-Description
+Melting ice plates in the Arctic Ocean near Russia, forming interesting patterns as a result of being carried by ocean currents.
