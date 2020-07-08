@@ -18,13 +18,12 @@ Description
 
 Description
 
-### Sundarbans, Mangrove forest (EVI)
+### Sundarbans, Mangrove forest 
 
 [<img src="fig/Sundarbans_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/album-72157714991542468/)[Mangrove forests](https://oceanservice.noaa.gov/facts/mangroves.html) have exceptionally high biodiversity and are indispensable in erosion reduction. There are 80 different species of mangrove trees known, growing in low-oxygen soil, where slow moving waters accumulate fine sediments for the roots to grow in. [Sundarbans Mangrove forest](https://whc.unesco.org/en/list/798/) covers 140.000 ha of land, making it one of the largest Mangrove forests in the world. It provides livelihood to many people living in the area and is a home to, among others, 250 bird species and an endangered Royal Bengal Tiger. The forest is threatened by seasonal monsoons, cyclones and tidal waves, which cause salinization.
 
-### Sundarbans, Mangrove forest (OTCI)
-
-[<img src="fig/Sundarbans_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/album-72157714991542468/)[Mangrove forests](https://oceanservice.noaa.gov/facts/mangroves.html) have exceptionally high biodiversity and are indispensable in erosion reduction. There are 80 different species of mangrove trees known, growing in low-oxygen soil, where slow moving waters accumulate fine sediments for the roots to grow in. [Sundarbans Mangrove forest](https://whc.unesco.org/en/list/798/) covers 140.000 ha of land, making it one of the largest Mangrove forests in the world. It provides livelihood to many people living in the area and is a home to, among others, 250 bird species and an endangered Royal Bengal Tiger. The forest is threatened by seasonal monsoons, cyclones and tidal waves, which cause salinization.
+- **Sentinel-2 EVI**
+- **Sentinel-3 OTCI**
 
 ### Russian Taiga (EVI)
 
