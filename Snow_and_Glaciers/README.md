@@ -52,7 +52,7 @@ Description
 
 ### Winter landscape, Canada
 
-Description
+A winter landscape of the [Christina Lake Oil Sands Factory](https://www.cenovus.com/operations/oilsands/christina-lake.html). The factory uses specialized technology to drill and pump the oil from 375 meters deep underground. The project is expected to last for more than 30 years and produces 210.000 barrels of oil per day. In winter, the lakes are covered by snow, giving them a surreal white color. 
 
 ### Drifting Ice Plates, Arctic Sea
 
