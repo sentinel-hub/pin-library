@@ -48,7 +48,8 @@ Description
 
 ### Venice, Italy
 
-Description
+[<img src="fig/Venice_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083026626/in/album-72157714991542468/)[Venice](https://www.britannica.com/place/Venice/Lagoon-and-tides), a so called island city with the population of [637,245](https://worldpopulationreview.com/world-cities/venice-population/), remains a major Italian port and is one of the world’s oldest tourist and cultural centres. The lagoon's mud banks, shallows, and channels are a source of income from marine and bird life and from salt pans. The lagoon has served as protection and as a natural sewerage system.
+The deepening of channels in the 20th century, the overextraction of fresh water from mainland aquifers, the rising of the Adriatic Sea, and the geologic sinking of the Po River basin have lowered the land level, creating a serious flooding problem. On a regular basis, when high tides combine with winds from the south and east, the waters of the lagoon rise and flood the city, making Venice to be known as the [City built on water](https://www.livitaly.com/how-was-venice-built/). 
 
 ### Washington, USA (Green City)
 
