@@ -8,7 +8,13 @@ Following is a set of pins which are all connected to the topic Flooding and Dro
 
 ### Chennai floods, 2019
 
-, Before/During/After the drought (Moisture Index)
+Chennai is located on the south-eastern coast of India on a flat coastal plain and is the fourth largest city with over 7 million inhabitants.
+The city relies heavily on annual monsoon rains to replenish the four water reservoirs that represent the main water resources for the public and extensive automotive industry in the region.
+Mismanagement of the water resources, combined with 3 years of deficient monsoon rainfall seasons prior to the event caused a dramatic depletion of the water reservoirs [related article](https://www.bbc.com/news/world-asia-india-48672330).
+Additionally, the groundwater aquifer was drained beyond its usual recovering capability threshold because residents reverted to groundwater extraction via [bore wells](https://www.indiawaterportal.org/topics/borewells-and-tubewells).
+The three *Sentinel-2 L2A*-based Moisture index images from before, while and after the drought, show the desiccation of the Red Hills Reservoir over the heat period in 2019 with a clearly retreating water line. [Further reading](https://www.nationalgeographic.com/environment/2019/07/india-water-crisis-drought-could-be-helped-better-building-planning/)
+
+Before/During/After the drought (Moisture Index)
 
 ### Bangladesh Floods
 
