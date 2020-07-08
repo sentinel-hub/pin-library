@@ -12,7 +12,7 @@ Description
 
 ### Bear Glacier, Alaska (Highlight Optimized Natural Color)
 
-Description
+Bear Glacier, the largest glacier in Kenai Fjords National Park, Alaska, is separated from the ocean by a large [terminal moraine](http://www.antarcticglaciers.org/glacial-geology/glacial-landforms/glacial-depositional-landforms/moraine-types/) forming a [proglacial lake](https://www.swisseduc.ch/glaciers/glossary/proglacial-lake-en.html) which attracts numerous sea kayaking enthusiasts. The 20 km long glacier has two remarkable [medial moraines](https://www.nps.gov/articles/lateralmedialmoraines.htm), formed by joining ice streams. These moraines contrast with the brighter ice and appear clearly in Sentinel-2 images. However, the stunning features of the glacier may not be observable for long: [a recent study](https://www.nps.gov/rlc/oceanalaska/upload/Bear-Glacier-RB_FINAL_12-17-19_508-compliant.pdf) has shown that Bear Glacier has been dramatically retreating  (237 m per year)  over the two last decades.
 
 ### Glacier Grey, Chile (Highlight Optimized Natural Color)
 
@@ -36,7 +36,7 @@ Description
 
 ### Byrd Glacier, Antarctica (Highlight Optimized Natural Color)
 
-Description
+[Byrd Glacier](https://earthobservatory.nasa.gov/images/7544/byrd-glacier-antarctica) is one of the largest fast-flowing glaciers in Antarctica. Ice flows from the East Antarctic plateau into the Ross ice shelf at a rate of ~800 m per year along the centre line of this ~20 km wide and ~100 km long glacier. Distinct longitudinal flow stripes are clearly visible from space where the ice is funnelled between the [Transantarctic Mountains](https://www.britannica.com/place/Transantarctic-Mountains). Similarly to other Antarctic glaciers, Byrd Glacier is [vulnerable to warming temperatures](https://insideclimatenews.org/news/12112019/antarctica-ice-shelf-melt-atmospheric-river-thwaites-glacier-ocean-sea-level-rise) that lead to an acceleration of the ice flow, with disastrous effects on sea-level rise.
 
 ### Mountains of New Zealand (Snow Classifier)
 
