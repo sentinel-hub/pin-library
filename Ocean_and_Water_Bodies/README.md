@@ -10,16 +10,17 @@ Following is a set of pins which are all connected to the topic Ocean and Water 
 
 [<img src="fig/Betsiboka_River_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50082273238/in/album-72157714991542468/)A beautiful Betsiboka river delta is a dramatic example of massive deforestation, that occurs in Madagascar every year. One of the biggest culprits is the slash and burn agriculture, called [tavy](https://www.madamagazine.com/en/english-tavy-kahlschlag-einer-insel/), where the forest is burnt and then farmed in the following months. The other deforestation causes include grazing, logging and production of coal. The forest grows back after being cut down, but until then, the barren soil is vulnerable to erosion by heavy rains, depositing it into rivers, which carry it into the sea, contaminating sea life with deposited iron oxides. As soil formation is a process taking thousands of years, it erodes away each year, until it can no longer support a forest. Due to these processes, Madagascar has already lost [80 % of its primary forests](https://www.eoi.es/blogs/guidopreti/2014/02/04/deforestation-in-madagascar-a-threat-to-its-biodiversity/), causing many indigenous species, such as [lemurs](https://monkeysandmountains.com/lemurs-madagascar/), to be endangered.
 
-#### Low sedimentation flow (False Color)
-#### Heavy sedimentation flow (False Color)
+**Low sedimentation flow (False Color)**
+**Heavy sedimentation flow (False Color)**
 
 ### Lake Natron, Tanzania
 
-Description
+Natron is a fascinating lake, deadly to most animals, that are not accustomed to its alkaline environment. The dangerously high PH of 10.5 is caused by sodium carbonate flowing in from the surrounding hills, active with volcanism. Sodium carbonate deposits serve as a preservant, calcifying the carcasses of deceased animals. 
+Despite the harsh ecosystem, some species survive here. On its shores, flocks of flamingos, which have evolved leathery skin to tolerate the water, find a safe nesting place, as predators avoid the area. The stunning red color is caused by cyanobacteria, that thrive in the dry season, as salinity rises due to evaporation. Read more [here](https://www.smithsonianmag.com/travel/flamingos-find-life-among-death-180959265/), [here](https://earthobservatory.nasa.gov/images/90191/lake-natron-tanzania" rel="noreferrer nofollow) and [here](https://www.livescience.com/40135-photographer-rick-brandt-lake-natron.html).
 
 ### Roper River, Tanzania (Enhanced False Color)
 
-Description
+Over 1000 km long Roper river's immense irrigation potential is being considered. Using powerful northern rivers is expected to create numerous jobs and greatly contribute to agricultural development and sustainability. However, some worry the project would require a million hectares of the catchment area to be bulldozed for irrigation agriculture, as well as a dam to be built, which could significantly dry the river up. As the impact on the economy is compelling, the project continues regardless. Read more on the [Roper river catchment area](web.archive.org/web/20150401172739/http://lrm.nt.gov.au/) and more on the project [here](www.irrigationaustralia.com.au/news/water-its-our-dam-shame) and [here].
 
 ### Algae Blooms of Don River, Russia (Water Quality Viewer)
 
