@@ -8,7 +8,7 @@ Following is a set of pins which are all connected to the topic Snow and Glacier
 
 ### Khatanga Gulf, Russia (Agriculture 11,8,2)
 
-Description
+The narrow, 220 km wide Khatanga gulf is believed to hold 9.5 billion tons of geological reserves. Despite being one of the least accessible areas in the Russian Arctic, with the nearest 2.500 population Khatanga town 350 km away, oil industry development of the area is being considered. [Learn more.](https://bit.ly/2JQT31o)
 
 ### Bear Glacier, Alaska (Highlight Optimized Natural Color)
 
