@@ -6,86 +6,57 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 
 ## Included pins 
 
-### High CO concentrations, Ghana
+### CO
 
-Description
+- **High CO concentrations, Ghana**
 
-### High CO concentrations, Thailand
+- **High CO concentrations, Thailand**
 
-Description
+- **High CO concentrations, Australia**
 
-### High CO concentrations, Australia
+- **High CO concentrations, Angola, DR Kongo**
 
-Description
+- **Low CO concentrations, Switzerland**
 
-### High CO concentrations, Angola, DR Kongo
+### NO2
 
-Description
+- **High NO2 concentrations, India**
 
-### Low CO concentrations, Switzerland
+- **High NO2 concentrations, Poland**
 
-Description
+- **High NO2 concentrations, Johannesburg**
 
-### High NO2 concentrations, India
+- **High NO2 concentrations, Riyadh, Kuwait and Dubai**
 
-Description
+### CH4
 
-### High NO2 concentrations, Poland
+- **High CH4 concentrations, Turkmenistan
 
-Description
+- **High CH4 concentrations, Burkina Faso
 
-### High NO2 concentrations, Johannesburg
+### SO2
 
-Description
+- **High SO2 concentrations, Europe**
 
-### High NO2 concentrations, Riyadh, Kuwait and Dubai
+- **High SO2 concentrations, Italy**
 
-Description
+- **High O3 concentrations, Kamchatka**
 
-### High CH4 concentrations, Turkmenistan
+### HCHO
 
-Description
+- **High HCHO concentrations, Ghana**
 
-### High CH4 concentrations, Burkina Faso
+- **High HCHO concentrations, China**
 
-Description
+### AER
 
-### High SO2 concentrations, Europe
+- **High AER concentrations, Australia**
 
-Description
+- **High AER concentrations, Chad**
 
-### High SO2 concentrations, Italy
-
-Description
-
-### High O3 concentrations, Kamchatka
-
-Description
-
-### High HCHO concentrations, Ghana
-
-Description
-
-### High HCHO concentrations, China
-
-Description
-
-### High AER concentrations, Australia
-
-Description
-
-### High AER concentrations, Chad
-
-Description
-
-### High AER concentrations, Mauretania
-
-Description
+- **High AER concentrations, Mauretania**
 
 ### Cloud Optical Thickness
 
-Description
-
 ### Cloud Base Pressure
 
-Description
