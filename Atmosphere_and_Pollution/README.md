@@ -6,7 +6,7 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 
 ## Included pins 
 
-### CO
+### Carbon Monoxide - CO
 
 - **High CO concentrations, Ghana**
 
@@ -18,7 +18,7 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 
 - **Low CO concentrations, Switzerland**
 
-### NO2
+### Nitrogen Dioxide - NO2
 
 - **High NO2 concentrations, India**
 
@@ -28,13 +28,13 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 
 - **High NO2 concentrations, Riyadh, Kuwait and Dubai**
 
-### CH4
+### Methane - CH4
 
 - **High CH4 concentrations, Turkmenistan
 
 - **High CH4 concentrations, Burkina Faso
 
-### SO2
+### Sulphur Dioxide - SO2
 
 - **High SO2 concentrations, Europe**
 
@@ -42,13 +42,13 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 
 - **High O3 concentrations, Kamchatka**
 
-### HCHO
+### Formaldehyde - HCHO
 
 - **High HCHO concentrations, Ghana**
 
 - **High HCHO concentrations, China**
 
-### AER
+### Aerosol - AER
 
 - **High AER concentrations, Australia**
 
@@ -57,6 +57,8 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 - **High AER concentrations, Mauretania**
 
 ### Cloud Optical Thickness
+
+The [optical thickness of a cloud](https://cloudatlas.wmo.int/en/optical-thickness.html) is the degree to which the cloud prevents light from passing through it. By measuring how much sunlight gets scattered by clouds back up into space, scientists can better understand how much [clouds influence Earth's climate](https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MYDAL2_M_CLD_OT). It depends on the clouds [physical constitution](http://glossary.ametsoc.org/wiki/Optical_thickness) (crystals, drops, droplets), and form; the overall effect depends on the particles concentration, scatter parameter and phase function, as well as the vertical extent of the cloud. 
 
 ### Cloud Base Pressure
 
