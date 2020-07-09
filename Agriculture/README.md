@@ -36,7 +36,8 @@ Description
 
 ### Agriculture along the Nile river (EVI)
 
-Description
+Due to fertile soils and regular floodings, the Nile river basin has supported agriculture for thousands of years. Close to 90 per cent of the land currently used for agriculture is under rainfed farming systems (farming systems, that rely on rainfall). These systems are characterized by subsistence-level production and low yields of crops and livestock. There is about 5.6 million hectares of land under irrigation or equipped with irrigation facilities in
+the Nile Basin. A large proportion – 97 per cent – of the land is located in Egypt and The Sudan. Three countries – Egypt, Tanzania, and Uganda – produce large quantities of fish, but the freshwater fisheries resources of the basin are showing signs of being overfished. The top three crops grown in the basin are wheat, fodder and maize. Livestock farming is also thriving, Ethiopia leading with more than 50 million heads of cattle. Read more [here](http://nileis.nilebasin.org/system/files/Nile%20SoB%20Report%20Chapter%205%20-%20Agriculture.pdf).
 
 ### Agriculture in Zambia (Enhanced True Color)
 
