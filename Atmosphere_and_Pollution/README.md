@@ -62,5 +62,5 @@ The [optical thickness of a cloud](https://cloudatlas.wmo.int/en/optical-thickne
 
 ### Cloud Base Pressure
 
-Cloud Base Pressure represents the [average pressure at the base of the lowest cloud layer at each location](https://isccp.giss.nasa.gov/cloudtypes.html). 
+Cloud Base Pressure represents the [average pressure at the base of the lowest cloud layer at each location](https://isccp.giss.nasa.gov/cloudtypes.html). A [cloud base](https://en.wikipedia.org/wiki/Cloud_base) (or the base of the cloud) is the lowest altitude of the visible portion of a cloud. It can be expressed as the pressure level corresponding to this altitude in hectopascals (hPa, equivalent to the millibar).
 
