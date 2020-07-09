@@ -36,7 +36,8 @@ Description
 
 ### Barrier Reef, New Caledonia (Enhanced True Color)
 
-Description
+fBarrier reef of New Caledonia](https://whc.unesco.org/en/list/1115/) is protected as a UNESCO World heritage site, due to its outstanding coral reef biodiversity and lagoon beauty. It is comprised of six marine clusters and is one of the three most extensive reef systems in the world. The ecosystems are intact, with healthy populations of great diversity. They provide habitat to a number of emblematic or threatened marine species such as turtles, whales or dugongs whose population is the third largest in the world.
+Varied Barrier reef landscape ranges from extensive double barrier systems, offshore reefs and coral islands, to the near-shore reticulate reef formations. This beauty continues below the surface with dramatic displays of coral diversity, massive coral structures, together with arches, caves and major fissures in the reefs.
 
 ### Coastal waves, Tyrrhenian Sea
 
