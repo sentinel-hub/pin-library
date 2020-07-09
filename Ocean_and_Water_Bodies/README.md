@@ -10,8 +10,8 @@ Following is a set of pins which are all connected to the topic Ocean and Water 
 
 [<img src="fig/Betsiboka_River_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50082273238/in/album-72157714991542468/)A beautiful Betsiboka river delta is a dramatic example of massive deforestation, that occurs in Madagascar every year. One of the biggest culprits is the slash and burn agriculture, called [tavy](https://www.madamagazine.com/en/english-tavy-kahlschlag-einer-insel/), where the forest is burnt and then farmed in the following months. The other deforestation causes include grazing, logging and production of coal. The forest grows back after being cut down, but until then, the barren soil is vulnerable to erosion by heavy rains, depositing it into rivers, which carry it into the sea, contaminating sea life with deposited iron oxides. As soil formation is a process taking thousands of years, it erodes away each year, until it can no longer support a forest. Due to these processes, Madagascar has already lost [80 % of its primary forests](https://www.eoi.es/blogs/guidopreti/2014/02/04/deforestation-in-madagascar-a-threat-to-its-biodiversity/), causing many indigenous species, such as [lemurs](https://monkeysandmountains.com/lemurs-madagascar/), to be endangered.
 
-**Low sedimentation flow (False Color)**
-**Heavy sedimentation flow (False Color)**
+- **Low sedimentation flow (False Color)**
+- **Heavy sedimentation flow (False Color)**
 
 ### Lake Natron, Tanzania
 
