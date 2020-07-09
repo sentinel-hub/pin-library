@@ -62,3 +62,5 @@ The [optical thickness of a cloud](https://cloudatlas.wmo.int/en/optical-thickne
 
 ### Cloud Base Pressure
 
+Cloud Base Pressure represents the [average pressure at the base of the lowest cloud layer at each location](https://isccp.giss.nasa.gov/cloudtypes.html). 
+
