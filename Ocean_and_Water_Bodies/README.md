@@ -40,10 +40,10 @@ Lake Mackay or Wilkinkarra (in [Pitjantjatjara](https://ulurutoursaustralia.com.
 ### Shark Bay, Australia (True Color/Water Quality Viewer)
 
 - **True Color Visualization**\
-[<img src="fig/shark_bay_quality_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50096741223/in/album-72157715042342946/)
+[<img src="fig/shark_bay_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50096741223/in/album-72157715042342946/)
 
 - **Water Quality Viewer Visualization**\
-[<img src="fig/shark_bay_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50096780413/in/album-72157715042342946/)
+[<img src="fig/shark_bay_quality_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50096780413/in/album-72157715042342946/)
 
 ### Barrier Reef, New Caledonia (Enhanced True Color)
 [<img src="fig/barrier_reef_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50097616942/in/album-72157715042342946/)
