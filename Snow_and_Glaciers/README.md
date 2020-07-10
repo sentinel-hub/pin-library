@@ -21,10 +21,12 @@ Following is a set of pins which are all connected to the topic Snow and Glacier
 ### Erebus Ice Tongue, Antarctica (Enhanced true color)
 [<img src="fig/erebus_ice_tongue_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096769862/in/album-72157715040686668/)
 Description
-.
-.
-.
-.
+-
+-
+-
+-
+-
+
 ### Sermeq Kujalleq Glacier, Greenland (Highlight Optimized Natural Color)
 [<img src="fig/sermeq_kujalleq_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657770236/in/album-72157715040686668/)
 Description
