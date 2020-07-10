@@ -12,9 +12,10 @@ A beautiful Betsiboka river delta is a dramatic example of massive deforestation
 
 - **Low sedimentation flow (False Color)**
 [<img src="fig/betsiboka_low_thumbnail.jpg" align="left" width="240">](https://www.flickr.com/photos/sentinelhub/31984210167/in/album-72157715042342946/)
-<br>
+</br>
 - **Heavy sedimentation flow (False Color)**
 [<img src="fig/betsiboka_high_thumbnail.jpg" align="left" width="240">](https://www.flickr.com/photos/sentinelhub/46200454534/in/album-72157715042342946/)
+</br>
 
 ### Lake Natron, Tanzania
 [<img src="fig/natron_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49378677431/in/album-72157715042342946/)
