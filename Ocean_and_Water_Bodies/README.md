@@ -22,7 +22,7 @@ Natron is a fascinating lake, deadly to most animals, that are not accustomed to
 Despite the harsh ecosystem, some species survive here. On its shores, flocks of flamingos, which have evolved leathery skin to tolerate the water, find a safe nesting place, as predators avoid the area. The stunning red color is caused by cyanobacteria, that thrive in the dry season, as salinity rises due to evaporation. Read more [here](https://www.smithsonianmag.com/travel/flamingos-find-life-among-death-180959265/), [here](https://earthobservatory.nasa.gov/images/90191/lake-natron-tanzania" rel="noreferrer nofollow) and [here](https://www.livescience.com/40135-photographer-rick-brandt-lake-natron.html).
 
 ### Roper River, Tanzania (Enhanced False Color)
-[<img src="fig/roper_river_thumbnaill.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49263368336/in/album-72157715042342946/)
+[<img src="fig/roper_river_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49263368336/in/album-72157715042342946/)
 Over 1000 km long Roper river's immense irrigation potential is being considered. Using powerful northern rivers is expected to create numerous jobs and greatly contribute to agricultural development and sustainability. However, some worry the project would require a million hectares of the catchment area to be bulldozed for irrigation agriculture, as well as a dam to be built, which could significantly dry the river up. As the impact on the economy is compelling, the project continues regardless. Read more on the [catchment area](https://web.archive.org/web/20150401172739/http://lrm.nt.gov.au/__data/assets/pdf_file/0003/20766/overview4.pdf) and more on the project [here](https://www.irrigationaustralia.com.au/news/water-its-our-dam-shame) and [here](https://www.topendcoasts.org.au/concern_for_the_roper_river_abc_country_hour).
 
 ### Algae Blooms of Don River, Russia (Water Quality Viewer)
@@ -44,10 +44,10 @@ Lake Mackay or Wilkinkarra (in [Pitjantjatjara](https://ulurutoursaustralia.com.
 -
 -
 
-- **True Color Visualization**
+- **True Color Visualization**\
 [<img src="fig/shark_bay_quality_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50096741223/in/album-72157715042342946/)
 
-- **Water Quality Viewer Visualization**
+- **Water Quality Viewer Visualization**\
 [<img src="fig/shark_bay_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50096780413/in/album-72157715042342946/)
 
 ### Barrier Reef, New Caledonia (Enhanced True Color)
