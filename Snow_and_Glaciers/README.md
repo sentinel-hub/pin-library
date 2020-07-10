@@ -30,29 +30,29 @@ Description
 ### Sermeq Kujalleq Glacier, Greenland (Highlight Optimized Natural Color)
 [<img src="fig/sermeq_kujalleq_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657770236/in/album-72157715040686668/)
 Description
-.
-.
-.
-.
-.
+-
+-
+-
+-
+-
 
 ### Glaciers of western Greeenland (Enhanced Agriculture 11,8,2)
 [<img src="fig/glaciers_greenland_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096557146/in/album-72157715040686668/)
 Description
-.
-.
-.
-.
-.
+-
+-
+-
+-
+-
 
 ### Helheim Glacier, Greeenland (Enhanced true color)
 [<img src="fig/helheim_glacier_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096599356/in/album-72157715040686668/)
 Description
-.
-.
-.
-.
-.
+-
+-
+-
+-
+-
 
 ### Byrd Glacier, Antarctica (Highlight Optimized Natural Color)
 
@@ -61,29 +61,30 @@ Description
 ### Mountains of New Zealand (Snow Classifier)
 [<img src="fig/mountains_new_zealand.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096638401/in/album-72157715040686668/)
 Description
-.
-.
-.
-.
-.
+Description
+-
+-
+-
+-
+-
 
 ### Mountain Rivers, New Zealand (False Color)
 [<img src="fig/mountain_rivers_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096896927/in/album-72157715040686668/)
 Description
-.
-.
-.
-.
-.
+-
+-
+-
+-
+-
 
 ### Frozen Lakes of Himalayas
 [<img src="fig/himalayas_lakes_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096912287/in/album-72157715040686668/)
 Description
-.
-.
-.
-.
-.
+-
+-
+-
+-
+-
 
 ### Winter landscape, Canada
 [<img src="fig/canada_snowy_landscape_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49560588416/in/album-72157715040686668/)
