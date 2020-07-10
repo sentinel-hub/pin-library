@@ -24,11 +24,8 @@ An ice tongue is a natural phenomenon, which occurs when a valley glacier moves 
 
 ### Sermeq Kujalleq Glacier, Greenland (Highlight Optimized Natural Color)
 [<img src="fig/sermeq_kujalleq_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657770236/in/album-72157715040686668/)
--
--
--
--
--
+[Sermeq Kujalleq](https://www.atlasobscura.com/articles/worlds-fastest-glacier-sermeq-kujalleq), also called Jakobshavn glacier, is known as the world’s fastest glacier. Like rivers, glaciers are constantly flowing, pushed forward by the weight of their own ice. This one travels an average of 130 feet in 24 hours and calves more than 11 cubic miles of icebergs each year into the Ilulissat Icefjord. 
+Its front is an enormous ice wall—stretching 300 feet at its peak, that constantly explodes. Icebergs break off the glacier accompanied by blasts and roars akin to a rocket launch. When they hit the sea below, the calved icebergs can create huge waves that threaten to swallow people, boats, and buildings. The icebergs from Sermeq Kujalleq have crashed so violently that they have even caused earthquakes. Because the glacier is so large, the break seems to occur in “slow motion.” 
 
 ### Glaciers of western Greeenland (Enhanced Agriculture 11,8,2)
 [<img src="fig/glaciers_greenland_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096557146/in/album-72157715040686668/)
