@@ -20,7 +20,6 @@ Following is a set of pins which are all connected to the topic Snow and Glacier
 
 ### Erebus Ice Tongue, Antarctica (Enhanced true color)
 [<img src="fig/erebus_ice_tongue_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096769862/in/album-72157715040686668/)
-Description
 -
 -
 -
@@ -29,7 +28,6 @@ Description
 
 ### Sermeq Kujalleq Glacier, Greenland (Highlight Optimized Natural Color)
 [<img src="fig/sermeq_kujalleq_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657770236/in/album-72157715040686668/)
-Description
 -
 -
 -
@@ -38,7 +36,6 @@ Description
 
 ### Glaciers of western Greeenland (Enhanced Agriculture 11,8,2)
 [<img src="fig/glaciers_greenland_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096557146/in/album-72157715040686668/)
-Description
 -
 -
 -
@@ -47,7 +44,6 @@ Description
 
 ### Helheim Glacier, Greeenland (Enhanced true color)
 [<img src="fig/helheim_glacier_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096599356/in/album-72157715040686668/)
-Description
 -
 -
 -
@@ -60,8 +56,6 @@ Description
 
 ### Mountains of New Zealand (Snow Classifier)
 [<img src="fig/mountains_new_zealand.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096638401/in/album-72157715040686668/)
-Description
-Description
 -
 -
 -
@@ -70,7 +64,6 @@ Description
 
 ### Mountain Rivers, New Zealand (False Color)
 [<img src="fig/mountain_rivers_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096896927/in/album-72157715040686668/)
-Description
 -
 -
 -
@@ -79,7 +72,6 @@ Description
 
 ### Frozen Lakes of Himalayas
 [<img src="fig/himalayas_lakes_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096912287/in/album-72157715040686668/)
-Description
 -
 -
 -
