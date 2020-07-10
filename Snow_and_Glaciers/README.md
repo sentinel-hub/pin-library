@@ -20,19 +20,28 @@ Following is a set of pins which are all connected to the topic Snow and Glacier
 
 ### Erebus Ice Tongue, Antarctica (Enhanced true color)
 [<img src="fig/erebus_ice_tongue_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096769862/in/album-72157715040686668/)
-Description
+An ice tongue is a natural phenomenon, which occurs when a valley glacier moves very rapidly out into he sea or a lake. [The Erebus ice tongue glacier](https://earthobservatory.nasa.gov/images/4965/erebus-ice-tongue) in Antarctica comes down from Mt. Erebus and protrudes off the coast of Ross Island, forming an 11-12 km long ice tongue—a long and narrow sheet of ice projecting out from the coastline. When the sea ice in McMurdo Sound thaws in the summer, the ice tongue floats on the water without thawing. It also calves off in places forming icebergs. The Erebus Ice Tongue is only about 10 meters high, so its icebergs are small. When the ice around the tongue melts in the summer, waves of sea water constantly batter the edges of the tongue, carving very elaborate structures in the ice, sometimes producing deep caves at the margins. In the winter, the sea freezes once more around these new shapes.
 
 ### Sermeq Kujalleq Glacier, Greenland (Highlight Optimized Natural Color)
 [<img src="fig/sermeq_kujalleq_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657770236/in/album-72157715040686668/)
-Description
+[Sermeq Kujalleq](https://www.atlasobscura.com/articles/worlds-fastest-glacier-sermeq-kujalleq), also called Jakobshavn glacier, is known as the world’s fastest glacier. It travels an average of 130 feet in 24 hours and calves more than 45 cubic kilometers of icebergs each year into the Ilulissat Icefjord. 
+Its front is an enormous ice wall—stretching 91 meters at its peak, that constantly explodes. Icebergs break off the glacier accompanied by blasts and roars akin to a rocket launch. When they hit the sea below, the calved icebergs can create huge waves that threaten to swallow people, boats, and buildings. The icebergs from Sermeq Kujalleq have crashed so violently that they have even caused earthquakes. Because the glacier is so large, the breaks seem to occur in “slow motion.” 
 
 ### Glaciers of western Greeenland (Enhanced Agriculture 11,8,2)
 [<img src="fig/glaciers_greenland_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096557146/in/album-72157715040686668/)
-Description
+-
+-
+-
+-
+-
 
 ### Helheim Glacier, Greeenland (Enhanced true color)
 [<img src="fig/helheim_glacier_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096599356/in/album-72157715040686668/)
-Description
+-
+-
+-
+-
+-
 
 ### Byrd Glacier, Antarctica (Highlight Optimized Natural Color)
 
@@ -40,15 +49,27 @@ Description
 
 ### Mountains of New Zealand (Snow Classifier)
 [<img src="fig/mountains_new_zealand.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096638401/in/album-72157715040686668/)
-Description
+-
+-
+-
+-
+-
 
 ### Mountain Rivers, New Zealand (False Color)
 [<img src="fig/mountain_rivers_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096896927/in/album-72157715040686668/)
-Description
+-
+-
+-
+-
+-
 
 ### Frozen Lakes of Himalayas
 [<img src="fig/himalayas_lakes_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096912287/in/album-72157715040686668/)
-Description
+-
+-
+-
+-
+-
 
 ### Winter landscape, Canada
 [<img src="fig/canada_snowy_landscape_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49560588416/in/album-72157715040686668/)
