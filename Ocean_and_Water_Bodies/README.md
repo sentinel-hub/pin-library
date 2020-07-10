@@ -38,11 +38,6 @@ Over 1000 km long Roper river's immense irrigation potential is being considered
 Lake Mackay or Wilkinkarra (in [Pitjantjatjara](https://ulurutoursaustralia.com.au/blog/the-culture-and-heritage-of-the-pitjantjatjara-in-central-australia/)) is the fourth largest lake in Australia, covering an area of  3494 km<sup>2</sup>. The particularity of this water body is that being an [ephemeral lake](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/ephemeral-lake), it only fills with water after seasonal rainfall, although water can persist for several months after a major rain event.  When inundated, the lake is of significant importance for [endemic waterbird populations]([http://www.epa.wa.gov.au/sites/default/files/Referral_Documentation/App%20B.3_Waterbird%20Survey%20at%20Lake%20Mackay.pdf](http://www.epa.wa.gov.au/sites/default/files/Referral_Documentation/App B.3_Waterbird Survey at Lake Mackay.pdf)), who use the freshwater [claypans](https://www.merriam-webster.com/dictionary/claypan) as breeding grounds. Due to evaporation, minerals are carried to the surface, forming bright white salt pans that contrast with the darker brown islands scattered across the eastern half of the lake. On these islands and around the shoreline, bright orange longitudinal sand ridges form stunning lines from east to west across the landscape. 
 
 ### Shark Bay, Australia (True Color/Water Quality Viewer)
--
--
--
--
--
 
 - **True Color Visualization**\
 [<img src="fig/shark_bay_quality_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50096741223/in/album-72157715042342946/)
