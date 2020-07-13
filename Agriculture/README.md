@@ -49,7 +49,7 @@ Description
 
 ### Agriculture in Limpopo (Enhanced True Color)
 
-South African agriculture's biggest challenge is the absence of water since rainfall doesn't come regularly. Hence, many agricultural fields are irrigated, helping make Limpopo an important part of the country's agriculture.
+[<img src="fig/Limpopo_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49101283122/in/dateposted/) South African agriculture's biggest challenge is the absence of water since rainfall doesn't come regularly. Hence, many agricultural fields are irrigated, helping make Limpopo an important part of the country's agriculture.
 
 ### Agriculture in Cambodia (False Color 11,8,2)
 
