@@ -22,9 +22,9 @@ Following is a set of pins which are all connected to the topic Vegetation and F
 
 [Mangrove forests](https://oceanservice.noaa.gov/facts/mangroves.html) have exceptionally high biodiversity and are indispensable in erosion reduction. There are 80 different species of mangrove trees known, growing in low-oxygen soil, where slow moving waters accumulate fine sediments for the roots to grow in. [Sundarbans Mangrove forest](https://whc.unesco.org/en/list/798/) covers 140.000 ha of land, making it one of the largest Mangrove forests in the world. It provides livelihood to many people living in the area and is a home to, among others, 250 bird species and an endangered Royal Bengal Tiger. The forest is threatened by seasonal monsoons, cyclones and tidal waves, which cause salinization.
  
-[<img src="fig/Sundarbans_EVI_thumbnail.jpg" alignt="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/dateposted/)*Sentinel-2 EVI*
+[<img src="fig/Sundarbans_EVI_thumbnail.jpg" alignt="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/dateposted/)***Sentinel-2 EVI***
 
-[<img src="fig/Sundarbans_OTCI_thumbnail.jpg" alignt="left" width="240">](https://www.flickr.com/photos/sentinelhub/49658220567/in/dateposted/)*Sentinel-3 OTCI*
+[<img src="fig/Sundarbans_OTCI_thumbnail.jpg" alignt="left" width="240">](https://www.flickr.com/photos/sentinelhub/49658220567/in/dateposted/)***Sentinel-3 OTCI***
 
 ### Russian Taiga (EVI)
 
