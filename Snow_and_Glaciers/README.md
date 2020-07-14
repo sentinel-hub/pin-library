@@ -29,7 +29,7 @@ Its front is an enormous ice wall—stretching 91 meters at its peak, that const
 
 ### Glaciers of western Greeenland (Enhanced Agriculture 11,8,2)
 [<img src="fig/glaciers_greenland_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096557146/in/album-72157715040686668/) 
-On Greenland’s western shore numerous glaciers enter the Baffin Bay. Several of them find their way to the bay via the Upernavik Icefjord which can be seen on the image. The biggest glacier is named Upernavik from which the fjord’s name was derived. Until 1980 the glacier consisted of one main termini but with its retread since then it has four main calving termini today [more]( https://blogs.agu.org/fromaglaciersperspective/2017/05/30/upernavik/).
+On Greenland’s western shore numerous glaciers enter the Baffin Bay. Several of them find their way to the bay via the Upernavik Icefjord which can be seen on the image. The biggest glacier is the  Upernavik glacier from which also the fjord’s name was derived. Until 1980 the glacier consisted of one main termini but with its retread since then it has four main calving termini today [more]( https://blogs.agu.org/fromaglaciersperspective/2017/05/30/upernavik/).
 
 ### Helheim Glacier, Greeenland (Enhanced true color)
 [<img src="fig/helheim_glacier_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096599356/in/album-72157715040686668/)
