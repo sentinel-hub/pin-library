@@ -14,7 +14,11 @@ Mismanagement of the water resources, combined with 3 years of deficient monsoon
 Additionally, the groundwater aquifer was drained beyond its usual recovering capability threshold because residents reverted to groundwater extraction via [bore wells](https://www.indiawaterportal.org/topics/borewells-and-tubewells).
 The three *Sentinel-2 L2A*-based Moisture index images from before, while and after the drought, show the desiccation of the Red Hills Reservoir over the heat period in 2019 with a clearly retreating water line. [Further reading](https://www.nationalgeographic.com/environment/2019/07/india-water-crisis-drought-could-be-helped-better-building-planning/)
 
-Before/During/After the drought (Moisture Index)
+[<img src="fig/test_image_1.jpg" alignt="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/dateposted/)***test_1***
+
+[<img src="fig/test_image_2.jpg" alignt="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/dateposted/)***test_2***
+
+[<img src="fig/test_image_3.jpg" alignt="right" width="240">](https://www.flickr.com/photos/sentinelhub/50083279617/in/dateposted/)***test_3***
 
 ### Bangladesh Floods
 
