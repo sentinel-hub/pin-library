@@ -17,7 +17,7 @@ Following is a set of pins which are all connected to the topic wildfires. Each 
 - **Atmospheric Penetration**
 - **BAI**
 - **CO**
-- **NO"**
+- **NO2**
 - **Temperature**
 
 Description
