@@ -40,12 +40,7 @@ Located in the southeast of Greenland the Helheim glacier is the fastest flowing
 [<img src="fig/byrd_glacier_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096038658/in/album-72157715040686668/)[Byrd Glacier](https://earthobservatory.nasa.gov/images/7544/byrd-glacier-antarctica) is one of the largest fast-flowing glaciers in Antarctica. Ice flows from the East Antarctic plateau into the Ross ice shelf at a rate of ~800 m per year along the centre line of this ~20 km wide and ~100 km long glacier. Distinct longitudinal flow stripes are clearly visible from space where the ice is funnelled between the [Transantarctic Mountains](https://www.britannica.com/place/Transantarctic-Mountains). Similarly to other Antarctic glaciers, Byrd Glacier is [vulnerable to warming temperatures](https://insideclimatenews.org/news/12112019/antarctica-ice-shelf-melt-atmospheric-river-thwaites-glacier-ocean-sea-level-rise) that lead to an acceleration of the ice flow, with disastrous effects on sea-level rise.
 
 ### Mountains of New Zealand (Snow Classifier)
-[<img src="fig/mountains_new_zealand.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096638401/in/album-72157715040686668/)
--
--
--
--
--
+[<img src="fig/mountains_new_zealand.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096638401/in/album-72157715040686668/) The mountains around Lake Te Anau (west) and Lake Wakatipu (east) on New Zealand’s South Island are located in the Fiorland National Park. Lake Te Anau is home to the only inland fjords in New Zealand originating from the time when the mountain’s glaciers were still reaching far down the valleys. Today covered with snow in winter these more than 2000 m high peaks are a popular destination for tracking and mountaineering [more](http://www.teanau.net.nz/Mountains). They are also home to an almost extinct bird species called [takahe](http://www.teanau.net.nz/See-a-takahe). 
 
 ### Mountain Rivers, New Zealand (False Color)
 [<img src="fig/mountain_rivers_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096896927/in/album-72157715040686668/)
