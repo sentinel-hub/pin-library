@@ -6,18 +6,6 @@ Following is a set of pins which are all connected to the topic Vegetation and F
 
 ## Included pins 
 
-### Forestry in Indonesia, 2018 (Barren soil)
-
-[<img src="fig/Forestry_in_Indonesia_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50098150702/in/photostream/) Description
-
-### Forestry in Central African Republic, February (False color 11,8,2)
-
-[<img src="fig/Forestry_in_Central_African_Republic_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50097259623/in/photostream/) Description
-
-### Forestry; Indonesian rainforest (ARVI)
-
-[<img src="fig/Indonesia_Rainforest_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50098118502/in/photostream/) Description
-
 ### Sundarbans, Mangrove forest 
 
 [Mangrove forests](https://oceanservice.noaa.gov/facts/mangroves.html) have exceptionally high biodiversity and are indispensable in erosion reduction. There are 80 different species of mangrove trees known, growing in low-oxygen soil, where slow moving waters accumulate fine sediments for the roots to grow in. [Sundarbans Mangrove forest](https://whc.unesco.org/en/list/798/) covers 140.000 ha of land, making it one of the largest Mangrove forests in the world. It provides livelihood to many people living in the area and is a home to, among others, 250 bird species and an endangered Royal Bengal Tiger. The forest is threatened by seasonal monsoons, cyclones and tidal waves, which cause salinization.

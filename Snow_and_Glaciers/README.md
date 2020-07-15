@@ -42,22 +42,6 @@ Located in the southeast of Greenland the Helheim glacier is the fastest flowing
 ### Mountains of New Zealand (Snow Classifier)
 [<img src="fig/mountains_new_zealand.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096638401/in/album-72157715040686668/) The mountains around Lake Te Anau (west) and Lake Wakatipu (east) on New Zealand’s South Island are located in the Fiorland National Park. Lake Te Anau is home to the only inland fjords in New Zealand originating from the time when the mountain’s glaciers were still reaching far down the valleys. Today covered with snow in winter these more than 2000 m high peaks are a popular destination for tracking and mountaineering [more](http://www.teanau.net.nz/Mountains). They are also home to an almost extinct bird species called [takahe](http://www.teanau.net.nz/See-a-takahe). 
 
-### Mountain Rivers, New Zealand (False Color)
-[<img src="fig/mountain_rivers_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096896927/in/album-72157715040686668/)
--
--
--
--
--
-
-### Frozen Lakes of Himalayas
-[<img src="fig/himalayas_lakes_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096912287/in/album-72157715040686668/)
--
--
--
--
--
-
 ### Winter landscape, Canada
 [<img src="fig/canada_snowy_landscape_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49560588416/in/album-72157715040686668/)
 A winter landscape of the [Christina Lake Oil Sands Factory](https://www.cenovus.com/operations/oilsands/christina-lake.html). The factory uses specialized technology to drill and pump the oil from 375 meters deep underground. The project is expected to last for more than 30 years and produces 210.000 barrels of oil per day. In winter, the lakes are covered by snow, giving them a surreal white color. 
