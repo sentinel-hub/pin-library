@@ -1,6 +1,6 @@
 # Monitoring Earth from Space
 
-[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=3c138a4c-45a2-4e2d-aa77-14416f899f4d){:target="_blank"} pins directly into EO Browser or [download](Monitoring_Earth_from_Space.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
+[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=64fdf554-5210-4e0a-b324-fabd2cdfc297){:target="_blank"} pins directly into EO Browser or [download](Monitoring_Earth_from_Space.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
 Following is a set of pins which are all connected to the topic Monitoring Earth from Space. It is a meant as a starting point to explore what remote sensing data can do. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.
 
