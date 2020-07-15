@@ -39,6 +39,8 @@ Lake Mackay or Wilkinkarra (in [Pitjantjatjara](https://ulurutoursaustralia.com.
 
 ### Shark Bay, Australia (True Color/Water Quality Viewer)
 
+Located 800 km north of Perth in the Indian Ocean, Shark Bay is a unique [UNESCO World Heritage](https://whc.unesco.org/en/about/) site. The bay is renown for having the largest [seagrass](https://ocean.si.edu/ocean-life/plants-algae/seagrass-and-seagrass-beds) meadow in the world (~4000 km<sup>2</sup>), forming a feeding ground for large populations of aquatic life, including [dugong](https://www.worldwildlife.org/species/dugong). The seagrass can be seen from space in the shallower areas of the bay, contrasting strongly with the dark brown sand on the surrounding land. The water in Shark Bay is up to twice as salty as the sea, forming one of few marine environments in the world with [hypersaline waters](https://www.sharkbay.org/nature/geology/salinity/) and hosts [stromatolites](https://www.bushheritage.org.au/species/stromatolites), colonies of algae that build mounds and are among the oldest forms of life on earth. 
+
 [<img src="fig/shark_bay_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50096741223/in/album-72157715042342946/)
 ***True Color Visualization***
 
