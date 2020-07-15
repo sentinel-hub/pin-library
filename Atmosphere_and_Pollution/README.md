@@ -54,9 +54,7 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 
 ### Aerosol - AER
 
-<img src="fig/Aerosol_Australia_thumbnail.jpg" align="right" width="240"> The Aerosol Index (AI) is a qualitative index indicating the presence of elevated layers of aerosols in the atmosphere.
-
-The main aerosol types that cause signals detected in the AI (because of their significant absorption) are desert dust, biomass burning and volcanic ash plumes. An advantage of the AI is that it can be derived for clear as well as (partly) cloudy ground pixels. [More...](https://earth.esa.int/web/sentinel/technical-guides/sentinel-5p/level-2/aerosol-index)
+<img src="fig/Aerosol_Australia_thumbnail.jpg" align="right" width="240"> The Aerosol Index (AI) is a qualitative index indicating the presence of elevated layers of aerosols in the atmosphere. The main aerosol types that cause signals detected in the AI (because of their significant absorption) are desert dust, biomass burning and volcanic ash plumes. An advantage of the AI is that it can be derived for clear as well as (partly) cloudy ground pixels. [More...](https://earth.esa.int/web/sentinel/technical-guides/sentinel-5p/level-2/aerosol-index)
 
 - **High AER concentrations, Australia**
 - **High AER concentrations, Chad**
