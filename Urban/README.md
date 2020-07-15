@@ -101,7 +101,7 @@ Description
 
 ### Giza, Egypt
 
-Description
+Giza, located within the [Greater Cairo metropolitan area](http://www.newgeography.com/content/002901-the-evolving-urban-form-cairo), is the third-largest city in Egypt with 9 million inhabitants. The city is famous for its archaeological sites, in particular the [Great Sphinx](https://www.britannica.com/topic/Great-Sphinx) and the [Giza Pyramid Complex](https://www.nationalgeographic.com/history/archaeology/giza-pyramids/), which includes the Great Pyramid, the only one of the [Seven Wonders of the Ancient World](https://www.ancient.eu/The_Seven_Wonders/) still standing. The Great Pyramids are easily identifiable in satellite images thanks to their shadows cast to the North West contrasting with the brightly illuminated South sides. The distinct delineation between the arid [Sahara desert](https://www.livescience.com/23140-sahara-desert.html) to the West and the city of Cairo, with its green parks and golf courses, to the East is striking. Today, Giza is a rapidly growing region of Cairo, and the soaring population is leading to new construction of housing and roads encroaching on the desert hills.
 
 ### Cadiz, Spain
 
