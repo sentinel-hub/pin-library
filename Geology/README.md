@@ -1,6 +1,6 @@
 # Geology
 
-[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=13e80f06-e4ed-414f-889a-5085c7c895bb){:target="_blank"} pins directly into EO Browser or [download](Geology.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
+[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=dc05bd69-491f-4fd0-8c5d-e54d25f8a5d3){:target="_blank"} pins directly into EO Browser or [download](Geology.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
 Following is a set of pins which are all connected to the topic Geology. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.
 

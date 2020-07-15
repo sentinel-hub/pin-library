@@ -18,20 +18,11 @@ A beautiful Betsiboka river delta is a dramatic example of massive deforestation
 
 ### Lake Natron, Tanzania
 [<img src="fig/natron_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49378677431/in/album-72157715042342946/)
-Natron is a fascinating lake, deadly to most animals, that are not accustomed to its alkaline environment. The dangerously high PH of 10.5 is caused by sodium carbonate flowing in from the surrounding hills, active with volcanism. Sodium carbonate deposits serve as a preservant, calcifying the carcasses of deceased animals. 
-Despite the harsh ecosystem, some species survive here. On its shores, flocks of flamingos, which have evolved leathery skin to tolerate the water, find a safe nesting place, as predators avoid the area. The stunning red color is caused by cyanobacteria, that thrive in the dry season, as salinity rises due to evaporation. Read more [here](https://www.smithsonianmag.com/travel/flamingos-find-life-among-death-180959265/), [here](https://earthobservatory.nasa.gov/images/90191/lake-natron-tanzania" rel="noreferrer nofollow) and [here](https://www.livescience.com/40135-photographer-rick-brandt-lake-natron.html).
+Natron is a fascinating lake, deadly to most animals, that are not accustomed to its alkaline environment. The dangerously high PH of 10.5 is caused by sodium carbonate flowing in from the surrounding hills, active with volcanism. Sodium carbonate deposits serve as a preservant, calcifying the carcasses of deceased animals. Despite the harsh ecosystem, some species survive here. On its shores, flocks of flamingos, which have evolved leathery skin to tolerate the water, find a safe nesting place, as predators avoid the area. The stunning red color is caused by cyanobacteria, that thrive in the dry season, as salinity rises due to evaporation. Read more [here](https://www.smithsonianmag.com/travel/flamingos-find-life-among-death-180959265/), [here](https://earthobservatory.nasa.gov/images/90191/lake-natron-tanzania) and [here](https://www.livescience.com/40135-photographer-rick-brandt-lake-natron.html).
 
 ### Roper River, Tanzania (Enhanced False Color)
 [<img src="fig/roper_river_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49263368336/in/album-72157715042342946/)
 Over 1000 km long Roper river's immense irrigation potential is being considered. Using powerful northern rivers is expected to create numerous jobs and greatly contribute to agricultural development and sustainability. However, some worry the project would require a million hectares of the catchment area to be bulldozed for irrigation agriculture, as well as a dam to be built, which could significantly dry the river up. As the impact on the economy is compelling, the project continues regardless. Read more on the [catchment area](https://web.archive.org/web/20150401172739/http://lrm.nt.gov.au/__data/assets/pdf_file/0003/20766/overview4.pdf) and more on the project [here](https://www.irrigationaustralia.com.au/news/water-its-our-dam-shame) and [here](https://www.topendcoasts.org.au/concern_for_the_roper_river_abc_country_hour).
-
-### Algae Blooms of Don River, Russia (Water Quality Viewer)
-[<img src="fig/algae_blooms_donn_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49658162857/in/album-72157715042342946/)
--
--
--
--
--
 
 ### Salt lake Mackay, Australia
 [<img src="fig/lake_mackay_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50097367736/in/album-72157715042342946/)
@@ -49,13 +40,4 @@ Located 800 km north of Perth in the Indian Ocean, Shark Bay is a unique [UNESCO
 
 ### Barrier Reef, New Caledonia (Enhanced True Color)
 [<img src="fig/barrier_reef_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50097616942/in/album-72157715042342946/)
-[Barrier reef of New Caledonia](https://whc.unesco.org/en/list/1115/) is protected as a UNESCO World heritage site, due to its outstanding coral reef biodiversity and lagoon beauty. It is comprised of six marine clusters and is one of the three most extensive reef systems in the world. The ecosystems are intact, with healthy populations of great diversity. They provide habitat to a number of emblematic or threatened marine species such as turtles, whales or dugongs whose population is the third largest in the world.
-Varied Barrier reef landscape ranges from extensive double barrier systems, offshore reefs and coral islands, to the near-shore reticulate reef formations. This beauty continues below the surface with dramatic displays of coral diversity, massive coral structures, together with arches, caves and major fissures in the reefs.
-
-### Coastal waves, Tyrrhenian Sea
-[<img src="fig/waves_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50097630327/in/album-72157715042342946/)
--
--
--
--
--
+[Barrier reef of New Caledonia](https://whc.unesco.org/en/list/1115/) is protected as a UNESCO World heritage site, due to its outstanding coral reef biodiversity and lagoon beauty. It is comprised of six marine clusters and is one of the three most extensive reef systems in the world. The ecosystems are intact, with healthy populations of great diversity. They provide habitat to a number of emblematic or threatened marine species such as turtles, whales or dugongs whose population is the third largest in the world. Varied Barrier reef landscape ranges from extensive double barrier systems, offshore reefs and coral islands, to the near-shore reticulate reef formations. This beauty continues below the surface with dramatic displays of coral diversity, massive coral structures, together with arches, caves and major fissures in the reefs.
