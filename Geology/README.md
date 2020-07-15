@@ -8,7 +8,7 @@ Following is a set of pins which are all connected to the topic Geology. Each pi
 
 ### Grasberg Open Pit, Indonesia (Geology 12,8,2)
 
-For years the [Grasberg open pit mine](https://courses.lumenlearning.com/geology/chapter/reading-open-pit-mining/)  which forms 1.6km wide crater at the surface, has been one of the most productive mines in the world, with massive reserves of gold and copper. Situated high in the rugged Sudirman Mountains, Papua Indonesia, its [mineralization](https://www.sciencedirect.com/science/article/abs/pii/037567429490023X) extends from the surface at 4,200 m to the deepest drill penetrations at 2,700 m. The gold and copper bearing ore formed millions of years ago when hot magma intruded into sedimentary rock during the uplift of the local mountains.  Since the 1990s, the Grasberg highly sophisticated mining operation  has been busily extracting this ore at staggering [volumes](https://www.mining-technology.com/projects/grasbergopenpit/)  to the tune of  528 billion ounces of copper and 53 million ounces of gold.  It transitioned into an [underground mine](https://www.nsenergybusiness.com/projects/grasberg-block-cave-underground-mine/) in 2019. Unfortunately, the dumping of millions of tons of waste [tailings](https://www.tailings.info/basics/tailings.htm) directly into the nearby [Ajkwa river system](https://earthworks.org/stories/ajkwa-estuary/) has not only devasted aquatic life but also caused a steadily growing floodplain of desolation, killing thousands of hectares of verdant forest and mangroves and continues to leave the locals [counting the cost](https://theinsiderstories.com/indonesia-will-summon-freeport-on-environmental-damage/).  
+[<img src="fig/Grasbergs_Open_Pit_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657209443/in/dateposted/)For years the [Grasberg open pit mine](https://courses.lumenlearning.com/geology/chapter/reading-open-pit-mining/)  which forms 1.6km wide crater at the surface, has been one of the most productive mines in the world, with massive reserves of gold and copper. Situated high in the rugged Sudirman Mountains, Papua Indonesia, its [mineralization](https://www.sciencedirect.com/science/article/abs/pii/037567429490023X) extends from the surface at 4,200 m to the deepest drill penetrations at 2,700 m. The gold and copper bearing ore formed millions of years ago when hot magma intruded into sedimentary rock during the uplift of the local mountains.  Since the 1990s, the Grasberg highly sophisticated mining operation  has been busily extracting this ore at staggering [volumes](https://www.mining-technology.com/projects/grasbergopenpit/)  to the tune of  528 billion ounces of copper and 53 million ounces of gold.  It transitioned into an [underground mine](https://www.nsenergybusiness.com/projects/grasberg-block-cave-underground-mine/) in 2019. Unfortunately, the dumping of millions of tons of waste [tailings](https://www.tailings.info/basics/tailings.htm) directly into the nearby [Ajkwa river system](https://earthworks.org/stories/ajkwa-estuary/) has not only devasted aquatic life but also caused a steadily growing floodplain of desolation, killing thousands of hectares of verdant forest and mangroves and continues to leave the locals [counting the cost](https://theinsiderstories.com/indonesia-will-summon-freeport-on-environmental-damage/)
 
 ### Meteor Crater, Arizona
 
@@ -16,41 +16,17 @@ The Arizona [Meteor Crater](https://www.meteorite.com/meteor-crater/) (Barringer
 
 ### Danakil Depression, Ethiopia (Geology 12,8,2)
 
-Northern Ethiopia’s  [Danakil Depression](https://earthobservatory.nasa.gov/images/84239/curiosities-of-the-danakil-depression), located in Danakil Desert, is one of the [hottest](https://www.autoeurope.co.uk/travel-blog/the-worlds-coldest-and-warmest-places/), driest and lowest places on earth. Parts of the region are more than 100m below sea level, forming a cauldron where temperatures average 34 0C and at times climb to 50 0C. Worse, it only receives 100 to 200mm of rainfall per year. The climate here can only be described as cruel. But against all odds, [people](http://www.bbc.com/earth/story/20160614-the-people-and-creatures-living-in-earths-hottest-place) do live here and for centuries the locals have survived mining and selling [salt blocks](https://www.fairplanet.org/story/the-hottest-place-on-earth-the-salt-mines-of-danakil-depression/) left behind after evaporation. As if the climate was not enough, the region's energetic geology makes it look like an alien land. There are volcanoes with bubbling lava lakes, multi-coloured hydrothermal fields, and great salt pans, all of which manifest themselves in the vibrant combination of yellows, oranges, and reds that make the landscape look equal parts [neon and deadly](https://www.bbc.com/future/article/20170803-in-earths-hottest-place-life-has-been-found-in-pure-acid). It is thought that somewhere in the future this geological depression caused by the drifting of three tectonic plates will have drifted enough that the Red Sea will spill over, drowning this strange landscape into a new ocean. 
+[<img src="fig/Denakil_Depression_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50082066913/in/dateposted/)Northern Ethiopia’s [Danakil Depression](https://earthobservatory.nasa.gov/images/84239/curiosities-of-the-danakil-depression), located in Danakil Desert, is one of the [hottest](https://www.autoeurope.co.uk/travel-blog/the-worlds-coldest-and-warmest-places/), driest and lowest places on earth. Parts of the region are more than 100m below sea level, forming a cauldron where temperatures average 34 0C and at times climb to 50 0C. Worse, it only receives 100 to 200mm of rainfall per year. The climate here can only be described as cruel. But against all odds, [people](http://www.bbc.com/earth/story/20160614-the-people-and-creatures-living-in-earths-hottest-place) do live here and for centuries the locals have survived mining and selling [salt blocks](https://www.fairplanet.org/story/the-hottest-place-on-earth-the-salt-mines-of-danakil-depression/) left behind after evaporation. As if the climate was not enough, the region's energetic geology makes it look like an alien land. There are volcanoes with bubbling lava lakes, multi-coloured hydrothermal fields, and great salt pans, all of which manifest themselves in the vibrant combination of yellows, oranges, and reds that make the landscape look equal parts [neon and deadly](https://www.bbc.com/future/article/20170803-in-earths-hottest-place-life-has-been-found-in-pure-acid). It is thought that somewhere in the future this geological depression caused by the drifting of three tectonic plates will have drifted enough that the Red Sea will spill over, drowning this strange landscape into a new ocean. 
 
 ### National Reserve de l'Ancarana, Madagascar (Geology 8,11,12)
 
 Containing a unique geological wonder, a spectacularly eroded limestone fortress of sharp ridges, [Ankarana National Park](https://www.madacamp.com/Ankarana_National_Park) is situated on a limestone plateau about 108km south of Antsiranana and covers 18,225ha. Ankarana has since earned a reputation for its limestone karst pinnacles called [tsingy](https://madagascar-tourisme.com/en/what-to-do/fauna-and-flora/tsingy/)  which  in Malagasy means "where one cannot walk barefoot”. Observing the tsingy from the air, pilots have been reminded of the deep urban canyons of Manhattan, because the formations have become like rows of high-rise apartment buildings, providing shelter to a different array of species at each level. The topography of the park is varied and in addition to the limestone ‘tsingies’ includes a dense tropical jungle, deciduous forest, canyons and an extensive cave system and network of underground rushing rivers -- some of which contain crocodiles. This variety of landscape makes it a popular choice among hikers offering [incredible trails](https://www.naturalworldsafaris.com/africa/madagascar/ankarana-national-park), unique and terrific landscapes and excellent wildlife viewing.
-
-### Colca Canyon, Peru (False Color)
-
-Description
-
-### Mingsha Singing Sand Dunes, China
-
-Description
-
-### Sand Streams, China (Geology 12,8,2)
-
-Description
-
-### Cnockan Crag, Scotland (Geology 8,11,12)
-
-Description
 
 ### The Great Blue Hole, Belize (Enhanced True Color)
 
 Instead of its roaring waves and scary storms, the Caribbean sea often offers amazing natural wonders below its otherwise uncertain surface. [The Great Blue Hole of Belize](https://www.marineinsight.com/environment/what-is-the-great-blue-hole-of-belize/), located off the coast of Belize, is one of such wonders. Circular in shape with a diameter of 300 m, the water depth in this hole is 125m, which gives it a deep blue color in contrast with the aquamarine color of the water neighboring it. 
 Researchers say this giant underwater [sinkhole](https://www.usgs.gov/special-topic/water-science-school/science/sinkholes?qt-science_center_objects=0#qt-science_center_objects) was originally formed during the last glacial period as a limestone cave when the sea levels were lower. As the ocean began to rise due to [thawing](https://www.nationalgeographic.com/environment/global-warming/big-thaw/) of polar ice caps, the cave system flooded and eventually collapsed, creating a “vertical cave” in the ocean. As such, this swallow hole is popular among divers, who flock to the area to see the geological formations that now lie in the ocean’s depths.
 [Researcher divers](https://geographical.co.uk/people/explorers/item/3132-explore-belize-blue-hole) have found huge [stalactites and stalagmites](https://oceanexplorer.noaa.gov/facts/stalactite.html) below the surface, some even reaching 9-12 m in length.  They say that the deeper one goes, the water becomes clearer and the formations, more complex. The Great Blue Hole is part of the larger Belize Barrier Reef Reserve System, a World Heritage Site of UNESCO.
-
-### Grand Canyon National Park (Geology 12,8,2)
-
-Description
-
-### Ha Long Bay, Vietnam (Geology 12,8,2)
-
-Description
 
 ### Namib Desert, Namibia (Geology 12,8,2)
 
