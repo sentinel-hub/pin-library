@@ -1,6 +1,6 @@
 # Snow and Glaciers
 
-[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=c971df02-0886-4acb-a84d-fa666ad344e9){:target="_blank"} pins directly into EO Browser or [download](Snow_and_Glaciers.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
+[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=7b0b817c-3b47-4ccd-aedd-4e97ea784d4d){:target="_blank"} pins directly into EO Browser or [download](Snow_and_Glaciers.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
 Following is a set of pins which are all connected to the topic Snow and Glaciers. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.
 
@@ -41,6 +41,12 @@ Located in the southeast of Greenland the Helheim glacier is the fastest flowing
 
 ### Mountains of New Zealand (Snow Classifier)
 [<img src="fig/mountains_new_zealand.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096638401/in/album-72157715040686668/) The mountains around Lake Te Anau (west) and Lake Wakatipu (east) on New Zealand’s South Island are located in the Fiorland National Park. Lake Te Anau is home to the only inland fjords in New Zealand originating from the time when the mountain’s glaciers were still reaching far down the valleys. Today covered with snow in winter these more than 2000 m high peaks are a popular destination for tracking and mountaineering [more](http://www.teanau.net.nz/Mountains). They are also home to an almost extinct bird species called [takahe](http://www.teanau.net.nz/See-a-takahe). 
+
+### Mountain Rivers, New Zealand (False Color)
+[<img src="fig/mountain_rivers_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096896927/in/album-72157715040686668/) The southern Alps in New Zealand are in winter widely covered with snow. The strong red colors mainly in the southeast corner indicated healthy vegetation. The different colors of the lakes’ origin from different mixtures of minerals brought by the streams from the surrounding mountains.
+
+### Frozen Lakes of the Tibetan Plateau
+[<img src="fig/himalayas_lakes_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096912287/in/album-72157715040686668/) These frozen lakes are situated on the border between the Chinese counties Shuanghu and Golmud on the Tibetan Plateau. Often fed by glaciers they are likely to become bigger over the next years due to an increase in melt water before finally shrinking as a glacier that feed them will disappear. With an average elevation above 4.500 meters the plateau provides cold enough temperatures for most of the lakes to be frozen or partially covered with ice for most of the year. [Learn more…](https://thediplomat.com/2019/03/the-worlds-third-pole-is-melting/)
 
 ### Winter landscape, Canada
 [<img src="fig/canada_snowy_landscape_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49560588416/in/album-72157715040686668/)
