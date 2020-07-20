@@ -2,7 +2,7 @@
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=dc05bd69-491f-4fd0-8c5d-e54d25f8a5d3){:target="_blank"} pins directly into EO Browser or [download](Geology.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
-Following is a set of pins which are all connected to the topic Geology. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.
+Following is a set of pins which are all connected to the topic Geology. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on Flickr.
 
 ## Included pins 
 
@@ -38,4 +38,4 @@ A [fjord](https://www.visitflam.com/editorial-content/everything-you-should-know
 
 ### Richat Structure, Mauretania
 
-[<img src="fig/Richat_Structure_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657367588/in/album-72157714991542468/)[Eye of the Sahara](http://geologyscience.com/gallery/eye-of-the-sahara-or-richat-structure/), also known as the Richat structure, is a geological dome made of rocks billions of years old and measures 40.2 km across. Once, there was a temperate forest here, with lakes and rivers. The formation processes of this magnificent structure are still a mistery. The most prominent thoeory believes, that it's the result of the volcanism and erosion. The theory states, that volcanism in the area lifted the layers of sediments and after it died down, the erosion ate away at the structure, making the shape of an eye we see today. As the structure is visible from space, it serves as a landmark for [astronauts](http://www.lovethesepics.com/2011/04/earths-bulls-eye-the-eye-of-africa-landmark-for-astronauts-14-pics/).
+[<img src="fig/Richat_Structure_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657367588/in/album-72157714991542468/)[Eye of the Sahara](http://geologyscience.com/gallery/eye-of-the-sahara-or-richat-structure/), also known as the Richat structure, is a geological dome made of rocks billions of years old and measures 40.2 km across. Once, there was a temperate forest here, with lakes and rivers. The formation processes of this magnificent structure are still a mistery. The most prominent theory believes, that it's the result of the volcanism and erosion. The theory states, that volcanism in the area lifted the layers of sediments and after it died down, the erosion ate away at the structure, making the shape of an eye we see today. As the structure is visible from space, it serves as a landmark for [astronauts](http://www.lovethesepics.com/2011/04/earths-bulls-eye-the-eye-of-africa-landmark-for-astronauts-14-pics/).
