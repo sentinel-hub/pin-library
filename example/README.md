@@ -2,7 +2,7 @@
 
 ---
 
-## How to modify and excisting pin set 
+## How to modify and existing pin set 
 
 * Fork the repository to get your own copy of the EO Browser pin library   
   *It is easiest to fork the repository on GitHub, but as some of you might not have a GitHub account, or don't want to bother with all this versioning and collaboration tools, you can also just download the whole repository as Zip file and work with that.*
