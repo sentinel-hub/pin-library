@@ -1,5 +1,5 @@
 # EO Browser pins' repository
-A repository of pins and pins' descriptions for EO Browser (Pin library)
+This is Sentinel Hub's repository of pins and pin descriptions for EO Browser, also called the Pin library. Explore interesting locations, contribute by adding your own pins and pin descriptions, and share your collections with others. 
 
 Pins are organised by themes:
 
