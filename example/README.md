@@ -2,7 +2,7 @@
 
 ---
 
-## How to modify and existing pin set 
+## How to modify an existing pin set 
 
 * Fork the repository to get your own copy of the EO Browser pin library   
   *It is easiest to fork the repository on GitHub, but as some of you might not have a GitHub account, or don't want to bother with all this versioning and collaboration tools, you can also just download the whole repository as Zip file and work with that.*
@@ -31,13 +31,13 @@
   *Preferably use ["snake_case"](https://simple.wikipedia.org/wiki/Snake_case) (underscores instead of spaces) if more than one word is used.*
   
 * Go to [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME), create and export a JSON file including only pins you want to include   
-  *Each pin should have a description. You can add them directly in EO Browser. Formating the text as well as links to resources can be included using [markdown](https://help.github.com/categories/writing-on-github/).*
+  *Each pin should have a description. You can add them directly in EO Browser. Formatting the text as well as links to resources can be included using [markdown](https://help.github.com/categories/writing-on-github/).*
   *After the download rename your JSON file to match the name of your repository, e.g. `Lakes_in_Europe.json`*
   *Copy the JSON file into your directory*
   
 * Fill in the details about the project in the `README.md` file.    
   *Obviously, you'll want to remove this chapter , but use the rest of the file as a template.*   
-  *Have a look around at other `README.md` files to see how to include images, format the text and generally use the GitHub [markdown](https://help.github.com/categories/writing-on-github/) (e.g. [here](../Monitoring_Earth_from_Space/README.md). Images should be saved in a sepearte folder called `fig` *
+  *Have a look around at other `README.md` files to see how to include images, format the text and generally use the GitHub [markdown](https://help.github.com/categories/writing-on-github/) (e.g. [here](../Monitoring_Earth_from_Space/README.md). Images should be saved in a separate folder called `fig` *
   
 * Add an entry pointing to your new directory to the [main](../README.md) README file.   
   *The name and a link will do.* 
@@ -53,7 +53,7 @@ Publishing your product should be easy, nevertheless, any feedback and ideas how
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=1a13b4fd-47bc-4bb4-a03f-d386e0b1f728){:target="_blank"} pins directly into EO Browser or [download](Wildfires.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
-Following is a set of pins which are all connected to the topic __ENTER YOUR TOPIC HERE__. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.
+Following is a set of pins which are all connected to the topic __ENTER YOUR TOPIC HERE__. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on Flickr.
 
 ## Included pins 
 
