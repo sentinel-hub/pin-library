@@ -2,7 +2,7 @@
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=7b0b817c-3b47-4ccd-aedd-4e97ea784d4d){:target="_blank"} pins directly into EO Browser or [download](Snow_and_Glaciers.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
-Following is a set of pins which are all connected to the topic Snow and Glaciers. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on flickr.
+Following is a set of pins which are all connected to the topic Snow and Glaciers. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on Flickr.
 
 ## Included pins 
 
@@ -27,13 +27,13 @@ An ice tongue is a natural phenomenon, which occurs when a valley glacier moves 
 [Sermeq Kujalleq](https://www.atlasobscura.com/articles/worlds-fastest-glacier-sermeq-kujalleq), also called Jakobshavn glacier, is known as the world’s fastest glacier. It travels an average of 130 feet in 24 hours and calves more than 45 cubic kilometers of icebergs each year into the Ilulissat Icefjord. 
 Its front is an enormous ice wall—stretching 91 meters at its peak, that constantly explodes. Icebergs break off the glacier accompanied by blasts and roars akin to a rocket launch. When they hit the sea below, the calved icebergs can create huge waves that threaten to swallow people, boats, and buildings. The icebergs from Sermeq Kujalleq have crashed so violently that they have even caused earthquakes. Because the glacier is so large, the breaks seem to occur in “slow motion.” 
 
-### Glaciers of western Greeenland (Enhanced Agriculture 11,8,2)
+### Glaciers of western Greenland (Enhanced Agriculture 11,8,2)
 [<img src="fig/glaciers_greenland_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096557146/in/album-72157715040686668/) 
 On Greenland’s western shore numerous glaciers enter the Baffin Bay. Several of them find their way to the bay via the Upernavik Icefjord which can be seen on the image. The biggest glacier is the  Upernavik glacier from which also the fjord’s name was derived. Until 1980 the glacier consisted of one main termini but with its retread since then it has four main calving termini today [more]( https://blogs.agu.org/fromaglaciersperspective/2017/05/30/upernavik/).
 
-### Helheim Glacier, Greeenland (Enhanced true color)
+### Helheim Glacier, Greenland (Enhanced true color)
 [<img src="fig/helheim_glacier_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096599356/in/album-72157715040686668/)
-Located in the southeast of Greenland the Helheim glacier is the fastest flowing glacier on the island’s eastern shore. It has an average width of ~6.5 km and calves into the [Sermilik Fjord]( https://earth.esa.int/web/earth-watching/image-of-the-week/content/-/article/helheim-glacier-greenland). In the last two decades the glacier front experienced rapid changes, first retreating ~6.5 km in the earlier 2000s before then partially recovering and gaining back more then ~3 km. [Learn more](https://www.nasa.gov/feature/goddard/2017/two-decades-of-changes-in-helheim-glacier).
+Located in the southeast of Greenland the Helheim glacier is the fastest flowing glacier on the island’s eastern shore. It has an average width of ~6.5 km and calves into the [Sermilik Fjord]( https://earth.esa.int/web/earth-watching/image-of-the-week/content/-/article/helheim-glacier-greenland). In the last two decades the glacier front experienced rapid changes, first retreating ~6.5 km in the earlier 2000s before then partially recovering and gaining back more than ~3 km. [Learn more](https://www.nasa.gov/feature/goddard/2017/two-decades-of-changes-in-helheim-glacier).
 
 ### Byrd Glacier, Antarctica (Highlight Optimized Natural Color)
 
