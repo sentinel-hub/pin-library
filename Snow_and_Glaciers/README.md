@@ -25,7 +25,7 @@ An ice tongue is a natural phenomenon, which occurs when a valley glacier moves 
 ### Sermeq Kujalleq Glacier, Greenland (Highlight Optimized Natural Color)
 [<img src="fig/sermeq_kujalleq_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657770236/in/album-72157715040686668/)
 [Sermeq Kujalleq](https://www.atlasobscura.com/articles/worlds-fastest-glacier-sermeq-kujalleq), also called Jakobshavn glacier, is known as the world’s fastest glacier. It travels an average of 130 feet in 24 hours and calves more than 45 cubic kilometers of icebergs each year into the Ilulissat Icefjord. 
-Its front is an enormous ice wall—stretching 91 meters at its peak, that constantly explodes. Icebergs break off the glacier accompanied by blasts and roars akin to a rocket launch. When they hit the sea below, the calved icebergs can create huge waves that threaten to swallow people, boats, and buildings. The icebergs from Sermeq Kujalleq have crashed so violently that they have even caused earthquakes. Because the glacier is so large, the breaks seem to occur in “slow motion.” 
+Its front is an enormous ice wall—stretching 91 meters at its peak, that constantly explodes. Icebergs break off the glacier accompanied by blasts and roars akin to a rocket launch. When they hit the sea below, the calved icebergs can create huge waves that threaten to swallow people, boats, and buildings. The icebergs from Sermeq Kujalleq have crashed so violently that they have even caused earthquakes. Because the glacier is so large, the breaks seem to occur in __slow motion__. 
 
 ### Glaciers of western Greeenland (Enhanced Agriculture 11,8,2)
 [<img src="fig/glaciers_greenland_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096557146/in/album-72157715040686668/) 
@@ -45,7 +45,7 @@ Located in the southeast of Greenland the Helheim glacier is the fastest flowing
 ### Mountain Rivers, New Zealand (False Color)
 [<img src="fig/mountain_rivers_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096896927/in/album-72157715040686668/) The southern Alps in New Zealand are in winter widely covered with snow. The strong red colors mainly in the southeast corner indicated healthy vegetation. The different colors of the lakes’ origin from different mixtures of minerals brought by the streams from the surrounding mountains.
 
-### Frozen Lakes of the Tibetan Plateau
+### Frozen Lakes on the Tibetan Plateau
 [<img src="fig/himalayas_lakes_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096912287/in/album-72157715040686668/) These frozen lakes are situated on the border between the Chinese counties Shuanghu and Golmud on the Tibetan Plateau. Often fed by glaciers they are likely to become bigger over the next years due to an increase in melt water before finally shrinking as a glacier that feed them will disappear. With an average elevation above 4.500 meters the plateau provides cold enough temperatures for most of the lakes to be frozen or partially covered with ice for most of the year. [Learn more…](https://thediplomat.com/2019/03/the-worlds-third-pole-is-melting/)
 
 ### Winter landscape, Canada
