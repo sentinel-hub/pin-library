@@ -1,5 +1,5 @@
 # EO Browser pins' repository
-A repository of pins and pins' descriptions for EO Browser (Pin library)
+This ia a repository of pins and pin descriptions for EO Browser, also called the Pin library, which aims to provide a growing repository of remote sensing images. Explore interesting locations, contribute by adding your own pins and pin descriptions, and share your collections with others. 
 
 Pins are organised by themes:
 
@@ -15,6 +15,6 @@ Pins are organised by themes:
  - [Volcanoes](Volcanoes)
  - [Wildfires](Wildfires)
 
-# Adding pins or modifying excisting pin(s)
+# Adding pins or modifying existing pin(s)
 
 Have a look at the [instructions](example) and follow the procedure described there.
