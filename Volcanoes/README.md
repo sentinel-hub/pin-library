@@ -8,7 +8,7 @@ Following is a set of pins which are all connected to the topic Volcanoes. Each 
 
 ### Etna (False Color Urban)
 
-[Mount Etna](https://www.britannica.com/place/Mount-Etna) on the italian island of Sicily is the highest active volcano in Europe. At the moment it reaches a height of 3320 meters (changes due to eruptions) and covers an impressive area of 1600 km<sup>2</sup>.  Its lower slopes are covered with vineyards, olive groves, and orchards. Surrounding the foot of the volcanoe several smaller and bigger settlements can be found. Mount Etna is currently and and throught the centuries very active only in the last 5 year having had 4 strombolian eruptions.
+[Mount Etna](https://www.britannica.com/place/Mount-Etna) on the Italian island of Sicily is the highest active volcano in Europe. At the moment it reaches a height of 3320 meters (changes due to depositions from eruptions and collapses of the crater) and covers an impressive area of 1600 km<sup>2</sup>.  Its lower slopes host vineyards, olive groves, and orchards. Surrounding the foot of the volcano several smaller and bigger settlements can be found. Mount Etna is currently and through the centuries very active only in the last five year having had four strombolian eruptions.
 
 ### Stromboli, Province of Messina, Italy (False Color Urban)
 
@@ -16,5 +16,4 @@ Following is a set of pins which are all connected to the topic Volcanoes. Each 
 
 ### Jebel Marra, Sudan (not active)
 
-[<img src="fig/Jebel_Marra_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49126817116/in/dateposted/) You're looking at the dormant Jebel Marra volcano in Sudan. The most prominent feature of this mountain is the volcanic caldera, 
-called Deriba Caldera. In its heart lie two volcanic lakes, formed some 3.500 years ago, as the eruptions removed rock material and created a crater. The lakes are supplied by rain and hot springs.
+[<img src="fig/Jebel_Marra_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49126817116/in/dateposted/) You're looking at the dormant Jebel Marra volcano in Sudan. The most prominent feature of this mountain is the volcanic caldera, called Deriba Caldera. In its heart lie two volcanic lakes, formed some 3.500 years ago, as the eruptions removed rock material and created a crater. The lakes are supplied by rain and hot springs.
