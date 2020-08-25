@@ -13,7 +13,7 @@ The desert country of Saudi Arabia highly relies on irrigation farming for growi
 
 ### Agriculture in Italy (Barren Soil)
 
-[<img src="fig/Italian_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50082988756/in/album-72157714991542468/)[Veneto agriculture](https://www.recare-hub.eu/news/45-06-bioforsk) is one of the most productive in Italy, producing mainly cereals, fruits and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation.
+[Veneto agriculture](https://www.recare-hub.eu/news/45-06-bioforsk) is one of the most productive in Italy, producing mainly cereals, fruits and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation. The Barren Soil visualization shows that in the middle of spring still a lot of fields lie fallow indicated by the red color. 
 
 ### Agriculture along the Nile river (EVI)
 
