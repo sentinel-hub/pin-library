@@ -6,6 +6,11 @@ Following is a set of pins which are all connected to the topic "wildfires". Eac
 
 ## Included pins 
 
+### Agriculture in Saudi Arabia (Moisture Index)
+
+[<img src="fig/Saudi_Arabia_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657834951/)
+The desert country of Saudi Arabia highly relies on irrigation farming for growing crops due to its arid and warm climate. The circular shape of the fields is a result of the irrigation system (center-pivot irrigation) which uses water from a huge fossil aquifer. The size of the field ranges from few hundred meters up to almost one kilometer, limited by the size of the irrigation system. What started more than 40 years ago as a huge success story, ensuring domestic food security for the kingdom, is becoming more and more problematic as the once rich water reserves are depleting. As a result, Saudi Arabia is buying more and more fields abroad to satisfy the domestic demand. [More...](https://www.nationalgeographic.de/photography/2018/04/wasser-nahrung-energie-die-wuesten-werden-gruen?image=61750)
+
 ### Agriculture in Italy (Barren Soil)
 
 [<img src="fig/Italian_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50082988756/in/album-72157714991542468/)[Veneto agriculture](https://www.recare-hub.eu/news/45-06-bioforsk) is one of the most productive in Italy, producing mainly cereals, fruits and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation.
