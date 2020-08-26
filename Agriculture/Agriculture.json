@@ -38,7 +38,8 @@
         "toTime": "2019-08-03",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "AGRICULTURE"
+        "themeId": "AGRICULTURE",
+        "description": "The [Central Valley](https://ca.water.usgs.gov/projects/central-valley/about-central-valley.html), west of California’s famous Sierra Nevada is home to the states biggest and most important agricultural region. The fields are irrigated on the one hand with water from the two major rivers of the valley (Sacramento and San Joaquin Rivers) on the other hand with ground water. Despite using less then 1% of the nation’s total farmland, the valley produces 25% of U.S. food. In total more then 250 different crops are grown, the most important being cereal grains, hay, cotton, different fruits and vegetable and nuts."
     },
     {
         "title": "Agriculture in Ethiopia (False Color)",
