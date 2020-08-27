@@ -52,7 +52,8 @@
         "toTime": "2020-01-19",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "AGRICULTURE"
+        "themeId": "AGRICULTURE",
+        "description": "The area around Meraro in the Arsi zone which is part of the Ethiopian Highlands plays an important role for the food security in Ethiopia. The agriculture in the region (and the country) was for a long time an [intensive subsistence farming](https://reliefweb.int/report/ethiopia/cluster-farming-improving-farmers-productivity-food-security-arsi-zone) with 12 million smallholder farming households producing 95% of the country’s agricultural products. To become less dependent from foreign food imports and foster the countries development the agriculture sector was subject to big changes in the past years. [More](http://www.fao.org/ethiopia/fao-in-ethiopia/ethiopia-at-a-glance/en/)"
     },
     {
         "title": "Agriculture in India (False Color 11,8,2)",
@@ -65,7 +66,8 @@
         "toTime": "2020-01-25",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "AGRICULTURE"
+        "themeId": "AGRICULTURE",
+        "description": "The state of West Bengal where Belda is located is the most important rice and vegetable producer in whole India. Taking only 2.7% of the countries area, it provides food for almost 8% of the population. The state is dominated by small and marginal farms accounting for 96% of all farms. [More](https://wb.gov.in/departments-details.aspx?id=D170907140022669&page=Agriculture)"
     },
     {
         "title": "Agriculture in Vietnam (False Color 11,8,2)",

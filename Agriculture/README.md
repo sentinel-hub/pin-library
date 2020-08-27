@@ -19,6 +19,14 @@ The desert country of Saudi Arabia highly relies on irrigation farming for growi
 
 The [Central Valley](https://ca.water.usgs.gov/projects/central-valley/about-central-valley.html), west of California’s famous Sierra Nevada is home to the states biggest and most important agricultural region. The fields are irrigated on the one hand with water from the two major rivers of the valley (Sacramento and San Joaquin Rivers) on the other hand with ground water. Despite using less then 1% of the nation’s total farmland, the valley produces 25% of U.S. food. In total more then 250 different crops are grown, the most important being cereal grains, hay, cotton, different fruits and vegetable and nuts.
 
+### Agriculture in Ethiopia (False Color)
+
+The area around Meraro in the Arsi zone which is part of the Ethiopian Highlands plays an important role for the food security in Ethiopia. The agriculture in the region (and the country) was for a long time an [intensive subsistence farming](https://reliefweb.int/report/ethiopia/cluster-farming-improving-farmers-productivity-food-security-arsi-zone) with 12 million smallholder farming households producing 95% of the country’s agricultural products. To become less dependent from foreign food imports and foster the countries development the agriculture sector was subject to big changes in the past years. [More](http://www.fao.org/ethiopia/fao-in-ethiopia/ethiopia-at-a-glance/en/)
+
+###Agriculture in India (False Color)
+
+The state of West Bengal where Belda is located is the most important rice and vegetable producer in whole India. Taking only 2.7% of the countries area, it provides food for almost 8% of the population. The state is dominated by small and marginal farms accounting for 96% of all farms. [More](https://wb.gov.in/departments-details.aspx?id=D170907140022669&page=Agriculture)
+
 ### Agriculture along the Nile river (EVI)
 
 Due to fertile soils and regular flooding, the Nile river basin has supported agriculture for thousands of years. Close to 90 per cent of the land currently used for agriculture is under rainfed farming systems (farming systems, that rely on rainfall). These systems are characterized by subsistence-level production and low yields of crops and livestock. There is about 5.6 million hectares of land under irrigation or equipped with irrigation facilities in the Nile Basin. A large proportion – 97 per cent – of the land is located in Egypt and The Sudan. Three countries – Egypt, Tanzania, and Uganda – produce large quantities of fish, but the freshwater fisheries resources of the basin are showing signs of being overfished. The top three crops grown in the basin are wheat, fodder and maize. Livestock farming is also thriving, Ethiopia leading with more than 50 million heads of cattle. [Learn more.](http://nileis.nilebasin.org/system/files/Nile%20SoB%20Report%20Chapter%205%20-%20Agriculture.pdf)
