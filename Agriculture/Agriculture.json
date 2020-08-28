@@ -80,7 +80,8 @@
         "toTime": "2020-01-21",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "AGRICULTURE"
+        "themeId": "AGRICULTURE",
+        "description": "Agriculture in the Ca Mau district in the Mekong Delta in Vietnam consist mainly of aquacultures (shrimps, mud crabs), rice and wood. The whole area is highly drained either by small streams or by channels derived from the streams. Ca Mau district is Vietnam’s largest shrimp producer covering 280.000 ha with shrimp farms which exported in 2019 shrimps worth around 1.2 billion dollar. [More]( https://vietnamnews.vn/society/523132/ca-mau-amends-list-of-key-agricultural-products.html)"
     },
     {
         "title": "Agriculture in Poland (Moisture Stress)",
@@ -93,7 +94,8 @@
         "toTime": "2019-06-03",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "AGRICULTURE"
+        "themeId": "AGRICULTURE",
+        "description": "Located next to the banks of the Warta river this highlight shows different moisture stress and field arrangements on the opposite banks of the river. On the northern bank the fields are more regular distributed and show a lower moisture content, on the southern shore the fields are more diverse both in size and alignment and show a higher level of moisture. As the region has in general a quite low annual precipitation (~500 mm/yr) one explanation for the difference in moisture could be the higher prominence of lakes south of the river but also different field management techniques could play a role. Crops grown in the region are mainly cereals, to a smaller extend also rape, sugar beet and potatoes. [More]( http://www.agribenchmark.org/fileadmin/Dateiablage/B-Cash-Crop/Countries/Poland/Poland_crop_production.pdf)"
     },
     {
         "title": "Agriculture along the Nile river (EVI)",

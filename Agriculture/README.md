@@ -27,6 +27,14 @@ The area around Meraro in the Arsi zone which is part of the Ethiopian Highlands
 
 The state of West Bengal where Belda is located is the most important rice and vegetable producer in whole India. Taking only 2.7% of the countries area, it provides food for almost 8% of the population. The state is dominated by small and marginal farms accounting for 96% of all farms. [More](https://wb.gov.in/departments-details.aspx?id=D170907140022669&page=Agriculture)
 
+### Agriculture in Vietnam (False Color)
+
+Agriculture in the Ca Mau district in the Mekong Delta in Vietnam consist mainly of aquacultures (shrimps, mud crabs), rice and wood. The whole area is highly drained either by small streams or by channels derived from the streams. Ca Mau district is Vietnam’s largest shrimp producer covering 280.000 ha with shrimp farms which exported in 2019 shrimps worth around 1.2 billion dollar. [More]( https://vietnamnews.vn/society/523132/ca-mau-amends-list-of-key-agricultural-products.html)
+
+### Agriculture in Poland (Moisture Stress)
+
+Located next to the banks of the Warta river this highlight shows different moisture stress and field arrangements on the opposite banks of the river. On the northern bank the fields are more regular distributed and show a lower moisture content, on the southern shore the fields are more diverse both in size and alignment and show a higher level of moisture. As the region has in general a quite low annual precipitation (~500 mm/yr) one explanation for the difference in moisture could be the higher prominence of lakes south of the river but also different field management techniques could play a role. Crops grown in the region are mainly cereals, to a smaller extend also rape, sugar beet and potatoes. [More]( http://www.agribenchmark.org/fileadmin/Dateiablage/B-Cash-Crop/Countries/Poland/Poland_crop_production.pdf)
+
 ### Agriculture along the Nile river (EVI)
 
 Due to fertile soils and regular flooding, the Nile river basin has supported agriculture for thousands of years. Close to 90 per cent of the land currently used for agriculture is under rainfed farming systems (farming systems, that rely on rainfall). These systems are characterized by subsistence-level production and low yields of crops and livestock. There is about 5.6 million hectares of land under irrigation or equipped with irrigation facilities in the Nile Basin. A large proportion – 97 per cent – of the land is located in Egypt and The Sudan. Three countries – Egypt, Tanzania, and Uganda – produce large quantities of fish, but the freshwater fisheries resources of the basin are showing signs of being overfished. The top three crops grown in the basin are wheat, fodder and maize. Livestock farming is also thriving, Ethiopia leading with more than 50 million heads of cattle. [Learn more.](http://nileis.nilebasin.org/system/files/Nile%20SoB%20Report%20Chapter%205%20-%20Agriculture.pdf)
