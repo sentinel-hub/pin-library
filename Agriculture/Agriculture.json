@@ -124,7 +124,8 @@
         "evalscripturl": "",
         "themeId": "AGRICULTURE",
         "gain": "2",
-        "gamma": "1.7"
+        "gamma": "1.7",
+        "description": "The agriculture north-east of the city [Mumbwa](https://www.investincentralzambia.com/wordpress/mumbwa-district-profile/) in Zambia’s Central Province, is blessed by good climatic conditions as well as fertile soils. The main crops in the region are maize, cotton, soya beans and sunflowers. Next to growing vegetable the region hosts favorable conditions for livestock farming. Main species are cattle, sheep and goat. In the western part of the highlight’s area several round circles can be observed. A result from center-pivot irrigation using ground water."
     },
     {
         "title": "Agriculture in Kansas (False Color)",
@@ -137,7 +138,8 @@
         "toTime": "2020-01-27",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "AGRICULTURE"
+        "themeId": "AGRICULTURE",
+        "description": "The soils in Allen County in the state of Kansas are deep and fertile, providing the county and the state good conditions for a strong agriculture economy. Thus it doesn’t surprise that agriculture accounts for more than 40% of the state’s total income. The main crops are wheat, corn, sorghum and soybeans as well as sunflowers. Livestock raised are mainly cattle and calves. [More]( https://www.farmflavor.com/kansas-agriculture/)"
     },
     {
         "title": "Agriculture in Limpopo (Enhanced True Color)",
