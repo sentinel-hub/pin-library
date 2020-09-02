@@ -48,3 +48,11 @@ The soils in Allen County in the state of Kansas are deep and fertile, providing
 ### Agriculture in Limpopo (Enhanced True Color)
 
 [<img src="fig/Limpopo_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49101283122/in/dateposted/) South African agriculture's biggest challenge is the absence of water since rainfall doesn't come regularly. Hence, many agricultural fields are irrigated, helping make Limpopo an important part of the country's agriculture.
+
+### Agriculture in Cambodia (False Color)
+
+[Tonle Sap Lake](http://hdr.undp.org/sites/default/files/olli_varis_tonlesap_study.pdf) and its surrounding is one of the most productive large wetland ecosystems in the whole world. People in the area are highly dependent on the natural resources the ecosystem provides and live mainly from farming and fishery. In total 70% of Cambodians work in agriculture. In the wet season which is mainly influenced by the monsoon, predominantly rice is cultivated. In the dry season also other vegetables and fruits. Due to the poor infrastructure in the region and no industrial management the productivity was traditionally however quite low. In recent years the region experienced rapid development. More and more irrigation structures have been built and the access to the lakes floodplains has been improved leading to a higher harvest. [More](https://tel.archives-ouvertes.fr/tel-02275089/document)
+
+### Agriculture in Australia (False Color)
+
+Burdekin Shire situated in the delta of the Burdekin river is one of Queensland biggest sugar cane producing shires accounting for [20% of the state’s total sugar cane production](https://economy.id.com.au/burdekin/value-of-agriculture). On the shire level sugar cane accounts for more then 75% of the agricultural output (in value terms) making it the most important agricultural plant in the region. On the highlight agricultural fields are found on both sides of the Burdekin river and are displayed either in a bright green (vegetated) or in a dark brown (harvested/bare fields).
