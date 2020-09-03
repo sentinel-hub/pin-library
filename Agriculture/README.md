@@ -56,3 +56,11 @@ The soils in Allen County in the state of Kansas are deep and fertile, providing
 ### Agriculture in Australia (False Color)
 
 Burdekin Shire situated in the delta of the Burdekin river is one of Queensland's biggest sugar cane producing shires accounting for [20% of the state’s total sugar cane production](https://economy.id.com.au/burdekin/value-of-agriculture). On shire level sugar cane accounts for more then 75% of the agricultural output (in value terms) making it the most important agricultural plant in the region. On the pin agricultural fields are found on both sides of the Burdekin river and are displayed either in a bright green (vegetated) or in a dark brown (harvested/bare fields).
+
+### Agriculture in Ontario, Canada (Barren Soil)
+
+Agriculture is the dominant land use in southern Ontario even though only a small percentage of the total population is employed in this sector. Still the whole province has around 50.000 farms (2016) and the average number of farms is increasing over the last years. The main crops cultivated are oilseeds and different grains, on the livestock side it is cattle. Next to the crops mentioned Ontario is the country’s main leader in growing greenhouse vegetables. [More](https://www150.statcan.gc.ca/n1/daily-quotidien/170510/dq170510a-eng.htm?indid=10441-1&indgeo=6)
+
+### Agriculture at the Israel-Jordan border
+
+Agriculture in the southern part of the dead sea region is dominated by [salt ponds](https://gizmodo.com/salt-ponds-at-the-dead-sea-1560507635) at the southern part of the dead sea and several fields mainly next to both sides of the Jordan Valley Highway. Due to a rising global demand for sodium chloride and potassium salts, both found in the dead sea’s salt ponds, the ponds have grown rapidly in number towards the end of last century. Since then their number stayed relatively stable with around 50 ponds. The main crop grown on the field is dates but also amongst others tomatoes, eggplants or olives are being cultivated. [More]( https://www.deadsea.com/articles-tips/interesting-facts/desert-wonders-dead-sea-production/)
