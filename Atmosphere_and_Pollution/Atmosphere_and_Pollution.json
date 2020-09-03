@@ -154,7 +154,7 @@
         "description": "Methane is, after carbon dioxide (CO2), the most important contributor to the anthropogenically enhanced greenhouse effect. Roughly three-quarters of methane emissions are anthropogenic and as such it is important to continue the record of satellite based measurements. TROPOMI aims at providing CH4 column concentrations with high sensitivity to the Earth’s surface, good spatiotemporal coverage, and sufficient accuracy to facilitate inverse modeling of sources and sinks. TROPOMI uses absorption information from the Oxygen-A Band (760nm) and the SWIR spectral range to monitor CH4 abundances in the Earth's atmosphere. [More...](http://www.tropomi.eu/data-products/methane)"
     },
     {
-        "title": "High SO2 concentrations, Europe",
+        "title": "High SO2 concentrations, Andorra and Marseille",
         "lat": 42.306,
         "lng": 2.538,
         "zoom": 7,

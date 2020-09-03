@@ -36,7 +36,7 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 
 <img src="fig/SO2_Europe_thumbnail.jpg" align="right" width="240"> Sulphur dioxide enters the Earth’s atmosphere through both natural and anthropogenic processes. It plays a role in chemistry on a local and global scale and its impact ranges from short term pollution to effects on climate. Only about 30% of the emitted SO2 comes from natural sources; the majority is of anthropogenic origin. SO2 emissions adversely affect human health and air quality. SO2 has an effect on climate through radiative forcing, via the formation of sulphate aerosols. Volcanic SO2 emissions can also pose a threat to aviation, along with volcanic ash. S5P/TROPOMI samples the Earth’s surface with a revisit time of one day with unprecedented spatial resolution of 3.5 x 7 km which allows the resolution of fine details including the detection of much smaller SO2 plumes. [More...](http://www.tropomi.eu/data-products/sulphur-dioxide)
 
-- **High SO2 concentrations, Europe**
+- **High SO2 concentrations, Andorra and Marseille**
 - **High SO2 concentrations, Italy**
 
 ### Ozone - O3
