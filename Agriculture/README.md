@@ -31,6 +31,8 @@ The area around Meraro in the Arsi zone which is part of the Ethiopian Highlands
 [<img src="fig/India_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657834951/)
 The state of West Bengal where Belda is located is the most important rice and vegetable producer in whole India. Taking only 2.7% of the countries area, it provides food for almost 8% of the population. The state is dominated by small and marginal farms accounting for 96% of all farms. [More](https://wb.gov.in/departments-details.aspx?id=D170907140022669&page=Agriculture)
 
+
+
 ### Agriculture in Vietnam (False Color)
 
 [<img src="fig/Vietnam_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49657834951/)
