@@ -1,6 +1,6 @@
 # Agriculture
 
-[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=bc03a3fc-446a-489e-bf50-51729bfdcdbc){:target="_blank"} pins directly into EO Browser or [download](Agriculture.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
+[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=abcc96c3-8365-4c97-b179-a03a52c5e4b7){:target="_blank"} pins directly into EO Browser or [download](Agriculture.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
 Following is a set of pins which are all connected to the topic "wildfires". Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on Flickr.  
 
@@ -45,7 +45,7 @@ The agriculture north-east of the city [Mumbwa](https://www.investincentralzambi
 ### Agriculture in Kansas, USA (False Color)
 The soils in Allen County in the state of Kansas are deep and fertile, providing the county and the state good conditions for a strong agriculture economy. Thus it doesn’t surprise that agriculture accounts for more than 40% of the state’s total income. The main crops are wheat, corn, sorghum, and soybeans as well as sunflowers. Livestock raised is mainly cattle and calves. [More]( https://www.farmflavor.com/kansas-agriculture/)
 
-### Agriculture in Limpopo (Enhanced True Color)
+### Agriculture in Limpopo, South Africa (Enhanced True Color)
 
 [<img src="fig/Limpopo_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49101283122/in/dateposted/) South African agriculture's biggest challenge is the absence of water since rainfall doesn't come regularly. Hence, many agricultural fields are irrigated, helping make Limpopo an important part of the country's agriculture.
 
