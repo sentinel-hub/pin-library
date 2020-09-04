@@ -61,7 +61,7 @@ The soils in Allen County, located in the state of Kansas, are deep and fertile,
 ### Agriculture in Limpopo, South Africa (Enhanced True Color)
 
 [<img src="fig/Limpopo_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/49101283122/in/dateposted/)
-South African agriculture's biggest challenge is the absence of water since rainfall doesn't come regularly. Hence, many agricultural fields are irrigated, helping make Limpopo an important part of the country's agriculture.
+South African agriculture's biggest challenge is the absence of water since rainfall doesn't come regularly. Hence, [most agricultural fields are irrigated](http://www.limpopo.riverawarenesskit.org/LIMPOPORAK_COM/EN/MANAGEMENT/WATER_INFRASTRUCTURE/IRRIGATION_INFRASTRUCTURE/SOUTH_AFRICA.HTM), helping make Limpopo an important part of the country's agriculture. [Learn more](https://www.globalafricanetwork.com/company-news/a-2020-vision-of-the-agricultural-sector-in-limpopo/).
 
 ### Agriculture in Cambodia (False Color)
 
