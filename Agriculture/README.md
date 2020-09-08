@@ -14,7 +14,7 @@ The desert country of Saudi Arabia highly relies on irrigation farming for growi
 ### Agriculture in the Veneto Region, Italy (Barren Soil)
 
 [<img src="fig/Italy_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50303823113/)
-[Veneto agriculture](https://www.recare-hub.eu/news/45-06-bioforsk) is one of the most productive in Italy, producing mainly cereals, fruits, and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation. The Barren Soil visualization shows that in the middle of spring still a lot of fields lie fallow indicated by the red color. 
+[Veneto agriculture](https://www.recare-hub.eu/news/45-06-bioforsk) is one of the most productive in Italy, producing mainly cereals, fruits, and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation. The Barren Soil visualization shows that in the middle of spring still a lot of fields lie fallow indicated by the red color.
 
 ### Agriculture in California, USA (NDVI)
 
@@ -30,7 +30,6 @@ The area around Meraro in the Arsi zone, which is part of the Ethiopian Highland
 
 [<img src="fig/India_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50304489911/)
 The state of West Bengal, where Belda is located, is the most important rice and vegetable producer in the whole India. Taking only 2.7% of the countries area, it provides food for almost 8% of the population. The state is dominated by small and marginal farms, accounting for 96% of all farms. [More](https://wb.gov.in/departments-details.aspx?id=D170907140022669&page=Agriculture)
-
 
 
 ### Agriculture in Vietnam (False Color)
