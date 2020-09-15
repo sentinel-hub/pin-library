@@ -74,7 +74,7 @@ Burdekin Shire, situated in the Burdekin River delta, is one of Queensland's big
 
 ### Agriculture in Ontario, Canada (Barren Soil)
 
-[<img src="fig/Orlando_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50301813057/)
+[<img src="fig/Ontario_Agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50301813057/)
 Agriculture is the dominant land use in southern Ontario, even though only a small percentage of the total population is employed in this sector. Still, the whole province has around 50.000 farms (2016) and the average number of farms has been increasing over the last years. The main crops cultivated are oilseeds and different grains, and the main livestock is cattle. Next to the crops mentioned, Ontario is the country’s main leader in growing greenhouse vegetables. [More](https://www150.statcan.gc.ca/n1/daily-quotidien/170510/dq170510a-eng.htm?indid=10441-1&indgeo=6)
 
 ### Agriculture at the Israel-Jordan border
