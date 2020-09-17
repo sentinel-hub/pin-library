@@ -5,8 +5,8 @@ Pins are organised by themes:
 
  - [Monitoring Earth from Space](Monitoring_Earth_from_Space)
  - [Agriculture](Agriculture)
- - [Atmosphere and Pollution](Atmosphere_and_Pollution)
- - [Flooding and Droughts](Flooding_and_Droughts)
+ - [Atmosphere and Air Pollution](Atmosphere_and_Air_Pollution)
+ - [Floods and Droughts](Floods_and_Droughts)
  - [Geology](Geology)
  - [Ocean and Water Bodies](Ocean_and_Water_Bodies)
  - [Snow and Glaciers](Snow_and_Glaciers)
