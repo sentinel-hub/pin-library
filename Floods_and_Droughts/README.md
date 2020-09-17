@@ -1,8 +1,8 @@
-# Flooding and Droughts
+# Floods and Droughts
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=fe7e5f31-5d23-4f3b-acba-6a8fe07e4337){:target="_blank"} pins directly into EO Browser or [download](Flooding_and_Droughts.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
-Following is a set of pins which are all connected to the topic Flooding and Droughts. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on Flickr.
+Following is a set of pins which are all connected to the topic Floods and Droughts. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on Flickr.
 
 ## Included pins 
 
