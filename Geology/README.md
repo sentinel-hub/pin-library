@@ -36,7 +36,7 @@ Nestled within the [Andes Mountains](https://www.tripsavvy.com/coast-mountains-a
 
 ### Alluvial streams, China
 
-[<img src="fig/Alluvial_streams_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50316513601/in/photostream/)
+[<img src="fig/Alluvial_streams_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50316587281/in/album-72157715882520322/)
 The [Shule river](https://en.wikipedia.org/wiki/Shule_River) drainage basin covers 102.300 square kilometers of land, getting most of its water from the surrounding glaciers. The river carves many alluvial streams and wide [alluvial fans](https://www.nationalgeographic.org/encyclopedia/alluvial-fan/) along the way. Alluvial fans are usually created as flowing water interacts with mountains, hills, or the steep walls of canyons. Streams carrying alluvium can be trickles of rainwater, a fast-moving creek, a powerful river, or even runoff from agriculture or industry. As a stream flows down a hill, it picks up sand and other particles, Called alluvium. The rushing water carries alluvium to a flat plain, where the stream leaves its channel to spread out. Alluvium is deposited as the stream fans out, creating the familiar triangle-shaped feature, which can be tiny, or enormous. 
 
 ### Knockan Crag, Scotland (Geology 8, 11, 12)
