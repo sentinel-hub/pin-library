@@ -84,12 +84,12 @@
         "description": "[Singing Sand Dune](https://www.topchinatravel.com/china-attractions/misha-hill-and-crescent-spring.htm) (Mingsha Hill) and its twin natural beauty at the foot of the hill, [Crescent Spring](http://www.silkroadtourcn.com/attractions/crescent-lake-and-singing-sand-dunes.html), are 7km away from downtown [Dunhuang](https://www.topchinatravel.com/dunhuang/) and cover a total area of around 200 sq km. [The dune](https://en.wikipedia.org/wiki/Singing_Sand_Dunes_(Dunhuang)) stretches for 40 km in length and 20 km in width respectively, with the highest point reaching 250 meters and is completely piled up with sand  in five colors of red, yellow, green, black and white. There is unsurprisingly a [legend](https://www.topchinatravel.com/china-attractions/misha-hill-and-crescent-spring.htm) that narrates the formation of the singing sand dunes,  however, the [real cause](https://www.nationalgeographic.com/news/2012/10/121031-singing-sand-dunes-physics-science-whistling/) is the friction and static created as the wind shifts the sand  or as people  slide down the steep slopes of the sand dunes from the top.  On days when a strong wind blows, the fast shifting sand roars, but when light wind blows, the sand produces a gentle, dulcet sounds akin to music. When sliding on the steep slopes of sand dunes from the top, the drifting sands look like beautiful brocades hung up on the sand dunes, accompanied with beautiful singing sound. The singing sounds like the sound from traditional Chinese music instruments. Hence, the dune gets its name because of the singing sound of the sand. The sands really do sing! Sunrise and sunset are times of great beauty at the edge of the desert. Modest cameras can capture great moments but for the technologically advanced, better equipment will reveal amazing colors!"
     },
     {
-        "title": "Sand Streams, China (Geology 12,8,2)",
+        "title": "Alluvial Streams, China",
         "lat": 39.8514,
         "lng": 95.2264,
         "zoom": 12,
         "datasetId": "S2L2A",
-        "layerId": "3_GEOLOGY-12-8-2",
+        "layerId": "1_TRUE_COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/239b83d8-51e9-4f78-805b-7ee9929c1e58",
         "toTime": "2020-01-02",
         "evalscript": "",
@@ -126,12 +126,12 @@
         "description": "Instead of its roaring waves and scary storms, the Caribbean sea often offers amazing natural wonders below its otherwise uncertain surface. [The Great Blue Hole of Belize](https://www.marineinsight.com/environment/what-is-the-great-blue-hole-of-belize/), located off the coast of Belize, is one of such wonders. Circular in shape with a diameter of 300 m, the water depth in this hole is 125m, which gives it a deep blue color in contrast with the aquamarine color of the water neighboring it. Researchers say this giant underwater [sinkhole](https://www.usgs.gov/special-topic/water-science-school/science/sinkholes?qt-science_center_objects=0#qt-science_center_objects) was originally formed during the last glacial period as a limestone cave when the sea levels were lower. As the ocean began to rise due to [thawing](https://www.nationalgeographic.com/environment/global-warming/big-thaw/) of polar ice caps, the cave system flooded and eventually collapsed, creating a “vertical cave” in the ocean. As such, this swallow hole is popular among divers, who flock to the area to see the geological formations that now lie in the ocean’s depths. [Researcher divers](https://geographical.co.uk/people/explorers/item/3132-explore-belize-blue-hole) have found huge [stalactites and stalagmites](https://oceanexplorer.noaa.gov/facts/stalactite.html) below the surface, some even reaching 9-12 m in length.  They say that the deeper one goes, the water becomes clearer and the formations, more complex. The Great Blue Hole is part of the larger Belize Barrier Reef Reserve System, a World Heritage Site of UNESCO."
     },
     {
-        "title": "Grand Canyon National Park (Geology 12,8,2)",
+        "title": "Grand Canyon National Park",
         "lat": 36.2571,
         "lng": -112.6772,
         "zoom": 12,
         "datasetId": "S2L2A",
-        "layerId": "3_GEOLOGY-12-8-2",
+        "layerId": "1_TRUE_COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/239b83d8-51e9-4f78-805b-7ee9929c1e58",
         "toTime": "2019-11-04",
         "evalscript": "",
@@ -154,12 +154,12 @@
         "description": "[Ha long Bay](https://www.beautifulworld.com/asia/vietnam/ha-long-bay/) is an extraordinary beautiful natural wonder in northern Vietnam’s Quang Ninh Province, near the Chinese border. Covering over 1,500 sq km area, it  comprises of more than 1,600 rocky and earthen islands, typically in the form of jagged limestone pillars jutting out from the sea, and several caves, floating villages  and [grottoes](https://en.wikipedia.org/wiki/Grotto), all of which blend together to produce an exotic and picturesque seascape. The existence of surreal seascape has been often explained by the old age [dragon legend](https://www.visithalongbay.com/insight-guides/the-legend-of-halong-bay.html) while scientist have explained that the formations are as a result of 500 million years of strong erosive forces moulding the rocks into fascinating shapes. It is classified as both a [World Heritage Site by UNESCO](https://whc.unesco.org/en/list/672), and as one of the New 7 Wonders of Nature and for many tourists, this place is like something right out of a movie. The fact is that Ha long Bay features a wide range of biodiversity, while the surrealistic scenery has indeed featured in endless movies."
     },
     {
-        "title": "Namib Desert, Namibia (Geology 12,8,2)",
+        "title": "Namib Desert, Namibia",
         "lat": -25.6543,
         "lng": 15.948,
         "zoom": 10,
         "datasetId": "S2L2A",
-        "layerId": "3_GEOLOGY-12-8-2",
+        "layerId": "1_TRUE_COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/239b83d8-51e9-4f78-805b-7ee9929c1e58",
         "toTime": "2019-11-18",
         "evalscript": "",
