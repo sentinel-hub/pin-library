@@ -32,12 +32,17 @@ The northwest coast of Madagascar with its characteristic [Betsiboka River](http
 
 #### Flooding in Omaha, Nebraska
 
-[<img src="fig/Omaha_flood_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309086337/in/album-72157715851978893/)
 During a multiple-day stretch centered from March 13-23, 2019 (but peaking in severity March 13th-17th), Nebraska, Iowa and South Dakota endured widespread flooding, ranging in scope from minor/moderate to historical/catastrophic (the likes of which had not been observed in several decades). By far the worst flooding occurred along several primary rivers, including the Loup River system (including North and South branches), Cedar River and Wood River (among others, see record crest information below). Not only was this flooding characterized by high water levels (as is the case with all floods), but in many areas damage was also augmented by an unusually-severe break-up of thick river ice. Taking a back seat to the widespread flooding in terms of impacts/severity, much of the local area also endured a winter storm with high winds and blizzard conditions on the night of the 13th into the morning of the 14th. The flooding was a consequence of a powerful winter storm, with wind gusts of over 100 km/h, causing heavy rain. Additionally, melting snow and ice jams causing rivers to overflow, prompting evacuations and dam releases. Iowa, Nebraska and Wisconsin declared a state of emergency. Dozens of roads have been closed due to flooding and a bridge has been severely damaged near Niobrara, Knox County, Nebraska. 
+
+[<img src="fig/Omaha_flood_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309086337/in/album-72157715851978893/)
+***Omaha before (left) and during (right) the flood***
 
 #### Denmark Drought
 
-[<img src="fig/Denmark_drought_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50308842936/in/album-72157715851978893/)
 In July, satellite imagery of Europe should look green. Instead, in July 2018, it looked brown due to a severe drought. This drastic color change has happened over just a couple of months. A prolonged dry spell coupled with soaring, record-breaking temperatures has been a horrible combination for farms from Scandinavia and England in the north to France, Netherlands, and Germany to the south. In particular, July was incredibly hot for northern Europe. Temperatures in late July exceeded 32°C (90°F) as far north as the Arctic Circle. In Denmark, the spring harvests of vegetables and grains was down 40 to 50%. Another consequence of the severe drought were wildfires. Sweden observed around 50 forest fires during the peak of the heat in mid-July, which, according to the World Meteorological Organization, was the worst outbreak of forecast fires in modern records. The extreme heat in the far north has also led to the warming of lake and oceans as well. And when waters warm that fast, conditions become favorable for blooms of dangerous algae. The Baltic Sea in particular has seen its most severe algal blooms in decades. Learn more [here](https://www.climate.gov/news-features/event-tracker/hot-dry-summer-has-led-drought-europe-2018).
+
+[<img src="fig/Denmark_drought_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50308842936/in/album-72157715851978893/)
+***Denmark before (left) and during (right) the drought***
+
 
 
