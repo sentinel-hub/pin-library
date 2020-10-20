@@ -27,17 +27,19 @@
         "gamma": "1.4"
     },
     {
-        "title": "Forestry; Indonesian rainforest (ARVI)",
+        "title": "Forestry in the Amazon rainforest",
         "lat": -9.3756,
         "lng": -52.1178,
         "zoom": 11,
         "datasetId": "S2L2A",
-        "layerId": "5_ARVI",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/2730da16-e275-480d-a58a-a6956ca3d025",
         "toTime": "2019-07-18",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "FORESTRY"
+        "themeId": "FORESTRY",
+        "gain": '3.3',
+        "gamma": '1.5',
     },
     {
         "title": "Sundarbans, Mangrove forest (EVI)",
