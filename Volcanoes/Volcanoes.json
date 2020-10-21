@@ -71,7 +71,7 @@
         "lng": 15.211227399999984,
         "zoom": 14,
         "datasetId": "S2L2A",
-        "layerId": "FALSE-COLOR-URBAN",
+        "layerId": "TRUE-COLOR-LAVA-FLOW",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/cb8d43b4-cbea-459d-a361-c95e1996ee88",
         "toTime": "2019-02-07",
         "evalscript": "",
