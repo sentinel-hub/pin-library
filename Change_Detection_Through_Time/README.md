@@ -1,6 +1,6 @@
 # Chenge Detection Through Time
 
-[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=b7b773e8-019e-496b-9883-4e6e0d6c55db){:target="_blank"} pins directly into EO Browser or [download](Change_detection_through_time.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
+[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=b6a8a5e5-b415-4818-8a11-fe0269c3e791){:target="_blank"} pins directly into EO Browser or [download](Change_detection_through_time.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
 Following is a set of pins which are all connected to the topic Change detection throuth time. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on Flickr.
 
