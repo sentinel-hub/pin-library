@@ -1,4 +1,4 @@
-# Chenge Detection Through Time
+# Change Detection Through Time
 
 [Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=e8eb119d-211b-4257-9ec1-1ad4a6026d12){:target="_blank"} pins directly into EO Browser or [download](Change_detection_through_time.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
