@@ -45,20 +45,20 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 
 <img src="fig/Methane_legend.png" align="right" width="80"> Methane is, after carbon dioxide (CO2), the most important contributor to the anthropogenically enhanced greenhouse effect. Roughly three-quarters of methane emissions are anthropogenic and as such it is important to continue the record of satellite based measurements. TROPOMI aims at providing CH4 column concentrations with high sensitivity to the Earth’s surface, good spatiotemporal coverage, and sufficient accuracy to facilitate inverse modeling of sources and sinks. TROPOMI uses absorption information from the Oxygen-A Band (760nm) and the SWIR spectral range to monitor CH4 abundances in the Earth's atmosphere. [More...](http://www.tropomi.eu/data-products/methane)
 
-<img src="fig/NO2_Riyadh_thumbnail.png" width="240">
+<img src="fig/CH4_Turkmenistan_thumbnail.png" width="240">
 **High CH4 concentrations, Turkmenistan**
 
-<img src="fig/NO2_Riyadh_thumbnail.png" width="240">
+<img src="fig/CH4_Burkina_thumbnail.png" width="240">
 **High CH4 concentrations, Burkina Faso**
 
 ### Sulphur Dioxide - SO2
 
 <img src="fig/SO2_legend.png" align="right" width="80"> Sulphur dioxide enters the Earth’s atmosphere through both natural and anthropogenic processes. It plays a role in chemistry on a local and global scale and its impact ranges from short term pollution to effects on climate. Only about 30% of the emitted SO2 comes from natural sources; the majority is of anthropogenic origin. SO2 emissions adversely affect human health and air quality. SO2 has an effect on climate through radiative forcing, via the formation of sulphate aerosols. Volcanic SO2 emissions can also pose a threat to aviation, along with volcanic ash. S5P/TROPOMI samples the Earth’s surface with a revisit time of one day with unprecedented spatial resolution of 3.5 x 7 km which allows the resolution of fine details including the detection of much smaller SO2 plumes. [More...](http://www.tropomi.eu/data-products/sulphur-dioxide)
 
-<img src="fig/NO2_Riyadh_thumbnail.png" width="240">
+<img src="fig/SO2_Andorra_thumbnail.png" width="240">
 **High SO2 concentrations, Andorra and Marseille**
 
-<img src="fig/NO2_Riyadh_thumbnail.png" width="240">
+<img src="fig/SO2_Italy_thumbnail.png" width="240">
 **High SO2 concentrations, Italy**
 
 ### Ozone - O3
