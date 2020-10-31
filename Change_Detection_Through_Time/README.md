@@ -30,13 +30,22 @@ In a typical year, rainfall during the wet season (December through March) recha
 
 [<img src="fig/Dubai_urbanization_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50308648548/in/album-72157715852993648/) Perhaps no place on the Earth has had as drastic land cover change over the past ten years as Dubai. The creation of over 300 kilometers of coastline, the rapid expansion of urban land cover, and the intensification of urban development make this one of the most rapidly and visibly changed land covers due to urbanization. The total population of Dubai has grown by 1000% over the last 40 years alone. In 1975 the total population was 183,000 inhabitants, which increased in 2015 to about 2 million, making Dubai population one of the fastest growing in the world. The total built up area increased from only 54 square km in 1975 to 977 square km in 2015, raising  urbanized land by 1800 % in only 40 years. Learn more [here](https://lcluc.umd.edu/hotspot/urbanization-dubai#:~:text=Dubai%20has%20experienced%20tremendous%20recent,in%202015%20(AMEInfo%202005a).) and [here](https://www.researchgate.net/publication/317564338_The_Boom_Population_and_Urban_Growth_of_Dubai_City).
 
+**Dubai in 2005 (Envisat Meris)**
+**Dubai in 2020 (Sentinel-2 L2A)**
+
 ### Agriculture in Italy
 
 [<img src="fig/Italy_agriculture_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50309693402/in/album-72157715852993648/) Agriculture is one of Italy's key economic sectors, accounting for around 2.1% of GDP. Most farms are small, with the average size being eleven hectares. Italian industries, including the food-processing sector, rely heavily on imports of raw materials. Italy is one of the largest agricultural producers and food processors in the EU. The northern part of Italy produces primarily grains, soybeans, meat, and dairy products, while the south specializes in fruits, vegetables, olive oil, wine, and durum wheat.  Even though much of its mountainous terrain is unsuitable for farming, approximately 4% of the population is employed in farming.  Veneto agriculture is one of the most productive in Italy, producing mainly cereals, fruits and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation. Learn more [here](https://www.recare-hub.eu/news/45-06-bioforsk) and [here](https://www.privacyshield.gov/article?id=Italy-Agricultural-Sector#:~:text=Italy's%20agriculture%20is%20typical%20of,%2C%20wine%2C%20and%20durum%20wheat.).
 
+**Agriculture in Italy, 1986 (Landsat 8)**
+**Agriculture in Italy, 2020 (Sentinel-2 L2A)**
+
 ### Aral Sea
 
 [<img src="fig/Aral_sea_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50308532883/in/album-72157715852993648/) In the 1960s, the Soviet Union undertook a major water diversion project on the arid plains of Kazakhstan, Uzbekistan, and Turkmenistan. The region’s two major rivers, fed by snowmelt and precipitation in faraway mountains, were used to transform the desert into farms for cotton and other crops. Before the project, the Syr Darya and the Amu Darya rivers flowed down from the mountains, cut northwest through the Kyzylkum Desert, and finally pooled together in the lowest part of the basin. The lake they made, the Aral Sea, was once the fourth largest in the world. Although irrigation made the desert bloom, it devastated the Aral Sea. As the Aral Sea has dried up, fisheries and the communities that depended on them collapsed. The salty dust blew off the lakebed and settled onto fields, degrading the soil. Croplands had to be flushed with larger and larger volumes of river water. The loss of the moderating influence of such a large body of water made winters colder and summers hotter and drier. Additionally, as the Aral water content diminishes, salinization of the lake increases. This creates vertical stratification, where surface salinity is lower than the bottom layer, thus heating up faster. This additionally contributes to water evaporation, creating a positive feedback loop. Learn more [here](http://www.columbia.edu/~tmt2120/environmental%20impacts.htm) and [here](https://earthobservatory.nasa.gov/world-of-change/AralSea).
+
+**Aral Sea, 2005 (Envisat Meris)**
+**Aral Sea, 2019 (Sentinel-2 L2A)**
 
 ### Disappearing Glaciers of Switzerland
 
