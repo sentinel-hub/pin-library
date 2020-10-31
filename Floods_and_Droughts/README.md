@@ -25,7 +25,7 @@ Bangladesh is known as one of the most flood-prone countries in the world. Every
 - **Bangladesh, before the flood (SWIR)**
 - **Bangladesh, after the flood (SWIR)**
 
-[<img src="fig/Bangladesh_flood.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50308784941/in/photostream/) ***Bangladesh, before (left) and during (right) the flood***
+[<img src="fig/Bangladesh_flood.jpg" width="350">](https://www.flickr.com/photos/sentinelhub/50308784941/in/photostream/) ***Bangladesh, before (left) and during (right) the flood***
 
 ### Madagascar, Before/During the flood
 The northwest coast of Madagascar with its characteristic [Betsiboka River](https://en.wikipedia.org/wiki/Betsiboka_River) is known as one of the world's fastest changing coastlines. Due to extensive logging of rainforests and mangroves, the Betsiboka Estuary is subject to catastrophic levels of soil erosion ([related article](https://earthobservatory.nasa.gov/images/4388/betsiboka-estuary-madagascar)). With every rain event, iron-rich silt sediments from the bare hills are washed into the river system, giving the river it's characteristic red-brown coloring. The large sediment plumes eventually deposit in the ecologically important Bombetoka Bay, which puts the balance of this shelter for Madagascar's endemic fauna at risk. [In late January 2020 torrential rains](https://earthobservatory.nasa.gov/images/146225/flood-waters-overwhelm-northern-madagascar#:~:text=Torrential%20rains%20from%20several%20tropical,northern%20reaches%20of%20the%20island.&text=Many%20grain%20stores%20and%20cattle,key%20agricultural%20regions%20of%20Madagascar.) in the northern parts of the island resulted in heavy flooding of the region that in turn had a large impact on local communities and the ecosystem. The two [Landsat 8](https://www.usgs.gov/land-resources/nli/landsat/landsat-8?qt-science_support_page_related_con=0#qt-science_support_page_related_con) images depict the extreme difference between the usual state of the river delta, and the described effects of tropical disturbances, with the rainfall-induced sediment flow in the river being really prominent in the satellite imagery.
@@ -33,7 +33,7 @@ The northwest coast of Madagascar with its characteristic [Betsiboka River](http
 - **Madagascar, before the flood**
 - **Madagascar, during the flood**
 
-[<img src="fig/Madagascar_flood.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309056422/in/album-72157715851978893/) ***Madagascar, before (left) and during (right) the flood (True Color)***
+[<img src="fig/Madagascar_flood.jpg" width="350">](https://www.flickr.com/photos/sentinelhub/50309056422/in/album-72157715851978893/) ***Madagascar, before (left) and during (right) the flood (True Color)***
 
 #### Flooding in Omaha, Nebraska
 
@@ -42,7 +42,7 @@ During a multiple-day stretch centered from March 13-23, 2019 (but peaking in se
 - **Omaha, before the flood (SWIR)**
 - **Omaha, during the flood (SWIR)**
 
-[<img src="fig/Omaha_flood_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309086337/in/album-72157715851978893/)
+[<img src="fig/Omaha_flood_thumbnail.jpg" width="350">](https://www.flickr.com/photos/sentinelhub/50309086337/in/album-72157715851978893/)
 ***Omaha before (left) and during (right) the flood***
 
 #### Denmark Drought
@@ -52,7 +52,7 @@ In July, satellite imagery of Europe should look green. Instead, in July 2018, i
 - **Denmark, before the drought**
 - **Denmark, during the drought**
 
-[<img src="fig/Denmark_drought_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50308842936/in/album-72157715851978893/)
+[<img src="fig/Denmark_drought_thumbnail.jpg" width="350">](https://www.flickr.com/photos/sentinelhub/50308842936/in/album-72157715851978893/)
 ***Denmark before (left) and during (right) the drought***
 
 
