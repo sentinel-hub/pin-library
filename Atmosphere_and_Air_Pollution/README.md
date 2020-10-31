@@ -35,7 +35,7 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 <img src="fig/NO2_Poland_thumbnail.png" width="240">
 **High NO2 concentrations, Poland**
 
-<img src="fig/NO2_Johannesburg_thumbnail.png" width="240">
+<img src="fig/NO2_Jonahhesburg_thumbnail.png" width="240">
 **High NO2 concentrations, Johannesburg**
 
 <img src="fig/NO2_Riyadh_thumbnail.png" width="240">
