@@ -11,7 +11,7 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 <img src="fig/CO_legend.png" align="right" width="100"> Carbon monoxide (CO) is an important atmospheric trace gas for our understanding of tropospheric chemistry. In certain urban areas, it is a major atmospheric pollutant. Main sources of CO are combustion of fossil fuels, biomass burning, and atmospheric oxidation of methane and other hydrocarbons. Whereas fossil fuel combustion is the main source of CO at Northern mid-latitudes, the oxidation of isoprene and biomass burning play an important role in the tropics. TROPOMI on the Sentinel 5 Precursor (S5P) satellite observes the CO global abundance exploiting clear-sky and cloudy-sky Earth radiance measurements in the 2.3 µm spectral range of the shortwave infrared (SWIR) part of the solar spectrum. [More...](http://www.tropomi.eu/data-products/carbon-monoxide)
 
 <img src="fig/CO_Ghana_thumbnail.png" width="240">
-**High CO concentrations, Ghana**
+***High CO concentrations, Ghana***
 
 <img src="fig/CO_Thailand_thumbnail.png" width="240">
 **High CO concentrations, Thailand**
