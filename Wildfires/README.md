@@ -21,38 +21,38 @@ In summer of 2017, [dozens of wildfires erupted](https://www.channelnewsasia.com
 The 2019–2020 Australian bushfire season, which stretched from June 2019 to March 2020, devastated portions of the country, scorching an estimated 186,155 square kilometers (46 million acres), destroying more than 5,900 buildings (including 2,779 homes), and killing at least 34 people. [Nearly 3 billion animals](https://www.bbc.com/news/world-australia-53549936) were killed or displaced. Wildfires occur every summer in Australia (typically peaking in February), but the scale of these seasonal fires was unprecedented. A severe drought, which led into the hottest and driest year on record, combined with sustained high temperatures and windy conditions, created an exceedingly dangerous fire situation across many areas of the country. Hard-hit areas included New South Wales, Victoria, Tasmania, and South Australia. Over the past 20 years, the average percentage of Australia’s forests burned each year was 1 percent. During the 2019-2020 fire season, that figure was 21 percent. Climate change models predicted such severity of wildfires to become a reality no earlier than the next century. Learn more [here]( https://www.directrelief.org/2020/06/six-months-after-australias-wildfires-recovery-continues/), [here]( https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/) and [here]( https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/).
 
 [<img src="fig/Australia_wildfire_2_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309895717/in/album-72157715854488416/)
-**Sentinel-2 Pierre Markuse script**
+***Sentinel-2 Pierre Markuse script***
 
 [<img src="fig/Australia_wildfire_1_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309030473/in/album-72157715854488416/)
-**Sentinel-2 Pierre Markuse script**
+***Sentinel-2 Pierre Markuse script***
 
 <img src="fig/Australia_CO_thumbnail.jpg" width="240">
-**Sentinel-5P C0 concentrations**
+***Sentinel-5P C0 concentrations***
 
 <img src="fig/Australia_NO2_thumbnail.jpg" width="240">
-**Sentinel-5P NO2 concentrations**
+***Sentinel-5P NO2 concentrations***
 
 <img src="fig/Australia_thermal_thumbnail.jpg" width="240">
-*Landsat 8 thermal imagery**
+***Landsat 8 thermal imagery***
 
 ### California Wildfire, 2018
 
 In November 2018, the Camp Fire in Butte County and the Woolsey Fire near Los Angeles ignited a wildfire, that killed at least 90 people, burned more than 250,000 acres, destroyed more than 20,000 structures and generated unhealthy air conditions in communities hundreds of miles away. As California looks into even hotter, drier climate and the possibility of even more destructive fire seasons in the future, the wildfire prompted serious considerations on how to lower the impact of such events. There are some unique weather conditions that are driving the exceptionally swift California fires, like strong winds and high temperatures. What followed again during the summer was a period of intense, dry heat throughout the state, with a heat wave shattering temperature records in several cities. Long-term trends linked to global warming also exacerbated this year’s fire season across the United States. This warming draws moisture out of plants, creating drier conditions earlier in the season. It also causes an earlier snowmelt in the spring, leading to more arid conditions in the summer. Surprisingly, it is estimated that 84 percent of wildfires are ignited by humans, whether through downed power lines, careless campfires, or arson. Additionally, the state’s population is growing, leading to a significant overlap between the areas of high fire risk and areas with a growing population density. The study estimated that by 2050, 645,000 houses in California will be built in “very high” wildfire severity zones. Living with the fire prone conditions, some additional measures can be taken to lower the impact of such events in the future. Read more [here]( https://news.stanford.edu/2018/11/28/reflections-california-wildfires/) and [here.](https://www.vox.com/2018/8/7/17661096/california-wildfires-2018-camp-woolsey-climate-change)
 
 [<img src="fig/California_wildfire_true_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309004753/in/album-72157715854488416/)
-**Sentinel-2 Pierre Markuse script**
+***Sentinel-2 Pierre Markuse script***
 
 [<img src="fig/California_wildfire_atmosphere_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309687326/in/album-72157715854488416/)
-**Sentinel-2 Atmospheric penetration**
+***Sentinel-2 Atmospheric penetration***
 
 <img src="fig/California_CO_thumbnail.jpg" width="240">
-**Sentinel-5P CO concentrations**
+***Sentinel-5P CO concentrations***
 
 <img src="fig/California_NO2_thumbnail.jpg" width="240">
-**Sentinel-5P NO2 concentrations **
+***Sentinel-5P NO2 concentrations***
 
 <img src="fig/California_thermal_thumbnail.jpg" width="240">
-**Landsat 8 thermal imagery**
+***Landsat 8 thermal imagery***
 
 ### Wildfire in Funchal, Madeira, 2016
 
@@ -62,7 +62,7 @@ Fires were also blazing on the mainland with reports of a fourth death in centra
 
 
 [<img src="fig/Funchal_before_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50550790703/in/dateposted/)
-**Funchal, before wildfire (Pierre Markuse script)**
+***Funchal, before wildfire (Pierre Markuse script)***
 
 [<img src="fig/Funchal_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309741606/in/album-72157715854488416/)
-**Funchal, after the wildfire (Pierre Markuse script)**
+***Funchal, after the wildfire (Pierre Markuse script)***
