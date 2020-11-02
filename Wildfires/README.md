@@ -11,10 +11,10 @@ The following is a set of pins which are all connected to the topic wildfires. E
 In summer of 2017, [dozens of wildfires erupted](https://www.channelnewsasia.com/news/world/croatia-fights-dozens-of-fires-along-adriatic-coast-9144906) along the Adriatic coast. Soaring heat wave temperatures accompanied by a lack of rainfall led to a drought, which resulted in dry, hot forest floor, extremely vulnerable to wildfires. The cause of many wildfires were careless people, while strong winds made the situation worse by making fires spread much faster. The firefighters struggled to contain the fires and keep them from dwellings. Altogether, an astonishing 83.000 hectares of forest burnt down. 
 
 [<img src="fig/Croatia_Wildfires_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/49657779548/in/album-72157714991542468/)
-**Sentinel-2 Pierre Markuse script**
+***Sentinel-2 Pierre Markuse script***
 
 [<img src="fig/Croatia_burned_thumbnail.jpg" width="240">](https://www.flickr.com/photos/sentinelhub/50309713071/in/album-72157715854488416/)
-**Sentinel-2 Burned area detection script**
+***Sentinel-2 Burned area detection script***
 
 ### Wildfires in Australia, 2020
 
