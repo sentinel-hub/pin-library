@@ -10,8 +10,23 @@
         "toTime": "2017-07-17",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "In summer of 2017, [dozens of wildfires erupted](https://www.channelnewsasia.com/news/world/croatia-fights-dozens-of-fires-along-adriatic-coast-9144906) along the Adriatic coast. Soaring heat wave temperatures accompanied by a lack of rainfall led to a drought, which resulted in dry, hot forest floor, extremely vulnerable to wildfires. The cause of many wildfires were careless people, while strong winds made the situation worse by enabling fires to spread much faster. The firefighters struggled to contain the fires and keep them from dwellings. Altogether, an astonishing 83.000 hectares of forest burned down."
     },
+    {
+        "title": "Wildfires in Croatia, July 2017 (Burned Area Detection script)",
+        "lat": 43.4918,
+        "lng": 16.619,
+        "zoom": 11,
+        "datasetId": "S2L2A",
+        "layerId": "BURNED-AREAS-DETECTION",
+        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/aae18701-6b25-4001-8b2a-b98a1b3806c1",
+        "toTime": "2017-07-17",
+        "evalscript": "",
+        "evalscripturl": "",
+        "themeId": "WILDFIRES",
+        "description": "In summer of 2017, [dozens of wildfires erupted](https://www.channelnewsasia.com/news/world/croatia-fights-dozens-of-fires-along-adriatic-coast-9144906) along the Adriatic coast. Soaring heat wave temperatures accompanied by a lack of rainfall led to a drought, which resulted in dry, hot forest floor, extremely vulnerable to wildfires. The cause of many wildfires were careless people, while strong winds made the situation worse by enabling fires to spread much faster. The firefighters struggled to contain the fires and keep them from dwellings. Altogether, an astonishing 83.000 hectares of forest burned down."
+      },
     {
         "title": "Wildfires in Australia, January 2019 (Pierre Markuse script)",
         "lat": -21.9374,
@@ -23,46 +38,22 @@
         "toTime": "2019-01-05",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "The 2019 – 2020 Australian bushfire season, which stretched from June 2019 to March 2020, devastated portions of the country, scorching an estimated 186,155 square km (46 million acres), destroying more than 5,900 buildings (including 2,779 homes), and killing at least 34 people. [Nearly 3 billion animals](https://www.bbc.com/news/world-australia-53549936) were killed or displaced. Wildfires occur every summer in Australia (typically peaking in February), but the scale of the 2020 seasonal fires was unprecedented. A severe drought, which led into the hottest and driest year on record, combined with sustained high temperatures and windy conditions, created an exceedingly dangerous fire situation across many areas of the country. Hard-hit areas included New South Wales, Victoria, Tasmania, and South Australia. Over the past 20 years, the average percentage of Australia’s forests burned each year was 1 percent. During the 2019 – 2020 fire season, that figure was 21 percent. Climate change models predicted such severity of wildfires to become a reality no later than the next century. Learn more [here](https://www.directrelief.org/2020/06/six-months-after-australias-wildfires-recovery-continues/), [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/) and [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/)."
     },
     {
-        "title": "Wildfires in Australia, January 2019 (Burned areas detection script)",
-        "lat": -21.9374,
-        "lng": 116.6572,
-        "zoom": 12,
-        "datasetId": "S2L2A",
-        "layerId": "BURNED-AREAS-DETECTION",
-        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/aae18701-6b25-4001-8b2a-b98a1b3806c1",
-        "toTime": "2019-01-05",
-        "evalscript": "",
-        "evalscripturl": "",
-        "themeId": "WILDFIRES"
-    },
-    {
-        "title": "Wildfires in Australia, January 2019 (Atmospheric Penetration)",
+        "title": "Wildfires in Australia, January 2019 (Pierre Markuse script)",
         "lat": -23.658,
         "lng": 129.837,
         "zoom": 12,
         "datasetId": "S2L2A",
-        "layerId": "ATMOSPHERIC-PENETRATION",
+        "layerId": "WILDFIRES-PIERRE-MARKUSE",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/aae18701-6b25-4001-8b2a-b98a1b3806c1",
         "toTime": "2019-01-02",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
-    },
-    {
-        "title": "Wildfires in Australia, January 2019 (BAI)",
-        "lat": -23.658,
-        "lng": 129.837,
-        "zoom": 12,
-        "datasetId": "S2L2A",
-        "layerId": "BURN-AREA-INDEX-BAI",
-        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/aae18701-6b25-4001-8b2a-b98a1b3806c1",
-        "toTime": "2019-01-02",
-        "evalscript": "",
-        "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "The 2019 – 2020 Australian bushfire season, which stretched from June 2019 to March 2020, devastated portions of the country, scorching an estimated 186,155 square km (46 million acres), destroying more than 5,900 buildings (including 2,779 homes), and killing at least 34 people. [Nearly 3 billion animals](https://www.bbc.com/news/world-australia-53549936) were killed or displaced. Wildfires occur every summer in Australia (typically peaking in February), but the scale of the 2020 seasonal fires was unprecedented. A severe drought, which led into the hottest and driest year on record, combined with sustained high temperatures and windy conditions, created an exceedingly dangerous fire situation across many areas of the country. Hard-hit areas included New South Wales, Victoria, Tasmania, and South Australia. Over the past 20 years, the average percentage of Australia’s forests burned each year was 1 percent. During the 2019 – 2020 fire season, that figure was 21 percent. Climate change models predicted such severity of wildfires to become a reality no later than the next century. Learn more [here](https://www.directrelief.org/2020/06/six-months-after-australias-wildfires-recovery-continues/), [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/) and [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/)."
     },
     {
         "title": "Wildfires in Australia, January 2019 (CO)",
@@ -75,7 +66,8 @@
         "toTime": "2019-01-02",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "The 2019 – 2020 Australian bushfire season, which stretched from June 2019 to March 2020, devastated portions of the country, scorching an estimated 186,155 square km (46 million acres), destroying more than 5,900 buildings (including 2,779 homes), and killing at least 34 people. [Nearly 3 billion animals](https://www.bbc.com/news/world-australia-53549936) were killed or displaced. Wildfires occur every summer in Australia (typically peaking in February), but the scale of the 2020 seasonal fires was unprecedented. A severe drought, which led into the hottest and driest year on record, combined with sustained high temperatures and windy conditions, created an exceedingly dangerous fire situation across many areas of the country. Hard-hit areas included New South Wales, Victoria, Tasmania, and South Australia. Over the past 20 years, the average percentage of Australia’s forests burned each year was 1 percent. During the 2019 – 2020 fire season, that figure was 21 percent. Climate change models predicted such severity of wildfires to become a reality no later than the next century. Learn more [here](https://www.directrelief.org/2020/06/six-months-after-australias-wildfires-recovery-continues/), [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/) and [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/)."
     },
     {
         "title": "Wildfires in Australia, January 2019 (NO2)",
@@ -88,7 +80,8 @@
         "toTime": "2019-01-02",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "The 2019 – 2020 Australian bushfire season, which stretched from June 2019 to March 2020, devastated portions of the country, scorching an estimated 186,155 square km (46 million acres), destroying more than 5,900 buildings (including 2,779 homes), and killing at least 34 people. [Nearly 3 billion animals](https://www.bbc.com/news/world-australia-53549936) were killed or displaced. Wildfires occur every summer in Australia (typically peaking in February), but the scale of the 2020 seasonal fires was unprecedented. A severe drought, which led into the hottest and driest year on record, combined with sustained high temperatures and windy conditions, created an exceedingly dangerous fire situation across many areas of the country. Hard-hit areas included New South Wales, Victoria, Tasmania, and South Australia. Over the past 20 years, the average percentage of Australia’s forests burned each year was 1 percent. During the 2019 – 2020 fire season, that figure was 21 percent. Climate change models predicted such severity of wildfires to become a reality no later than the next century. Learn more [here](https://www.directrelief.org/2020/06/six-months-after-australias-wildfires-recovery-continues/), [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/) and [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/)."
     },
     {
         "title": "Wildfires in Australia, January 2019 (Temperature)",
@@ -101,7 +94,8 @@
         "toTime": "2019-01-02",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "The 2019 – 2020 Australian bushfire season, which stretched from June 2019 to March 2020, devastated portions of the country, scorching an estimated 186,155 square km (46 million acres), destroying more than 5,900 buildings (including 2,779 homes), and killing at least 34 people. [Nearly 3 billion animals](https://www.bbc.com/news/world-australia-53549936) were killed or displaced. Wildfires occur every summer in Australia (typically peaking in February), but the scale of the 2020 seasonal fires was unprecedented. A severe drought, which led into the hottest and driest year on record, combined with sustained high temperatures and windy conditions, created an exceedingly dangerous fire situation across many areas of the country. Hard-hit areas included New South Wales, Victoria, Tasmania, and South Australia. Over the past 20 years, the average percentage of Australia’s forests burned each year was 1 percent. During the 2019 – 2020 fire season, that figure was 21 percent. Climate change models predicted such severity of wildfires to become a reality no later than the next century. Learn more [here](https://www.directrelief.org/2020/06/six-months-after-australias-wildfires-recovery-continues/), [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/) and [here](https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/)."
     },
     {
         "title": "Wildfires in California, August 2018 (Atmospheric Penetration)",
@@ -114,7 +108,8 @@
         "toTime": "2018-08-05",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "In November 2018, the Camp Fire in Butte County and the Woolsey Fire near Los Angeles ignited a wildfire, that killed at least 90 people, burned more than 250,000 acres, destroyed more than 20,000 structures and generated unhealthy air conditions in communities hundreds of miles away. As California looks into even hotter, drier climate and the possibility of even more destructive fire seasons in the future, the wildfire prompted serious considerations on how to lower the impact of such events. There are some unique weather conditions that are driving the exceptionally swift California fires, like strong winds and high temperatures. What followed again during the summer was a period of intense, dry heat throughout the state, with a heat wave shattering temperature records in several cities. Long-term trends linked to global warming also exacerbated 2020’s fire season across the United States. The warming draws moisture out of plants, creating drier conditions earlier in the season. It also causes an earlier snowmelt in the spring, leading to more arid conditions in summer. Surprisingly, it is estimated that 84 percent of wildfires are ignited by humans, whether through downed power lines, careless campfires, or arson. Additionally, the state’s population is growing, leading to a significant overlap between the areas of high fire risk and areas with a growing population density. The study estimated that by 2050, 645,000 houses in California will be built in “very high” wildfire severity zones. Living with the fire prone conditions, some additional measures can be taken to lower the impact of such events in the future. Read more [here]( https://news.stanford.edu/2018/11/28/reflections-california-wildfires/) and [here.](https://www.vox.com/2018/8/7/17661096/california-wildfires-2018-camp-woolsey-climate-change)"
     },
     {
         "title": "Wildfires in California, August 2018 (Wildfires, Pierre Markuse)",
@@ -127,20 +122,8 @@
         "toTime": "2018-08-05",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
-    },
-    {
-        "title": "Wildfires in California, August 2018 (Burned Area Detection)",
-        "lat": 37.6047,
-        "lng": -119.8787,
-        "zoom": 11,
-        "datasetId": "S2L1C",
-        "layerId": "BURNED-AREAS-DETECTION",
-        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/146ebe47-2d5e-42a0-953c-910869d1ff72",
-        "toTime": "2018-08-05",
-        "evalscript": "",
-        "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "In November 2018, the Camp Fire in Butte County and the Woolsey Fire near Los Angeles ignited a wildfire, that killed at least 90 people, burned more than 250,000 acres, destroyed more than 20,000 structures and generated unhealthy air conditions in communities hundreds of miles away. As California looks into even hotter, drier climate and the possibility of even more destructive fire seasons in the future, the wildfire prompted serious considerations on how to lower the impact of such events. There are some unique weather conditions that are driving the exceptionally swift California fires, like strong winds and high temperatures. What followed again during the summer was a period of intense, dry heat throughout the state, with a heat wave shattering temperature records in several cities. Long-term trends linked to global warming also exacerbated 2020’s fire season across the United States. The warming draws moisture out of plants, creating drier conditions earlier in the season. It also causes an earlier snowmelt in the spring, leading to more arid conditions in summer. Surprisingly, it is estimated that 84 percent of wildfires are ignited by humans, whether through downed power lines, careless campfires, or arson. Additionally, the state’s population is growing, leading to a significant overlap between the areas of high fire risk and areas with a growing population density. The study estimated that by 2050, 645,000 houses in California will be built in “very high” wildfire severity zones. Living with the fire prone conditions, some additional measures can be taken to lower the impact of such events in the future. Read more [here]( https://news.stanford.edu/2018/11/28/reflections-california-wildfires/) and [here.](https://www.vox.com/2018/8/7/17661096/california-wildfires-2018-camp-woolsey-climate-change)"
     },
     {
         "title": "Wildfires in California, August 2018 (CO)",
@@ -153,7 +136,8 @@
         "toTime": "2018-08-05",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "In November 2018, the Camp Fire in Butte County and the Woolsey Fire near Los Angeles ignited a wildfire, that killed at least 90 people, burned more than 250,000 acres, destroyed more than 20,000 structures and generated unhealthy air conditions in communities hundreds of miles away. As California looks into even hotter, drier climate and the possibility of even more destructive fire seasons in the future, the wildfire prompted serious considerations on how to lower the impact of such events. There are some unique weather conditions that are driving the exceptionally swift California fires, like strong winds and high temperatures. What followed again during the summer was a period of intense, dry heat throughout the state, with a heat wave shattering temperature records in several cities. Long-term trends linked to global warming also exacerbated 2020’s fire season across the United States. The warming draws moisture out of plants, creating drier conditions earlier in the season. It also causes an earlier snowmelt in the spring, leading to more arid conditions in summer. Surprisingly, it is estimated that 84 percent of wildfires are ignited by humans, whether through downed power lines, careless campfires, or arson. Additionally, the state’s population is growing, leading to a significant overlap between the areas of high fire risk and areas with a growing population density. The study estimated that by 2050, 645,000 houses in California will be built in “very high” wildfire severity zones. Living with the fire prone conditions, some additional measures can be taken to lower the impact of such events in the future. Read more [here]( https://news.stanford.edu/2018/11/28/reflections-california-wildfires/) and [here.](https://www.vox.com/2018/8/7/17661096/california-wildfires-2018-camp-woolsey-climate-change)"
     },
     {
         "title": "Wildfires in California, August 2018 (NO2)",
@@ -166,7 +150,8 @@
         "toTime": "2018-08-05",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "In November 2018, the Camp Fire in Butte County and the Woolsey Fire near Los Angeles ignited a wildfire, that killed at least 90 people, burned more than 250,000 acres, destroyed more than 20,000 structures and generated unhealthy air conditions in communities hundreds of miles away. As California looks into even hotter, drier climate and the possibility of even more destructive fire seasons in the future, the wildfire prompted serious considerations on how to lower the impact of such events. There are some unique weather conditions that are driving the exceptionally swift California fires, like strong winds and high temperatures. What followed again during the summer was a period of intense, dry heat throughout the state, with a heat wave shattering temperature records in several cities. Long-term trends linked to global warming also exacerbated 2020’s fire season across the United States. The warming draws moisture out of plants, creating drier conditions earlier in the season. It also causes an earlier snowmelt in the spring, leading to more arid conditions in summer. Surprisingly, it is estimated that 84 percent of wildfires are ignited by humans, whether through downed power lines, careless campfires, or arson. Additionally, the state’s population is growing, leading to a significant overlap between the areas of high fire risk and areas with a growing population density. The study estimated that by 2050, 645,000 houses in California will be built in “very high” wildfire severity zones. Living with the fire prone conditions, some additional measures can be taken to lower the impact of such events in the future. Read more [here]( https://news.stanford.edu/2018/11/28/reflections-california-wildfires/) and [here.](https://www.vox.com/2018/8/7/17661096/california-wildfires-2018-camp-woolsey-climate-change)"
     },
     {
         "title": "Wildfires in California, August 2018 (Temperature)",
@@ -179,58 +164,35 @@
         "toTime": "2018-08-06",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "In November 2018, the Camp Fire in Butte County and the Woolsey Fire near Los Angeles ignited a wildfire, that killed at least 90 people, burned more than 250,000 acres, destroyed more than 20,000 structures and generated unhealthy air conditions in communities hundreds of miles away. As California looks into even hotter, drier climate and the possibility of even more destructive fire seasons in the future, the wildfire prompted serious considerations on how to lower the impact of such events. There are some unique weather conditions that are driving the exceptionally swift California fires, like strong winds and high temperatures. What followed again during the summer was a period of intense, dry heat throughout the state, with a heat wave shattering temperature records in several cities. Long-term trends linked to global warming also exacerbated 2020’s fire season across the United States. The warming draws moisture out of plants, creating drier conditions earlier in the season. It also causes an earlier snowmelt in the spring, leading to more arid conditions in summer. Surprisingly, it is estimated that 84 percent of wildfires are ignited by humans, whether through downed power lines, careless campfires, or arson. Additionally, the state’s population is growing, leading to a significant overlap between the areas of high fire risk and areas with a growing population density. The study estimated that by 2050, 645,000 houses in California will be built in “very high” wildfire severity zones. Living with the fire prone conditions, some additional measures can be taken to lower the impact of such events in the future. Read more [here]( https://news.stanford.edu/2018/11/28/reflections-california-wildfires/) and [here.](https://www.vox.com/2018/8/7/17661096/california-wildfires-2018-camp-woolsey-climate-change)"
     },
     {
-        "title": "Before wildfire, Funchal",
+        "title": "Before wildfire, Funchal (Pierre Markuse script)",
         "lat": 32.7335,
         "lng": -17.0427,
         "zoom": 12,
         "datasetId": "S2L1C",
-        "layerId": "TRUE-COLOR",
+        "layerId": "WILDFIRES",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/146ebe47-2d5e-42a0-953c-910869d1ff72",
         "toTime": "2016-08-07",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "Following weeks of dry weather and temperatures above 35 °C, forest fires took hold in the Portuguese mainland on Friday and on the island of Madeira, on Monday. On Tuesday the flames encroached on Funchal, home to some 112,000 permanent residents and capital of an island that attracts more than a million tourists per year. The fires started on August 8, 2016. In the following days, the fires spread rapidly and the amount of smoke increased dramatically. By August 12, the fires were mostly extinguished, but they left large expanses of charred forest behind. The fire near Funchal killed 3 people, destroyed more than 150 homes, and forced more than 1,000 people to evacuate.  Fires were also blazing on the mainland with reports of a fourth death in central Portugal. A heat wave helped fuel the fires, but authorities think that some may have been set by arsonists with several arrests made. The government triggered the EU Civil Protection Mechanism, which enabled other European states to help. Read more [here](https://earthobservatory.nasa.gov/images/88590/fires-char-madeira) and [here](https://www.bbc.com/news/world-europe-37030217)."
     },
     {
-        "title": "Before wildfire, Funchal (NBR)",
+        "title": "After wildfire, Funchal (Pierre Markuse script)",
         "lat": 32.7335,
         "lng": -17.0427,
         "zoom": 12,
         "datasetId": "S2L1C",
-        "layerId": "BURN-AREA-INDEX-BAI",
-        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/146ebe47-2d5e-42a0-953c-910869d1ff72",
-        "toTime": "2016-08-07",
-        "evalscript": "",
-        "evalscripturl": "",
-        "themeId": "WILDFIRES"
-    },
-    {
-        "title": "After wildfire, Funchal",
-        "lat": 32.7335,
-        "lng": -17.0427,
-        "zoom": 12,
-        "datasetId": "S2L1C",
-        "layerId": "TRUE-COLOR",
+        "layerId": "WILDFIRES",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/146ebe47-2d5e-42a0-953c-910869d1ff72",
         "toTime": "2016-08-17",
         "evalscript": "",
         "evalscripturl": "",
-        "themeId": "WILDFIRES"
-    },
-    {
-        "title": "After wildfire, Funchal (NBR) ",
-        "lat": 32.7335,
-        "lng": -17.0427,
-        "zoom": 12,
-        "datasetId": "S2L1C",
-        "layerId": "BURN-AREA-INDEX-BAI",
-        "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/146ebe47-2d5e-42a0-953c-910869d1ff72",
-        "toTime": "2016-08-17",
-        "evalscript": "",
-        "evalscripturl": "",
-        "themeId": "WILDFIRES"
+        "themeId": "WILDFIRES",
+        "description": "Following weeks of dry weather and temperatures above 35 °C, forest fires took hold in the Portuguese mainland on Friday and on the island of Madeira, on Monday. On Tuesday the flames encroached on Funchal, home to some 112,000 permanent residents and capital of an island that attracts more than a million tourists per year. The fires started on August 8, 2016. In the following days, the fires spread rapidly and the amount of smoke increased dramatically. By August 12, the fires were mostly extinguished, but they left large expanses of charred forest behind. The fire near Funchal killed 3 people, destroyed more than 150 homes, and forced more than 1,000 people to evacuate.  Fires were also blazing on the mainland with reports of a fourth death in central Portugal. A heat wave helped fuel the fires, but authorities think that some may have been set by arsonists with several arrests made. The government triggered the EU Civil Protection Mechanism, which enabled other European states to help. Read more [here](https://earthobservatory.nasa.gov/images/88590/fires-char-madeira) and [here](https://www.bbc.com/news/world-europe-37030217)."
     }
 ]
