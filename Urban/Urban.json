@@ -1,11 +1,11 @@
 [
     {
-        "title": "Tamara, Morocco 2019 (Urban Classified)",
+        "title": "Tamara, Morocco",
         "lat": 33.861,
         "lng": -6.9688,
         "zoom": 12,
         "datasetId": "S2L2A",
-        "layerId": "3_URBAN-CLASSIFIED",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
         "toTime": "2019-08-15",
         "evalscript": "",
@@ -13,12 +13,12 @@
         "themeId": "URBAN"
     },
     {
-        "title": "Baltimore, USA 2019 (Green City)",
+        "title": "Baltimore, USA 2019",
         "lat": 39.2866,
         "lng": -76.6292,
         "zoom": 12,
         "datasetId": "S2L2A",
-        "layerId": "4_GREEN-CITY",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
         "toTime": "2019-09-08",
         "evalscript": "",
@@ -26,12 +26,12 @@
         "themeId": "URBAN"
     },
     {
-        "title": "London (Urban Land IR Color)",
+        "title": "London, England",
         "lat": 51.4919,
         "lng": -0.0714,
         "zoom": 11,
         "datasetId": "S2L2A",
-        "layerId": "5_URBAN-LAND-INFRARED-COLOR",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
         "toTime": "2020-01-29",
         "evalscript": "",
@@ -39,12 +39,12 @@
         "themeId": "URBAN"
     },
     {
-        "title": "Beijing (False Color Urban)",
+        "title": "Beijing, China",
         "lat": 39.9205,
         "lng": 116.3974,
         "zoom": 11,
         "datasetId": "S2L2A",
-        "layerId": "2_FALSE-COLOR-URBAN",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
         "toTime": "2020-01-23",
         "evalscript": "",
@@ -52,12 +52,12 @@
         "themeId": "URBAN"
     },
     {
-        "title": "Amsterdam (Urban Land IR Color)",
+        "title": "Amsterdam, Netherlands",
         "lat": 52.3486,
         "lng": 4.8141,
         "zoom": 11,
         "datasetId": "S2L2A",
-        "layerId": "5_URBAN-LAND-INFRARED-COLOR",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
         "toTime": "2019-12-27",
         "evalscript": "",
@@ -65,12 +65,12 @@
         "themeId": "URBAN"
     },
     {
-        "title": "Taizhou, China (Urban Classified)",
+        "title": "Taizhou, China",
         "lat": 32.4481,
         "lng": 119.9824,
         "zoom": 11,
         "datasetId": "S2L2A",
-        "layerId": "3_URBAN-CLASSIFIED",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
         "toTime": "2019-12-30",
         "evalscript": "",
@@ -78,7 +78,7 @@
         "themeId": "URBAN"
     },
     {
-        "title": "Moscow",
+        "title": "Moscow, Russia",
         "lat": 55.7358,
         "lng": 37.6048,
         "zoom": 11,
@@ -91,12 +91,12 @@
         "themeId": "URBAN"
     },
     {
-        "title": "Toronto, Canada (Green City)",
+        "title": "Toronto, Canada",
         "lat": 43.6711,
         "lng": -79.5568,
         "zoom": 11,
         "datasetId": "S2L2A",
-        "layerId": "4_GREEN-CITY",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
         "toTime": "2019-10-09",
         "evalscript": "",
@@ -104,12 +104,12 @@
         "themeId": "URBAN"
     },
     {
-        "title": "Melbourne, Australia (Urban Classified)",
+        "title": "Melbourne, Australia",
         "lat": -37.8372,
         "lng": 144.8417,
         "zoom": 11,
         "datasetId": "S2L2A",
-        "layerId": "3_URBAN-CLASSIFIED",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
         "toTime": "2020-01-01",
         "evalscript": "",
@@ -143,12 +143,12 @@
         "themeId": "URBAN"
     },
     {
-        "title": "Washington, USA (Green City)",
+        "title": "Washington, USA",
         "lat": 38.90719,
         "lng": -77.03687,
         "zoom": 13,
         "datasetId": "S2L2A",
-        "layerId": "4_GREEN-CITY",
+        "layerId": "1_TRUE-COLOR",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
         "toTime": "2020-01-21",
         "evalscript": "",

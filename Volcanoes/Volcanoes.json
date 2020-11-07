@@ -14,12 +14,12 @@
         "description": "Kilauea is the world's most active volcanic mass, with its caldera over 10 square km large, and 150 meters deep. Kilauea's eruptions are usually non-explosive, as is typical for shield volcanoes. Its lava flows are usually slow, making it possible for people living in the area to evacuate and avoid them. However, in 1790, a steam explosion killed part of an army marching near the caldera. One of the most destructive eruptions happened in 1955, when lava was pouring out of the caldera for 88 consecutive days, destroying valuable sugar cane fields. An eruption in 1975 was followed by a destructive tsunami. In 2018, the east rift zone of Kilauea erupted, after an earthquake hit the neighbouring district Puna. Lava flows reached the sea, burning roads and buildings on its way, forcing many people to evacuate. Due to emitting methane gas, the fire in some areas burned blue. Read more [here](https://www.britannica.com/place/Kilauea) and [here](https://en.wikipedia.org/wiki/2018_lower_Puna_eruption)."
     },
     {
-        "title": "Etna (False Color Urban)",
+        "title": "Etna (IR Highlights)",
         "lat": 37.74371,
         "lng": 15.004059999999981,
         "zoom": 13,
         "datasetId": "S2L2A",
-        "layerId": "FALSE-COLOR-URBAN",
+        "layerId": "TRUE-COLOR-LAVA-FLOW",
         "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/cb8d43b4-cbea-459d-a361-c95e1996ee88",
         "toTime": "2018-12-26",
         "evalscript": "",
@@ -70,7 +70,7 @@
         "description": "Pacaya Volcano (2560 m) is located 30 km south of Guatemala City center. From 1965 – 1975 and since 1990, Pacaya has almost permanently been in eruption, displaying primarily strombolian activity together with the extrusion of lava flows. Occasionally, larger explosive eruptions have been witnessed. The activity of Pacaya in the last couple of thousand years has been strongly episodic, involving emplacement of thick deposits of basaltic lava over periods of under 300 years in length followed by inactive phases lasting from 300 – 500 years.\nWhilst activity at Pacaya usually has limited impact on the surrounding communities, it has been known to cause damages and a serious collapse could have catastrophic consequences. As the size of the MacKenney cone increases, eruptions from the cone are less and less constrained by the walls of the collapse depression, which prevents lava flows extending beyond its perimeter. This increases the risk of hot avalanches, pyroclastic flows and lava flows to the communities. Luckily, larger eruptions are often preceeded by increases in seismic activity so the surrounding communities can be warned. Since the security situation around Pacaya has improved and the volcano has been included in a National Park structure, tourism has significantly increased. Learn more [here]( http://www.photovolcanica.com/VolcanoInfo/Pacaya/Pacaya.html)."
     },
     {
-        "title": "Stromboli, Province of Messina, Italy (False Color Urban)",
+        "title": "Stromboli, Province of Messina, Italy (IR Highlights)",
         "lat": 38.7931301,
         "lng": 15.211227399999984,
         "zoom": 14,
