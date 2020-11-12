@@ -1,6 +1,6 @@
 # Volcanoes
 
-[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=440b0631-4f4a-4ec6-a23b-1e5b35159aaf){:target="_blank"} pins directly into EO Browser or [download](Volcanoes.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
+[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=a8eeede7-41ea-42db-a607-ecc75e4e02d3){:target="_blank"} pins directly into EO Browser or [download](Volcanoes.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
 Following is a set of pins which are all connected to the topic Volcanoes. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on Flickr.
 
