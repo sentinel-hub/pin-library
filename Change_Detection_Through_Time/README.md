@@ -4,7 +4,7 @@
 
 Following is a set of pins which are all connected to the topic Change detection throuth time. Each event contains a description and related before-after pins, that correspond to highlights in EO Browser. Each pin has a preview image linked to a high-resolution print on Flickr.
 
-## Included pins 
+## Included pins
 
 ### Agriculture Expansion in Egypt
 
