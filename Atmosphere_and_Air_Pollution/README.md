@@ -104,5 +104,3 @@ Following is a set of pins which are all connected to the topic "Atmosphere and 
 
 <img src="fig/Base_pressure_thumbnail.png" width="240">
 ***Cloud Base Pressure, Hurricane Claudia***
-
-
