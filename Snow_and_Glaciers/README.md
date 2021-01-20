@@ -1,6 +1,6 @@
 # Snow and Glaciers
 
-[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=13f8b053-3a57-4137-a510-07662c88242c){:target="_blank"} pins directly into EO Browser or [download](Snow_and_Glaciers.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
+[Import](https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=80501d82-7449-405d-b850-2c729af04113){:target="_blank"} pins directly into EO Browser or [download](Snow_and_Glaciers.json){:target="_blank"} the json for a later import into [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME){:target="_blank"}.
 
 Following is a set of pins which are all connected to the topic Snow and Glaciers. Each pin contains a brief description of what is displayed by the pin and a preview image linked to a high-resolution print on Flickr.
 
@@ -25,7 +25,7 @@ Following is a set of pins which are all connected to the topic Snow and Glacier
 
 ### Glaciers of western Greenland (Enhanced Agriculture 11,8,2)
 [<img src="fig/glaciers_greenland_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096557146/in/album-72157715040686668/) 
-On Greenland’s western shore numerous glaciers enter the Baffin Bay. Several of them find their way to the bay via the Upernavik Icefjord which can be seen on the image. The biggest glacier is the Upernavik glacier from which the fjord’s name was derived. Until 1980 the glacier consisted of one main termini but with its retread since then it has four main calving termini today. [Learn more](https://blogs.agu.org/fromaglaciersperspective/2017/05/30/upernavik/).
+On Greenland’s western shore numerous glaciers enter the Baffin Bay. Several of them find their way to the bay via the Upernavik Icefjord which can be seen on the image. The biggest glacier is the Upernavik glacier from which the fjord’s name was derived. Until 1980 the glacier consisted of one main termini but with its retreat since then it has four main calving termini today. [Learn more](https://blogs.agu.org/fromaglaciersperspective/2017/05/30/upernavik/).
 
 ### Helheim Glacier, Greenland (Enhanced true color)
 [<img src="fig/helheim_glacier_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096599356/in/album-72157715040686668/)
@@ -38,7 +38,7 @@ Located in the southeast of Greenland the Helheim glacier is the fastest flowing
 [<img src="fig/mountains_new_zealand.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096638401/in/album-72157715040686668/) The mountains around Lake Te Anau (west) and Lake Wakatipu (east) on New Zealand’s South Island are located in the Fiorland National Park. Lake Te Anau is home to the only inland fjords in New Zealand originating from the time when the mountain’s glaciers were still reaching far down the valleys. Today covered with snow in winter these more than 2000 m high peaks are a popular destination for tracking and mountaineering [more](http://www.teanau.net.nz/Mountains). They are also home to an almost extinct bird species called [takahe](http://www.teanau.net.nz/See-a-takahe). 
 
 ### Mountain Rivers, New Zealand (False Color)
-[<img src="fig/mountain_rivers_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096896927/in/album-72157715040686668/) The southern Alps in New Zealand are in winter widely covered with snow. The strong red colors mainly in the southeast corner indicated healthy vegetation. The different colors of the lakes’ origin from different mixtures of minerals brought by the streams from the surrounding mountains.
+[<img src="fig/mountain_rivers_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096896927/in/album-72157715040686668/) The southern Alps in New Zealand are widely covered with snow in winter. The strong red colors mainly in the southeast corner indicated healthy vegetation. The different colors of the lakes’ origin from different mixtures of minerals brought by the streams from the surrounding mountains.
 
 ### Frozen Lakes on the Tibetan Plateau
 [<img src="fig/himalayas_lakes_thumbnail.jpg" align="right" width="240">](https://www.flickr.com/photos/sentinelhub/50096912287/in/album-72157715040686668/) These frozen lakes are situated on the border between the Chinese counties Shuanghu and Golmud on the Tibetan Plateau. Often fed by glaciers they are likely to become bigger over the next years due to an increase in melt water before finally shrinking as a glacier that feed them will disappear. With an average elevation above 4.500 meters the plateau provides cold enough temperatures for most of the lakes to be frozen or partially covered with ice for most of the year. [Learn more](https://thediplomat.com/2019/03/the-worlds-third-pole-is-melting/)
