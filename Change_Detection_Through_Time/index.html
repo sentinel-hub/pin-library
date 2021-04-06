@@ -1,0 +1,324 @@
+<!doctype xhtml>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+		<link rel="stylesheet" href="../_layout/default.css" type="text/css" />
+		<script src="../_layout/main.js"></script> 
+		<script>
+			var layoutDir = "../_layout/";
+			var groups = [];
+			groups['Agriculture Expansion in Egypt'] = {
+				'pins':[
+					{'id': '2dc83435-85a7-44ca-9448-cb646e03c324-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Agriculture Expansion in Egypt, 1984 (NDVI)', 'date': '1984-08-10', 'type': 'ESA_L5', 'thumbnail_path': 'fig/Agriculture_Egypt_earlier.jpg', 'world_pos_x': '175', 'world_pos_y': '49', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=2dc83435-85a7-44ca-9448-cb646e03c324-pin&lat=30.6338&lng=30.2879&zoom=10&datasetId=ESA_L5&layerId=3_NDVI&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/e3e5e6c2-d1eb-419a-841c-5167a1de5441&toTime=1984-08-10T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=1984-08-10T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50309315062/', 'description': '<p>Agricultural land in Egypt can be divided into two main categories; Old Lands and New Lands. Old Lands represent highly fertile soils, which are located in the Nile Delta. Due to the River Nile deposits and the highly productive nature of the soil, these areas have been traditionally cultivated with strategic cereal crops, such as rice, wheat and maize, preserving food security for the Egyptian people. During the past four decades, these areas have been encroached by dramatic urban sprawl due to the rapid population growth and economic development. Therefore, there has been a pressing need for the government to find alternative solutions to maintain the sustainability of the national agricultural sector. Consequently, the adopted policies by the government to reclaim new lands in the desert have led to the second category (New Lands). These are barren areas located in the Western and Eastern deserts outside the green zone of the Nile Delta. The New Lands process includes accessibility through constructing roads, houses, installing irrigation and drainage systems and providing reliable sources of water and electricity. Tiba district is one of those newly reclaimed areas located in the western Nile Delta of Egypt with a total area of 125 square km. Learn more <a href="https://www.mdpi.com/2077-0472/9/7/137/pdf">here</a>. </p>', 'visible': 'true', },
+					{'id': '8f8042b4-a44b-48a9-aaae-67053d1ec1a2-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Agriculture Expansion in Egypt, 2019 (NDVI)', 'date': '2019-08-11', 'type': 'AWS_L8L1C', 'thumbnail_path': 'fig/Agriculture_Egypt_later_thumbnail.jpg', 'world_pos_x': '175', 'world_pos_y': '49', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=8f8042b4-a44b-48a9-aaae-67053d1ec1a2-pin&lat=30.6338&lng=30.2879&zoom=10&datasetId=AWS_L8L1C&layerId=4-NDVI&visualizationUrl=https://services.sentinel-hub.com/ogc/wms/a2b6e4cb-6aa9-4a6e-a38f-b24ea4e2a1f4&toTime=2019-08-11T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2019-08-11T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50309330057/', 'description': '<p>Agricultural land in Egypt can be divided into two main categories; Old Lands and New Lands. Old Lands represent highly fertile soils, which are located in the Nile Delta. Due to the River Nile deposits and the highly productive nature of the soil, these areas have been traditionally cultivated with strategic cereal crops, such as rice, wheat and maize, preserving food security for the Egyptian people. During the past four decades, these areas have been encroached by dramatic urban sprawl due to the rapid population growth and economic development. Therefore, there has been a pressing need for the government to find alternative solutions to maintain the sustainability of the national agricultural sector. Consequently, the adopted policies by the government to reclaim new lands in the desert have led to the second category (New Lands). These are barren areas located in the Western and Eastern deserts outside the green zone of the Nile Delta. The New Lands process includes accessibility through constructing roads, houses, installing irrigation and drainage systems and providing reliable sources of water and electricity. Tiba district is one of those newly reclaimed areas located in the western Nile Delta of Egypt with a total area of 125 square km. Learn more <a href="https://www.mdpi.com/2077-0472/9/7/137/pdf">here</a>. </p>', 'visible': 'true', },
+				]
+			};
+			groups['Drying of lake Poopó, Brazil'] = {
+				'pins':[
+					{'id': 'abb694a0-476a-4927-9fef-137ec2e5577e-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Lake Poopó, Brazil 2004', 'date': '2004-05-21', 'type': 'ENVISAT_MERIS', 'thumbnail_path': 'fig/Popoo_earlier_thumbnail.jpg', 'world_pos_x': '94', 'world_pos_y': '90', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=abb694a0-476a-4927-9fef-137ec2e5577e-pin&lat=-18.9069&lng=-67.0207&zoom=10&datasetId=ENVISAT_MERIS&layerId=1_TRUE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/000830ef-0035-4108-a2ae-29ad826c63c6&toTime=2004-05-21T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2004-05-21T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50309569482/', 'description': '<p>In a typical year, rainfall during the wet season (December through March) recharges the Bolivian lake Poopó directly and via increased inflow from the Desaguadero River. In 2015, the lake dried up. This is not the first time that Poopó has evaporated; the lake last dried up in 1994. In that case, it took several years for water to return, and even longer for ecosystems to recover. Despite its history, in 2016 and 2017, as the waters still haven\'t returned, many environmentalists believed the waters will not return this time. There are multiple reasons as to why the droughts in the area are getting worse. Sitting high in the Bolivian Andes, the saline lake is particularly vulnerable to fluctuations because it is shallow — typically no more than 3 meters (9 feet) deep. Due to climate change the area has warmed an estimated one degree Celsius over the past century, leading to an increase in the rate of evaporation from the lake. And the lack of rain over the past year has sped the process even further. The government blamed the drought solely on El Nino and climate change, but even though this is one of the causes, it seems the management of the lake is also the problem. Some of the water that is supposed to fill the lake is being diverted for agriculture and mining. Even when water is available, the river is often clogged with sedimentation, due to the runoff from development and mining in the area. What happened to Lake Poopó is not unlike the drying of the vast Aral Sea in Central Asia. In both cases, a closed water system was overdrawn, with more water going out than coming in. However, in summer 2018, the lake filled up again, although the water line is clearly diminished compared to 2004. If all the problems persist, there is legitimate concern, that next time, the lake might stay dry forever. Learn more <a href="https://www.nationalgeographic.com/news/2016/01/160121-lake-poopo-bolivia-dried-out-el-nino-climate-change-water/">here</a> and <a href="https://earthobservatory.nasa.gov/images/87363/bolivias-lake-poopo-disappears">here</a>.</p>', 'visible': 'true', },
+					{'id': '737d05ad-94a7-404c-8378-0d41d07b07db-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Lake Poopó, Brazil 2020', 'date': '2020-01-09', 'type': 'S2L2A', 'thumbnail_path': 'fig/Popoo_later_thumbnail.jpg', 'world_pos_x': '94', 'world_pos_y': '90', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=737d05ad-94a7-404c-8378-0d41d07b07db-pin&lat=-18.9069&lng=-67.0207&zoom=10&datasetId=S2L2A&layerId=1_TRUE_COLOR&visualizationUrl=https://services.sentinel-hub.com/ogc/wms/1b882afd-16a1-4db0-af83-f81eadd9bc54&toTime=2020-01-09T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2020-01-09T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50308743598/', 'description': '<p>In a typical year, rainfall during the wet season (December through March) recharges the Bolivian lake Poopó directly and via increased inflow from the Desaguadero River. In 2015, the lake dried up. This is not the first time that Poopó has evaporated; the lake last dried up in 1994. In that case, it took several years for water to return, and even longer for ecosystems to recover. Despite its history, in 2016 and 2017, as the waters still haven\'t returned, many environmentalists believed the waters will not return this time. There are multiple reasons as to why the droughts in the area are getting worse. Sitting high in the Bolivian Andes, the saline lake is particularly vulnerable to fluctuations because it is shallow — typically no more than 3 meters (9 feet) deep. Due to climate change the area has warmed an estimated one degree Celsius over the past century, leading to an increase in the rate of evaporation from the lake. And the lack of rain over the past year has sped the process even further. The government blamed the drought solely on El Nino and climate change, but even though this is one of the causes, it seems the management of the lake is also the problem. Some of the water that is supposed to fill the lake is being diverted for agriculture and mining. Even when water is available, the river is often clogged with sedimentation, due to the runoff from development and mining in the area. What happened to Lake Poopó is not unlike the drying of the vast Aral Sea in Central Asia. In both cases, a closed water system was overdrawn, with more water going out than coming in. However, in summer 2018, the lake filled up again, although the water line is clearly diminished compared to 2004. If all the problems persist, there is legitimate concern, that next time, the lake might stay dry forever. Learn more <a href="https://www.nationalgeographic.com/news/2016/01/160121-lake-poopo-bolivia-dried-out-el-nino-climate-change-water/">here</a> and <a href="https://earthobservatory.nasa.gov/images/87363/bolivias-lake-poopo-disappears">here</a>.</p>', 'visible': 'true', },
+				]
+			};
+			groups['Dubai Urbanization'] = {
+				'pins':[
+					{'id': '479940e5-d993-430f-ab0e-51de310e8ead-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Dubai Urbanization, 2005', 'date': '2005-07-04', 'type': 'ENVISAT_MERIS', 'thumbnail_path': 'fig/Dubai_before_thumbnail.jpg', 'world_pos_x': '196', 'world_pos_y': '54', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=479940e5-d993-430f-ab0e-51de310e8ead-pin&lat=25.1369&lng=55.2317&zoom=11&datasetId=ENVISAT_MERIS&layerId=1_TRUE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/000830ef-0035-4108-a2ae-29ad826c63c6&toTime=2005-07-04T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2005-07-04T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50308648548/', 'description': '<p>Perhaps no place on the Earth has had as drastic land cover change over the past ten years as Dubai. The creation of over 300 kilometers of coastline, the rapid expansion of urban land cover, and the intensification of urban development make this one of the most rapidly and visibly changed land covers due to urbanization. The total population of Dubai has grown by 1.000 % over the last 40 years alone. In 1975 the total population was 183,000 inhabitants, which increased in 2015 to about 2 million, making Dubai population one of the fastest growing in the world. The total built up area increased from only 54 square km in 1975 to 977 square km in 2015, raising  urbanized land by 1800% in only 40 years. Learn more <a href="https://lcluc.umd.edu/hotspot/urbanization-dubai#:~:text=Dubai%20has%20experienced%20tremendous%20recent,in%202015%20(AMEInfo%202005a).">here</a> and <a href="https://www.researchgate.net/publication/317564338_The_Boom_Population_and_Urban_Growth_of_Dubai_City">here</a>.</p>', 'visible': 'true', },
+					{'id': '1540b84a-cdf9-49be-a69a-489b7fef9476-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Dubai Urbanization, 2020', 'date': '2020-01-19', 'type': 'S2L2A', 'thumbnail_path': 'fig/Dubai after_thumbnail.jpg', 'world_pos_x': '196', 'world_pos_y': '54', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=1540b84a-cdf9-49be-a69a-489b7fef9476-pin&lat=25.1369&lng=55.2317&zoom=11&datasetId=S2L2A&layerId=1_TRUE_COLOR&visualizationUrl=https://services.sentinel-hub.com/ogc/wms/1b882afd-16a1-4db0-af83-f81eadd9bc54&toTime=2020-01-19T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2020-01-19T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50308648548/', 'description': '<p>Perhaps no place on the Earth has had as drastic land cover change over the past ten years as Dubai. The creation of over 300 kilometers of coastline, the rapid expansion of urban land cover, and the intensification of urban development make this one of the most rapidly and visibly changed land covers due to urbanization. The total population of Dubai has grown by 1.000 % over the last 40 years alone. In 1975 the total population was 183,000 inhabitants, which increased in 2015 to about 2 million, making Dubai population one of the fastest growing in the world. The total built up area increased from only 54 square km in 1975 to 977 square km in 2015, raising  urbanized land by 1800% in only 40 years. Learn more <a href="https://lcluc.umd.edu/hotspot/urbanization-dubai#:~:text=Dubai%20has%20experienced%20tremendous%20recent,in%202015%20(AMEInfo%202005a).">here</a> and <a href="https://www.researchgate.net/publication/317564338_The_Boom_Population_and_Urban_Growth_of_Dubai_City">here</a>.</p>', 'visible': 'true', },
+				]
+			};
+			groups['Agriculture in Italy'] = {
+				'pins':[
+					{'id': 'fade073c-c851-4802-a7dd-10f040bfbe6a-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Agriculture in Italy, 1986 (NDVI)', 'date': '1986-12-08', 'type': 'ESA_L5', 'thumbnail_path': 'fig/Italy_before_thumbnail.jpg', 'world_pos_x': '160', 'world_pos_y': '36', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=fade073c-c851-4802-a7dd-10f040bfbe6a-pin&lat=45.7088&lng=12.854&zoom=11&datasetId=ESA_L5&layerId=3_NDVI&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/e3e5e6c2-d1eb-419a-841c-5167a1de5441&toTime=1986-12-08T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=1986-12-08T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50309693402/', 'description': '<p>Agriculture is one of Italy\'s key economic sectors, accounting for around 2.1% of GDP. Most farms are small, with the average size being eleven hectares. Italian industries, including the food-processing sector, rely heavily on imports of raw materials. Italy is one of the largest agricultural producers and food processors in the EU. The northern part of Italy produces primarily grains, soybeans, meat, and dairy products, while the south specializes in fruits, vegetables, olive oil, wine, and durum wheat.  Even though much of its mountainous terrain is unsuitable for farming, approximately 4% of the population is employed in farming.  Veneto agriculture is one of the most productive in Italy, producing mainly cereals, fruits and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation. Learn more <a href="https://www.recare-hub.eu/news/45-06-bioforsk">here</a> and <a href="https://www.privacyshield.gov/article?id=Italy-Agricultural-Sector#:~:text=Italy\'s%20agriculture%20is%20typical%20of,%2C%20wine%2C%20and%20durum%20wheat.">here</a>.</p>', 'visible': 'true', },
+					{'id': 'b0690734-0110-40a0-8037-dfdd7b030e4c-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Agriculture in Italy, 2020 (NDVI)', 'date': '2020-01-21', 'type': 'S2L2A', 'thumbnail_path': 'fig/Italy_after_thumbnail.jpg', 'world_pos_x': '160', 'world_pos_y': '36', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=b0690734-0110-40a0-8037-dfdd7b030e4c-pin&lat=45.7088&lng=12.854&zoom=11&datasetId=S2L2A&layerId=3_NDVI&visualizationUrl=https://services.sentinel-hub.com/ogc/wms/1b882afd-16a1-4db0-af83-f81eadd9bc54&toTime=2020-01-21T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2020-01-21T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50309693402/', 'description': '<p>Agriculture is one of Italy\'s key economic sectors, accounting for around 2.1% of GDP. Most farms are small, with the average size being eleven hectares. Italian industries, including the food-processing sector, rely heavily on imports of raw materials. Italy is one of the largest agricultural producers and food processors in the EU. The northern part of Italy produces primarily grains, soybeans, meat, and dairy products, while the south specializes in fruits, vegetables, olive oil, wine, and durum wheat.  Even though much of its mountainous terrain is unsuitable for farming, approximately 4% of the population is employed in farming.  Veneto agriculture is one of the most productive in Italy, producing mainly cereals, fruits and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation. Learn more <a href="https://www.recare-hub.eu/news/45-06-bioforsk">here</a> and <a href="https://www.privacyshield.gov/article?id=Italy-Agricultural-Sector#:~:text=Italy\'s%20agriculture%20is%20typical%20of,%2C%20wine%2C%20and%20durum%20wheat.">here</a>.</p>', 'visible': 'true', },
+				]
+			};
+			groups['Aral Sea'] = {
+				'pins':[
+					{'id': 'd5be0b37-9e4a-4d9c-9ac3-b31b22092cc8-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Aral Sea, 2005', 'date': '2005-07-13', 'type': 'ENVISAT_MERIS', 'thumbnail_path': 'fig/Aral_before_thumbnail.jpg', 'world_pos_x': '199', 'world_pos_y': '37', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=d5be0b37-9e4a-4d9c-9ac3-b31b22092cc8-pin&lat=45.038&lng=59.175&zoom=9&datasetId=ENVISAT_MERIS&layerId=1_TRUE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/000830ef-0035-4108-a2ae-29ad826c63c6&toTime=2005-07-13T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2005-07-13T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50308532883/', 'description': '<p>In the 1960s, the Soviet Union undertook a major water diversion project on the arid plains of Kazakhstan, Uzbekistan, and Turkmenistan. The region’s two major rivers, fed by snowmelt and precipitation in faraway mountains, were used to transform the desert into farms for cotton and other crops. Before the project, the Syr Darya and the Amu Darya rivers flowed down from the mountains, cut northwest through the Kyzylkum Desert, and finally pooled together in the lowest part of the basin. The lake they made, the Aral Sea, was once the fourth largest in the world. Although irrigation made the desert bloom, it devastated the Aral Sea. As the Aral Sea has dried up, fisheries and the communities that depended on them collapsed. The salty dust blew off the lakebed and settled onto fields, degrading the soil. Croplands had to be flushed with larger and larger volumes of river water. The loss of the moderating influence of such a large body of water made winters colder and summers hotter and drier. Additionally, as the Aral water content diminishes, salinization of the lake increases. This creates vertical stratification, where surface salinity is lower than the bottom layer, thus heating up faster. This additionally contributes to water evaporation, creating a positive feedback loop. Learn more <a href="http://www.columbia.edu/~tmt2120/environmental%20impacts.htm">here</a> and <a href="https://earthobservatory.nasa.gov/world-of-change/AralSea">here</a>.</p>', 'visible': 'true', },
+					{'id': '265eebfd-c948-4cde-9660-461016a0de2b-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Aral Sea, 2019', 'date': '2019-07-21', 'type': 'S2L2A', 'thumbnail_path': 'fig/Aral_after_thumbnail.jpg', 'world_pos_x': '199', 'world_pos_y': '37', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=265eebfd-c948-4cde-9660-461016a0de2b-pin&lat=45.038&lng=59.175&zoom=9&datasetId=S2L2A&layerId=1_TRUE_COLOR&visualizationUrl=https://services.sentinel-hub.com/ogc/wms/1b882afd-16a1-4db0-af83-f81eadd9bc54&toTime=2019-07-21T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2019-07-21T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50308532883/', 'description': '<p>In the 1960s, the Soviet Union undertook a major water diversion project on the arid plains of Kazakhstan, Uzbekistan, and Turkmenistan. The region’s two major rivers, fed by snowmelt and precipitation in faraway mountains, were used to transform the desert into farms for cotton and other crops. Before the project, the Syr Darya and the Amu Darya rivers flowed down from the mountains, cut northwest through the Kyzylkum Desert, and finally pooled together in the lowest part of the basin. The lake they made, the Aral Sea, was once the fourth largest in the world. Although irrigation made the desert bloom, it devastated the Aral Sea. As the Aral Sea has dried up, fisheries and the communities that depended on them collapsed. The salty dust blew off the lakebed and settled onto fields, degrading the soil. Croplands had to be flushed with larger and larger volumes of river water. The loss of the moderating influence of such a large body of water made winters colder and summers hotter and drier. Additionally, as the Aral water content diminishes, salinization of the lake increases. This creates vertical stratification, where surface salinity is lower than the bottom layer, thus heating up faster. This additionally contributes to water evaporation, creating a positive feedback loop. Learn more <a href="http://www.columbia.edu/~tmt2120/environmental%20impacts.htm">here</a> and <a href="https://earthobservatory.nasa.gov/world-of-change/AralSea">here</a>.</p>', 'visible': 'true', },
+				]
+			};
+			groups['Disappearing Glaciers of Switzerland'] = {
+				'pins':[
+					{'id': 'f5fee954-7cf8-4fd5-ae7d-80641aef4b81-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Disappearing Glaciers of Switzerland, 1987', 'date': '1987-08-17', 'type': 'ESA_L5', 'thumbnail_path': 'fig/Glaciers_Switzerland_earlier_thumbnail.jpg', 'world_pos_x': '156', 'world_pos_y': '36', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=f5fee954-7cf8-4fd5-ae7d-80641aef4b81-pin&lat=46.5134&lng=8.0502&zoom=12&datasetId=ESA_L5&layerId=1_TRUE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/e3e5e6c2-d1eb-419a-841c-5167a1de5441&toTime=1987-08-17T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=1987-08-17T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50309221217/', 'description': '<p>Glaciers around the world are melting due to climate change. In Switzerland, they have shrunk 10% in the past five years, a rate that has never been seen before in over a century of observations. The summer 2019 heatwave saw glacier melt rates break records, leading to huge losses in ice volume. Scientists took measurements from 20 glaciers in the country and found that about 2% of Switzerland\'s total glacier volume was lost in the past year. Initial signs for 2019 had been encouraging after glacier snow cover was measured at 20-40% higher than normal in April and May, following a very cold January with lots of precipitation. However the third-hottest summer since records began meant melting accelerated dramatically. Melting was particularly severe in eastern Switzerland and the northern side of the Alps. More than 500 glaciers have completely disappeared in Switzerland since 1850, and 2019 saw the Pizol glacier removed from the country\'s glacier monitoring network. Most glaciers in Central Europe, Western Canada and the United States will vanish in the second half of this century if current rates of ice loss continue. Learn more <a href="https://edition.cnn.com/2019/10/15/europe/switzerland-glacier-melting-scli-intl-scn/index.html">here</a> and <a href="https://www.euronews.com/2019/12/02/before-and-after-see-how-swiss-glaciers-have-shrunk-dramatically-across-150-years">here</a>.</p>', 'visible': 'true', },
+					{'id': '2fb975ae-901f-462c-97ac-3cf31c0ee49d-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Disappearing Glaciers of Switzerland, 2019', 'date': '2019-08-18', 'type': 'AWS_L8L1C', 'thumbnail_path': 'fig/Glaciers_Switzerland_later_thumbnail.jpg', 'world_pos_x': '156', 'world_pos_y': '36', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=2fb975ae-901f-462c-97ac-3cf31c0ee49d-pin&lat=46.5134&lng=8.0502&zoom=12&datasetId=AWS_L8L1C&layerId=1_TRUE_COLOR&visualizationUrl=https://services.sentinel-hub.com/ogc/wms/a2b6e4cb-6aa9-4a6e-a38f-b24ea4e2a1f4&toTime=2019-08-18T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2019-08-18T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50309071406/', 'description': '<p>Glaciers around the world are melting due to climate change. In Switzerland, they have shrunk 10% in the past five years, a rate that has never been seen before in over a century of observations. The summer 2019 heatwave saw glacier melt rates break records, leading to huge losses in ice volume. Scientists took measurements from 20 glaciers in the country and found that about 2% of Switzerland\'s total glacier volume was lost in the past year. Initial signs for 2019 had been encouraging after glacier snow cover was measured at 20-40% higher than normal in April and May, following a very cold January with lots of precipitation. However the third-hottest summer since records began meant melting accelerated dramatically. Melting was particularly severe in eastern Switzerland and the northern side of the Alps. More than 500 glaciers have completely disappeared in Switzerland since 1850, and 2019 saw the Pizol glacier removed from the country\'s glacier monitoring network. Most glaciers in Central Europe, Western Canada and the United States will vanish in the second half of this century if current rates of ice loss continue. Learn more <a href="https://edition.cnn.com/2019/10/15/europe/switzerland-glacier-melting-scli-intl-scn/index.html">here</a> and <a href="https://www.euronews.com/2019/12/02/before-and-after-see-how-swiss-glaciers-have-shrunk-dramatically-across-150-years">here</a>.</p>', 'visible': 'true', },
+				]
+			};
+			groups['Xingu River'] = {
+				'pins':[
+					{'id': '5fd2d898-3e48-43d1-bb94-f7d630efc3c2-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Xingu River, 2005 (False Color)', 'date': '2005-07-16', 'type': 'ENVISAT_MERIS', 'thumbnail_path': 'fig/Xingu_river_earlier_thumbnail.jpg', 'world_pos_x': '106', 'world_pos_y': '77', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=5fd2d898-3e48-43d1-bb94-f7d630efc3c2-pin&lat=-3.377&lng=-52.1494&zoom=10&datasetId=ENVISAT_MERIS&layerId=FALSE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/000830ef-0035-4108-a2ae-29ad826c63c6&toTime=2005-07-16T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2005-07-16T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50308890338/', 'description': '<p>The controversial Belo Monte mega-dam in Pará state has done significant socio-environmental harm to the Xingu River and the indigenous and traditional people living beside it. Project designers appear to have seriously overestimated the Xingu River flow rates and failed to account for fluctuations between wet and dry seasons, while also not accounting for reductions in flow due to deforestation caused by rapidly expanding cattle ranches and soy plantations. Due to escalating climate change and drought that are reducing Xingu River flow, the dam seems almost certain to never fulfill promised economic or energy-producing goals. The dam diverts the Xingu River’s natural flow into a constructed channel, then into a reservoir and to the main electricity-producing Belo Monte dam, largely drying up the river in its original path. Tens of thousands of indigenous and traditional people were forced from their homes, and had to give up their fishing livelihoods. Today, the Belo Monte hydroelectric dam stands as a warning – proof of the damage caused by ill-conceived Amazon mega-projects. Learn more <a href="https://news.mongabay.com/2018/02/belo-monte-legacy-harm-from-amazon-dam-didnt-end-with-construction/">here</a> and <a href="https://news.mongabay.com/2020/01/belo-monte-boondoggle-brazils-biggest-costliest-dam-may-be-unviable/">here</a>.</p>', 'visible': 'true', },
+					{'id': 'af09db18-153f-4c88-a23b-09b9bc19e25e-pin', 'is_location': 'True', 'is_eob': 'True', 'title': 'Xingu River, 2019 (False Color)', 'date': '2019-09-26', 'type': 'S2L2A', 'thumbnail_path': 'fig/Xingu_river_later_thumbnail.jpg', 'world_pos_x': '106', 'world_pos_y': '77', 'eob_url': 'https://apps.sentinel-hub.com/eo-browser/?&_id=af09db18-153f-4c88-a23b-09b9bc19e25e-pin&lat=-3.377&lng=-52.1494&zoom=10&datasetId=S2L2A&layerId=2_FALSE_COLOR&visualizationUrl=https://services.sentinel-hub.com/ogc/wms/1b882afd-16a1-4db0-af83-f81eadd9bc54&toTime=2019-09-26T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2019-09-26T00:00:00.000Z', 'download_url': 'https://www.flickr.com/photos/sentinelhub/50308899588/', 'description': '<p>The controversial Belo Monte mega-dam in Pará state has done significant socio-environmental harm to the Xingu River and the indigenous and traditional people living beside it. Project designers appear to have seriously overestimated the Xingu River flow rates and failed to account for fluctuations between wet and dry seasons, while also not accounting for reductions in flow due to deforestation caused by rapidly expanding cattle ranches and soy plantations. Due to escalating climate change and drought that are reducing Xingu River flow, the dam seems almost certain to never fulfill promised economic or energy-producing goals. The dam diverts the Xingu River’s natural flow into a constructed channel, then into a reservoir and to the main electricity-producing Belo Monte dam, largely drying up the river in its original path. Tens of thousands of indigenous and traditional people were forced from their homes, and had to give up their fishing livelihoods. Today, the Belo Monte hydroelectric dam stands as a warning – proof of the damage caused by ill-conceived Amazon mega-projects. Learn more <a href="https://news.mongabay.com/2018/02/belo-monte-legacy-harm-from-amazon-dam-didnt-end-with-construction/">here</a> and <a href="https://news.mongabay.com/2020/01/belo-monte-boondoggle-brazils-biggest-costliest-dam-may-be-unviable/">here</a>.</p>', 'visible': 'true', },
+				]
+			};
+
+		</script>
+	</head>
+	<body>
+		<div id="container-vertical">
+			<div id="container-horizontal">
+				<div id="sidebar">
+					<div id="sidebar-header">
+						<a href="/"><img src="../_layout/logo.svg" width="162" /></a>
+						<a class="right" href="javascript:toggleSearch();"><img src="../_layout/search.svg" width="24" /></a>
+					</div>
+					<div id="sidebar-search" class="hidden">
+						<input id="search-box" type="text" placeholder="Search..." onkeydown="searchKeyDown(this)" />
+					</div>
+					<div id="sidebar-content">
+						<h2>EO Browser pins repository</h2>
+						<p>This is a repository of pins and pin descriptions for EO Browser, also called the Pin library, which aims to provide a growing repository of remote sensing images.
+						Explore interesting locations, contribute by adding your own pins and pin descriptions, and share your collections with others.</p>
+						<br />
+						<h2>Contribute content</h2>
+						<p>If you have an idea for additional content, such as a new theme, a new pin for the existing theme, or any other suggestions, please check our guide on how to contribute to pin library using git.</p>
+						<a class="button" href="https://www.github.com/sentinel-hub/pin-library/blob/main/README.md" target="_blank">Contribute</a>
+					</div>
+				</div>
+				
+				<div id="main-content">
+					<div>
+						<a href="Change_detection_through_time.json" class="right" target="_blank" download="Change_detection_through_time.json">
+							<img src="../_layout/export.svg" title="Export pins to JSON file" />
+						</a>
+						<h2>Pins: Change Detection Through Time</h2>
+					</div>
+					<div class="pins" id="Agriculture Expansion in Egypt-container">
+						<h3 class="pin-title" id="Agriculture Expansion in Egypt-title">Agriculture Expansion in Egypt, 1984 (NDVI)</h3>
+						<div class="pin">
+							<div class="pin-img">
+								<div class="pin-img-inner">
+									<a class="pin-img-arrow left" id="Agriculture Expansion in Egypt-left" href="javascript:pinLeft('Agriculture Expansion in Egypt');" style="display: none;">
+										<img src="../_layout/arrow_left.png" />
+									</a>
+									<img class="img" src="fig/Agriculture_Egypt_earlier.jpg" id="Agriculture Expansion in Egypt-image-path" />
+									<div class="pin-pager"><img src="../_layout/pager_current.png" id="Agriculture Expansion in Egypt_pin0" /><img src="../_layout/pager_other.png" id="Agriculture Expansion in Egypt_pin1" /></div>
+									<a class="pin-img-arrow right" id="Agriculture Expansion in Egypt-right" href="javascript:pinRight('Agriculture Expansion in Egypt');" style="display: block;">
+										<img src="../_layout/arrow_right.png" />
+									</a>
+								</div>
+								<div class="pin-caption">
+									<div class="pin-date" id="Agriculture Expansion in Egypt-date">1984-08-10</div>
+									<div class="pin-type" id="Agriculture Expansion in Egypt-type">ESA_L5</div>
+								</div>
+							</div>
+							<div class="pin-extra">
+								<div class="pin-map">
+									<img class="pin-world" src="../_layout/world.png" width="300" />
+									<img class="pin-marker" src="../_layout/world_marker.svg" id="Agriculture Expansion in Egypt-world-marker" style="left: 175px; top: 49px; display: block;" />
+									<div class="pin-buttons">
+										<a href="https://apps.sentinel-hub.com/eo-browser/?&_id=2dc83435-85a7-44ca-9448-cb646e03c324-pin&lat=30.6338&lng=30.2879&zoom=10&datasetId=ESA_L5&layerId=3_NDVI&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/e3e5e6c2-d1eb-419a-841c-5167a1de5441&toTime=1984-08-10T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=1984-08-10T00:00:00.000Z" target="_blank" id="Agriculture Expansion in Egypt-eob" style="display: block;">Open in EO Browser</a>
+										<a class="right" href="https://www.flickr.com/photos/sentinelhub/50309315062/" target="_blank" id="Agriculture Expansion in Egypt-download" style="display: block;">High-res download</a>
+									</div>
+								</div>
+								<span id="Agriculture Expansion in Egypt-description"><p>Agricultural land in Egypt can be divided into two main categories; Old Lands and New Lands. Old Lands represent highly fertile soils, which are located in the Nile Delta. Due to the River Nile deposits and the highly productive nature of the soil, these areas have been traditionally cultivated with strategic cereal crops, such as rice, wheat and maize, preserving food security for the Egyptian people. During the past four decades, these areas have been encroached by dramatic urban sprawl due to the rapid population growth and economic development. Therefore, there has been a pressing need for the government to find alternative solutions to maintain the sustainability of the national agricultural sector. Consequently, the adopted policies by the government to reclaim new lands in the desert have led to the second category (New Lands). These are barren areas located in the Western and Eastern deserts outside the green zone of the Nile Delta. The New Lands process includes accessibility through constructing roads, houses, installing irrigation and drainage systems and providing reliable sources of water and electricity. Tiba district is one of those newly reclaimed areas located in the western Nile Delta of Egypt with a total area of 125 square km. Learn more <a href="https://www.mdpi.com/2077-0472/9/7/137/pdf">here</a>. </p></span>
+							</div>
+						</div>
+					</div>
+					<div class="pins" id="Drying of lake Poopó, Brazil-container">
+						<h3 class="pin-title" id="Drying of lake Poopó, Brazil-title">Lake Poopó, Brazil 2004</h3>
+						<div class="pin">
+							<div class="pin-img">
+								<div class="pin-img-inner">
+									<a class="pin-img-arrow left" id="Drying of lake Poopó, Brazil-left" href="javascript:pinLeft('Drying of lake Poopó, Brazil');" style="display: none;">
+										<img src="../_layout/arrow_left.png" />
+									</a>
+									<img class="img" src="fig/Popoo_earlier_thumbnail.jpg" id="Drying of lake Poopó, Brazil-image-path" />
+									<div class="pin-pager"><img src="../_layout/pager_current.png" id="Drying of lake Poopó, Brazil_pin0" /><img src="../_layout/pager_other.png" id="Drying of lake Poopó, Brazil_pin1" /></div>
+									<a class="pin-img-arrow right" id="Drying of lake Poopó, Brazil-right" href="javascript:pinRight('Drying of lake Poopó, Brazil');" style="display: block;">
+										<img src="../_layout/arrow_right.png" />
+									</a>
+								</div>
+								<div class="pin-caption">
+									<div class="pin-date" id="Drying of lake Poopó, Brazil-date">2004-05-21</div>
+									<div class="pin-type" id="Drying of lake Poopó, Brazil-type">ENVISAT_MERIS</div>
+								</div>
+							</div>
+							<div class="pin-extra">
+								<div class="pin-map">
+									<img class="pin-world" src="../_layout/world.png" width="300" />
+									<img class="pin-marker" src="../_layout/world_marker.svg" id="Drying of lake Poopó, Brazil-world-marker" style="left: 94px; top: 90px; display: block;" />
+									<div class="pin-buttons">
+										<a href="https://apps.sentinel-hub.com/eo-browser/?&_id=abb694a0-476a-4927-9fef-137ec2e5577e-pin&lat=-18.9069&lng=-67.0207&zoom=10&datasetId=ENVISAT_MERIS&layerId=1_TRUE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/000830ef-0035-4108-a2ae-29ad826c63c6&toTime=2004-05-21T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2004-05-21T00:00:00.000Z" target="_blank" id="Drying of lake Poopó, Brazil-eob" style="display: block;">Open in EO Browser</a>
+										<a class="right" href="https://www.flickr.com/photos/sentinelhub/50309569482/" target="_blank" id="Drying of lake Poopó, Brazil-download" style="display: block;">High-res download</a>
+									</div>
+								</div>
+								<span id="Drying of lake Poopó, Brazil-description"><p>In a typical year, rainfall during the wet season (December through March) recharges the Bolivian lake Poopó directly and via increased inflow from the Desaguadero River. In 2015, the lake dried up. This is not the first time that Poopó has evaporated; the lake last dried up in 1994. In that case, it took several years for water to return, and even longer for ecosystems to recover. Despite its history, in 2016 and 2017, as the waters still haven't returned, many environmentalists believed the waters will not return this time. There are multiple reasons as to why the droughts in the area are getting worse. Sitting high in the Bolivian Andes, the saline lake is particularly vulnerable to fluctuations because it is shallow — typically no more than 3 meters (9 feet) deep. Due to climate change the area has warmed an estimated one degree Celsius over the past century, leading to an increase in the rate of evaporation from the lake. And the lack of rain over the past year has sped the process even further. The government blamed the drought solely on El Nino and climate change, but even though this is one of the causes, it seems the management of the lake is also the problem. Some of the water that is supposed to fill the lake is being diverted for agriculture and mining. Even when water is available, the river is often clogged with sedimentation, due to the runoff from development and mining in the area. What happened to Lake Poopó is not unlike the drying of the vast Aral Sea in Central Asia. In both cases, a closed water system was overdrawn, with more water going out than coming in. However, in summer 2018, the lake filled up again, although the water line is clearly diminished compared to 2004. If all the problems persist, there is legitimate concern, that next time, the lake might stay dry forever. Learn more <a href="https://www.nationalgeographic.com/news/2016/01/160121-lake-poopo-bolivia-dried-out-el-nino-climate-change-water/">here</a> and <a href="https://earthobservatory.nasa.gov/images/87363/bolivias-lake-poopo-disappears">here</a>.</p></span>
+							</div>
+						</div>
+					</div>
+					<div class="pins" id="Dubai Urbanization-container">
+						<h3 class="pin-title" id="Dubai Urbanization-title">Dubai Urbanization, 2005</h3>
+						<div class="pin">
+							<div class="pin-img">
+								<div class="pin-img-inner">
+									<a class="pin-img-arrow left" id="Dubai Urbanization-left" href="javascript:pinLeft('Dubai Urbanization');" style="display: none;">
+										<img src="../_layout/arrow_left.png" />
+									</a>
+									<img class="img" src="fig/Dubai_before_thumbnail.jpg" id="Dubai Urbanization-image-path" />
+									<div class="pin-pager"><img src="../_layout/pager_current.png" id="Dubai Urbanization_pin0" /><img src="../_layout/pager_other.png" id="Dubai Urbanization_pin1" /></div>
+									<a class="pin-img-arrow right" id="Dubai Urbanization-right" href="javascript:pinRight('Dubai Urbanization');" style="display: block;">
+										<img src="../_layout/arrow_right.png" />
+									</a>
+								</div>
+								<div class="pin-caption">
+									<div class="pin-date" id="Dubai Urbanization-date">2005-07-04</div>
+									<div class="pin-type" id="Dubai Urbanization-type">ENVISAT_MERIS</div>
+								</div>
+							</div>
+							<div class="pin-extra">
+								<div class="pin-map">
+									<img class="pin-world" src="../_layout/world.png" width="300" />
+									<img class="pin-marker" src="../_layout/world_marker.svg" id="Dubai Urbanization-world-marker" style="left: 196px; top: 54px; display: block;" />
+									<div class="pin-buttons">
+										<a href="https://apps.sentinel-hub.com/eo-browser/?&_id=479940e5-d993-430f-ab0e-51de310e8ead-pin&lat=25.1369&lng=55.2317&zoom=11&datasetId=ENVISAT_MERIS&layerId=1_TRUE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/000830ef-0035-4108-a2ae-29ad826c63c6&toTime=2005-07-04T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2005-07-04T00:00:00.000Z" target="_blank" id="Dubai Urbanization-eob" style="display: block;">Open in EO Browser</a>
+										<a class="right" href="https://www.flickr.com/photos/sentinelhub/50308648548/" target="_blank" id="Dubai Urbanization-download" style="display: block;">High-res download</a>
+									</div>
+								</div>
+								<span id="Dubai Urbanization-description"><p>Perhaps no place on the Earth has had as drastic land cover change over the past ten years as Dubai. The creation of over 300 kilometers of coastline, the rapid expansion of urban land cover, and the intensification of urban development make this one of the most rapidly and visibly changed land covers due to urbanization. The total population of Dubai has grown by 1.000 % over the last 40 years alone. In 1975 the total population was 183,000 inhabitants, which increased in 2015 to about 2 million, making Dubai population one of the fastest growing in the world. The total built up area increased from only 54 square km in 1975 to 977 square km in 2015, raising  urbanized land by 1800% in only 40 years. Learn more <a href="https://lcluc.umd.edu/hotspot/urbanization-dubai#:~:text=Dubai%20has%20experienced%20tremendous%20recent,in%202015%20(AMEInfo%202005a).">here</a> and <a href="https://www.researchgate.net/publication/317564338_The_Boom_Population_and_Urban_Growth_of_Dubai_City">here</a>.</p></span>
+							</div>
+						</div>
+					</div>
+					<div class="pins" id="Agriculture in Italy-container">
+						<h3 class="pin-title" id="Agriculture in Italy-title">Agriculture in Italy, 1986 (NDVI)</h3>
+						<div class="pin">
+							<div class="pin-img">
+								<div class="pin-img-inner">
+									<a class="pin-img-arrow left" id="Agriculture in Italy-left" href="javascript:pinLeft('Agriculture in Italy');" style="display: none;">
+										<img src="../_layout/arrow_left.png" />
+									</a>
+									<img class="img" src="fig/Italy_before_thumbnail.jpg" id="Agriculture in Italy-image-path" />
+									<div class="pin-pager"><img src="../_layout/pager_current.png" id="Agriculture in Italy_pin0" /><img src="../_layout/pager_other.png" id="Agriculture in Italy_pin1" /></div>
+									<a class="pin-img-arrow right" id="Agriculture in Italy-right" href="javascript:pinRight('Agriculture in Italy');" style="display: block;">
+										<img src="../_layout/arrow_right.png" />
+									</a>
+								</div>
+								<div class="pin-caption">
+									<div class="pin-date" id="Agriculture in Italy-date">1986-12-08</div>
+									<div class="pin-type" id="Agriculture in Italy-type">ESA_L5</div>
+								</div>
+							</div>
+							<div class="pin-extra">
+								<div class="pin-map">
+									<img class="pin-world" src="../_layout/world.png" width="300" />
+									<img class="pin-marker" src="../_layout/world_marker.svg" id="Agriculture in Italy-world-marker" style="left: 160px; top: 36px; display: block;" />
+									<div class="pin-buttons">
+										<a href="https://apps.sentinel-hub.com/eo-browser/?&_id=fade073c-c851-4802-a7dd-10f040bfbe6a-pin&lat=45.7088&lng=12.854&zoom=11&datasetId=ESA_L5&layerId=3_NDVI&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/e3e5e6c2-d1eb-419a-841c-5167a1de5441&toTime=1986-12-08T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=1986-12-08T00:00:00.000Z" target="_blank" id="Agriculture in Italy-eob" style="display: block;">Open in EO Browser</a>
+										<a class="right" href="https://www.flickr.com/photos/sentinelhub/50309693402/" target="_blank" id="Agriculture in Italy-download" style="display: block;">High-res download</a>
+									</div>
+								</div>
+								<span id="Agriculture in Italy-description"><p>Agriculture is one of Italy's key economic sectors, accounting for around 2.1% of GDP. Most farms are small, with the average size being eleven hectares. Italian industries, including the food-processing sector, rely heavily on imports of raw materials. Italy is one of the largest agricultural producers and food processors in the EU. The northern part of Italy produces primarily grains, soybeans, meat, and dairy products, while the south specializes in fruits, vegetables, olive oil, wine, and durum wheat.  Even though much of its mountainous terrain is unsuitable for farming, approximately 4% of the population is employed in farming.  Veneto agriculture is one of the most productive in Italy, producing mainly cereals, fruits and wine. Small, hand farmed fields present a contrast to the growing industrialization of the sector, which suffers from soil degradation. Learn more <a href="https://www.recare-hub.eu/news/45-06-bioforsk">here</a> and <a href="https://www.privacyshield.gov/article?id=Italy-Agricultural-Sector#:~:text=Italy's%20agriculture%20is%20typical%20of,%2C%20wine%2C%20and%20durum%20wheat.">here</a>.</p></span>
+							</div>
+						</div>
+					</div>
+					<div class="pins" id="Aral Sea-container">
+						<h3 class="pin-title" id="Aral Sea-title">Aral Sea, 2005</h3>
+						<div class="pin">
+							<div class="pin-img">
+								<div class="pin-img-inner">
+									<a class="pin-img-arrow left" id="Aral Sea-left" href="javascript:pinLeft('Aral Sea');" style="display: none;">
+										<img src="../_layout/arrow_left.png" />
+									</a>
+									<img class="img" src="fig/Aral_before_thumbnail.jpg" id="Aral Sea-image-path" />
+									<div class="pin-pager"><img src="../_layout/pager_current.png" id="Aral Sea_pin0" /><img src="../_layout/pager_other.png" id="Aral Sea_pin1" /></div>
+									<a class="pin-img-arrow right" id="Aral Sea-right" href="javascript:pinRight('Aral Sea');" style="display: block;">
+										<img src="../_layout/arrow_right.png" />
+									</a>
+								</div>
+								<div class="pin-caption">
+									<div class="pin-date" id="Aral Sea-date">2005-07-13</div>
+									<div class="pin-type" id="Aral Sea-type">ENVISAT_MERIS</div>
+								</div>
+							</div>
+							<div class="pin-extra">
+								<div class="pin-map">
+									<img class="pin-world" src="../_layout/world.png" width="300" />
+									<img class="pin-marker" src="../_layout/world_marker.svg" id="Aral Sea-world-marker" style="left: 199px; top: 37px; display: block;" />
+									<div class="pin-buttons">
+										<a href="https://apps.sentinel-hub.com/eo-browser/?&_id=d5be0b37-9e4a-4d9c-9ac3-b31b22092cc8-pin&lat=45.038&lng=59.175&zoom=9&datasetId=ENVISAT_MERIS&layerId=1_TRUE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/000830ef-0035-4108-a2ae-29ad826c63c6&toTime=2005-07-13T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2005-07-13T00:00:00.000Z" target="_blank" id="Aral Sea-eob" style="display: block;">Open in EO Browser</a>
+										<a class="right" href="https://www.flickr.com/photos/sentinelhub/50308532883/" target="_blank" id="Aral Sea-download" style="display: block;">High-res download</a>
+									</div>
+								</div>
+								<span id="Aral Sea-description"><p>In the 1960s, the Soviet Union undertook a major water diversion project on the arid plains of Kazakhstan, Uzbekistan, and Turkmenistan. The region’s two major rivers, fed by snowmelt and precipitation in faraway mountains, were used to transform the desert into farms for cotton and other crops. Before the project, the Syr Darya and the Amu Darya rivers flowed down from the mountains, cut northwest through the Kyzylkum Desert, and finally pooled together in the lowest part of the basin. The lake they made, the Aral Sea, was once the fourth largest in the world. Although irrigation made the desert bloom, it devastated the Aral Sea. As the Aral Sea has dried up, fisheries and the communities that depended on them collapsed. The salty dust blew off the lakebed and settled onto fields, degrading the soil. Croplands had to be flushed with larger and larger volumes of river water. The loss of the moderating influence of such a large body of water made winters colder and summers hotter and drier. Additionally, as the Aral water content diminishes, salinization of the lake increases. This creates vertical stratification, where surface salinity is lower than the bottom layer, thus heating up faster. This additionally contributes to water evaporation, creating a positive feedback loop. Learn more <a href="http://www.columbia.edu/~tmt2120/environmental%20impacts.htm">here</a> and <a href="https://earthobservatory.nasa.gov/world-of-change/AralSea">here</a>.</p></span>
+							</div>
+						</div>
+					</div>
+					<div class="pins" id="Disappearing Glaciers of Switzerland-container">
+						<h3 class="pin-title" id="Disappearing Glaciers of Switzerland-title">Disappearing Glaciers of Switzerland, 1987</h3>
+						<div class="pin">
+							<div class="pin-img">
+								<div class="pin-img-inner">
+									<a class="pin-img-arrow left" id="Disappearing Glaciers of Switzerland-left" href="javascript:pinLeft('Disappearing Glaciers of Switzerland');" style="display: none;">
+										<img src="../_layout/arrow_left.png" />
+									</a>
+									<img class="img" src="fig/Glaciers_Switzerland_earlier_thumbnail.jpg" id="Disappearing Glaciers of Switzerland-image-path" />
+									<div class="pin-pager"><img src="../_layout/pager_current.png" id="Disappearing Glaciers of Switzerland_pin0" /><img src="../_layout/pager_other.png" id="Disappearing Glaciers of Switzerland_pin1" /></div>
+									<a class="pin-img-arrow right" id="Disappearing Glaciers of Switzerland-right" href="javascript:pinRight('Disappearing Glaciers of Switzerland');" style="display: block;">
+										<img src="../_layout/arrow_right.png" />
+									</a>
+								</div>
+								<div class="pin-caption">
+									<div class="pin-date" id="Disappearing Glaciers of Switzerland-date">1987-08-17</div>
+									<div class="pin-type" id="Disappearing Glaciers of Switzerland-type">ESA_L5</div>
+								</div>
+							</div>
+							<div class="pin-extra">
+								<div class="pin-map">
+									<img class="pin-world" src="../_layout/world.png" width="300" />
+									<img class="pin-marker" src="../_layout/world_marker.svg" id="Disappearing Glaciers of Switzerland-world-marker" style="left: 156px; top: 36px; display: block;" />
+									<div class="pin-buttons">
+										<a href="https://apps.sentinel-hub.com/eo-browser/?&_id=f5fee954-7cf8-4fd5-ae7d-80641aef4b81-pin&lat=46.5134&lng=8.0502&zoom=12&datasetId=ESA_L5&layerId=1_TRUE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/e3e5e6c2-d1eb-419a-841c-5167a1de5441&toTime=1987-08-17T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=1987-08-17T00:00:00.000Z" target="_blank" id="Disappearing Glaciers of Switzerland-eob" style="display: block;">Open in EO Browser</a>
+										<a class="right" href="https://www.flickr.com/photos/sentinelhub/50309221217/" target="_blank" id="Disappearing Glaciers of Switzerland-download" style="display: block;">High-res download</a>
+									</div>
+								</div>
+								<span id="Disappearing Glaciers of Switzerland-description"><p>Glaciers around the world are melting due to climate change. In Switzerland, they have shrunk 10% in the past five years, a rate that has never been seen before in over a century of observations. The summer 2019 heatwave saw glacier melt rates break records, leading to huge losses in ice volume. Scientists took measurements from 20 glaciers in the country and found that about 2% of Switzerland's total glacier volume was lost in the past year. Initial signs for 2019 had been encouraging after glacier snow cover was measured at 20-40% higher than normal in April and May, following a very cold January with lots of precipitation. However the third-hottest summer since records began meant melting accelerated dramatically. Melting was particularly severe in eastern Switzerland and the northern side of the Alps. More than 500 glaciers have completely disappeared in Switzerland since 1850, and 2019 saw the Pizol glacier removed from the country's glacier monitoring network. Most glaciers in Central Europe, Western Canada and the United States will vanish in the second half of this century if current rates of ice loss continue. Learn more <a href="https://edition.cnn.com/2019/10/15/europe/switzerland-glacier-melting-scli-intl-scn/index.html">here</a> and <a href="https://www.euronews.com/2019/12/02/before-and-after-see-how-swiss-glaciers-have-shrunk-dramatically-across-150-years">here</a>.</p></span>
+							</div>
+						</div>
+					</div>
+					<div class="pins" id="Xingu River-container">
+						<h3 class="pin-title" id="Xingu River-title">Xingu River, 2005 (False Color)</h3>
+						<div class="pin">
+							<div class="pin-img">
+								<div class="pin-img-inner">
+									<a class="pin-img-arrow left" id="Xingu River-left" href="javascript:pinLeft('Xingu River');" style="display: none;">
+										<img src="../_layout/arrow_left.png" />
+									</a>
+									<img class="img" src="fig/Xingu_river_earlier_thumbnail.jpg" id="Xingu River-image-path" />
+									<div class="pin-pager"><img src="../_layout/pager_current.png" id="Xingu River_pin0" /><img src="../_layout/pager_other.png" id="Xingu River_pin1" /></div>
+									<a class="pin-img-arrow right" id="Xingu River-right" href="javascript:pinRight('Xingu River');" style="display: block;">
+										<img src="../_layout/arrow_right.png" />
+									</a>
+								</div>
+								<div class="pin-caption">
+									<div class="pin-date" id="Xingu River-date">2005-07-16</div>
+									<div class="pin-type" id="Xingu River-type">ENVISAT_MERIS</div>
+								</div>
+							</div>
+							<div class="pin-extra">
+								<div class="pin-map">
+									<img class="pin-world" src="../_layout/world.png" width="300" />
+									<img class="pin-marker" src="../_layout/world_marker.svg" id="Xingu River-world-marker" style="left: 106px; top: 77px; display: block;" />
+									<div class="pin-buttons">
+										<a href="https://apps.sentinel-hub.com/eo-browser/?&_id=5fd2d898-3e48-43d1-bb94-f7d630efc3c2-pin&lat=-3.377&lng=-52.1494&zoom=10&datasetId=ENVISAT_MERIS&layerId=FALSE_COLOR&visualizationUrl=https://eocloud.sentinel-hub.com/v1/wms/000830ef-0035-4108-a2ae-29ad826c63c6&toTime=2005-07-16T23:59:59.999Z&evalscript=&evalscripturl=&themeId=HISTORICAL&fromTime=2005-07-16T00:00:00.000Z" target="_blank" id="Xingu River-eob" style="display: block;">Open in EO Browser</a>
+										<a class="right" href="https://www.flickr.com/photos/sentinelhub/50308890338/" target="_blank" id="Xingu River-download" style="display: block;">High-res download</a>
+									</div>
+								</div>
+								<span id="Xingu River-description"><p>The controversial Belo Monte mega-dam in Pará state has done significant socio-environmental harm to the Xingu River and the indigenous and traditional people living beside it. Project designers appear to have seriously overestimated the Xingu River flow rates and failed to account for fluctuations between wet and dry seasons, while also not accounting for reductions in flow due to deforestation caused by rapidly expanding cattle ranches and soy plantations. Due to escalating climate change and drought that are reducing Xingu River flow, the dam seems almost certain to never fulfill promised economic or energy-producing goals. The dam diverts the Xingu River’s natural flow into a constructed channel, then into a reservoir and to the main electricity-producing Belo Monte dam, largely drying up the river in its original path. Tens of thousands of indigenous and traditional people were forced from their homes, and had to give up their fishing livelihoods. Today, the Belo Monte hydroelectric dam stands as a warning – proof of the damage caused by ill-conceived Amazon mega-projects. Learn more <a href="https://news.mongabay.com/2018/02/belo-monte-legacy-harm-from-amazon-dam-didnt-end-with-construction/">here</a> and <a href="https://news.mongabay.com/2020/01/belo-monte-boondoggle-brazils-biggest-costliest-dam-may-be-unviable/">here</a>.</p></span>
+							</div>
+						</div>
+					</div>
+					</div>
+
+				</div>
+			</div>
+			
+			<div id="footer">
+				<div class="content">
+					<a href="https://www.github.com/sentinel-hub/pin-library" target="_blank">View on GitHub</a>
+				</div>
+				<div class="content right">
+					<a href="https://www.sentinel-hub.com" target="_blank"><img src="../_layout/sentinelhub.svg" width="108" /></a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
