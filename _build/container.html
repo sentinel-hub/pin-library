@@ -1,0 +1,50 @@
+<!doctype xhtml>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+		<link rel="stylesheet" href="{layout_dir}/default.css" type="text/css" />
+		<script src="{layout_dir}/main.js"></script> 
+		<script>
+			var layoutDir = "{layout_dir}/";
+{script}
+		</script>
+	</head>
+	<body>
+		<div id="container-vertical">
+			<div id="container-horizontal">
+				<div id="sidebar">
+					<div id="sidebar-header">
+						<a href="/"><img src="{layout_dir}/logo.svg" width="162" /></a>
+						<a class="right" href="javascript:toggleSearch();"><img src="{layout_dir}/search.svg" width="24" /></a>
+					</div>
+					<div id="sidebar-search" class="hidden">
+						<input id="search-box" type="text" placeholder="Search..." onkeydown="searchKeyDown(this)" />
+					</div>
+					<div id="sidebar-content">
+						<h2>EO Browser pins repository</h2>
+						<p>This is a repository of pins and pin descriptions for EO Browser, also called the Pin library, which aims to provide a growing repository of remote sensing images.
+						Explore interesting locations, contribute by adding your own pins and pin descriptions, and share your collections with others.</p>
+						<br />
+						<h2>Contribute content</h2>
+						<p>If you have an idea for additional content, such as a new theme, a new pin for the existing theme, or any other suggestions, please check our guide on how to contribute to pin library using git.</p>
+						<a class="button" href="{github_repo_url}/blob/main/README.md" target="_blank">Contribute</a>
+					</div>
+				</div>
+				
+				<div id="main-content">
+{content}
+				</div>
+			</div>
+			
+			<div id="footer">
+				<div class="content">
+					<a href="{github_repo_url}" target="_blank">View on GitHub</a>
+				</div>
+				<div class="content right">
+					<a href="https://www.sentinel-hub.com" target="_blank"><img src="{layout_dir}/sentinelhub.svg" width="108" /></a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

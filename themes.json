@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Agriculture"
+    },
+	{
+		"name": "Atmosphere and Air Pollution"
+    },
+	{
+        "name": "Change Detection Through Time"
+    },
+	{
+        "name": "Floods and Droughts"
+    },
+	{
+        "name": "Geology"
+    },
+	{
+        "name": "Monitoring Earth from Space"
+    },
+	{
+        "name": "Ocean and Water Bodies"
+    },
+	{
+        "name": "Snow and Glaciers"
+    },
+	{
+        "name": "Urban"
+    },
+	{
+        "name": "Vegetation and Forestry"
+    },
+	{
+        "name": "Volcanoes"
+    },
+	{
+        "name": "Wildfires"
+	}
+]

@@ -1,0 +1,32 @@
+					<div class="pins" id="{group}-container">
+						<h3 class="pin-title" id="{group}-title">{title}</h3>
+						<div class="pin">
+							<div class="pin-img">
+								<div class="pin-img-inner">
+									<a class="pin-img-arrow left" id="{group}-left" href="javascript:pinLeft('{group}');" style="display: none;">
+										<img src="{layout_dir}/arrow_left.png" />
+									</a>
+									<img class="img" src="{thumbnail_path}" id="{group}-image-path" />
+									<div class="pin-pager">{pager}</div>
+									<a class="pin-img-arrow right" id="{group}-right" href="javascript:pinRight('{group}');" style="display: {arrow_right_display};">
+										<img src="{layout_dir}/arrow_right.png" />
+									</a>
+								</div>
+								<div class="pin-caption">
+									<div class="pin-date" id="{group}-date">{date}</div>
+									<div class="pin-type" id="{group}-type">{type}</div>
+								</div>
+							</div>
+							<div class="pin-extra">
+								<div class="pin-map">
+									<img class="pin-world" src="{layout_dir}/world.png" width="300" />
+									<img class="pin-marker" src="{layout_dir}/world_marker.svg" id="{group}-world-marker" style="left: {world_pos_x}px; top: {world_pos_y}px; display: {world_pos_display};" />
+									<div class="pin-buttons">
+										<a href="{eob_url}" target="_blank" id="{group}-eob" style="display: {eob_display};">Open in EO Browser</a>
+										<a class="right" href="{download_url}" target="_blank" id="{group}-download" style="display: {download_display};">High-res download</a>
+									</div>
+								</div>
+								<span id="{group}-description">{description}</span>
+							</div>
+						</div>
+					</div>
