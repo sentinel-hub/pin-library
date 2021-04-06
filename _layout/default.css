@@ -32,6 +32,11 @@ h3 {
 	text-align: center;
 }
 
+.smallbtn {
+	width: 22px;
+	padding: 0px 5px;
+}
+
 #container-vertical {
 	display: flex;
 	flex-direction: column;

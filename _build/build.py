@@ -148,8 +148,11 @@ with open('_build/container.html', 'r', encoding='utf-8') as html_container_file
         
         pin_html_content = \
             '\t\t\t\t\t<div>\n' + \
+            '\t\t\t\t\t\t<a href="../" class="right">\n' + \
+            '\t\t\t\t\t\t\t<img src="{layout_dir}/close.svg" title="Back to themes" class="smallbtn" />\n' + \
+            '\t\t\t\t\t\t</a>\n' + \
             '\t\t\t\t\t\t<a href="' + os.path.basename(pins_json_file_name) + '" class="right" target="_blank" download="' + os.path.basename(pins_json_file_name) + '">\n' + \
-            '\t\t\t\t\t\t\t<img src="{layout_dir}/export.svg" title="Export pins to JSON file" />\n' + \
+            '\t\t\t\t\t\t\t<img src="{layout_dir}/export.svg" title="Export pins to JSON file" class="smallbtn" />\n' + \
             '\t\t\t\t\t\t</a>\n' + \
             '\t\t\t\t\t\t<h2>Pins: ' + theme_name + '</h2>\n' + \
             '\t\t\t\t\t</div>\n'
