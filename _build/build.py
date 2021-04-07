@@ -148,7 +148,7 @@ with open('_build/container.html', 'r', encoding='utf-8') as html_container_file
         
         pin_html_content = \
             '\t\t\t\t\t<div>\n' + \
-            '\t\t\t\t\t\t<a href="../" class="right smallbtn">\n' + \
+            '\t\t\t\t\t\t<a href="{root_dir}" class="right smallbtn">\n' + \
             '\t\t\t\t\t\t\t<img src="{layout_dir}/close.svg" title="Back to themes" />\n' + \
             '\t\t\t\t\t\t</a>\n' + \
             '\t\t\t\t\t\t<a href="' + os.path.basename(pins_json_file_name) + '" class="right smallbtn" target="_blank" download="' + os.path.basename(pins_json_file_name) + '">\n' + \
@@ -208,6 +208,7 @@ with open('_build/container.html', 'r', encoding='utf-8') as html_container_file
         
         html = html_container_template.replace('{content}', pin_html_content)
         html = html.replace('{script}', pin_javascript)
+        html = html.replace('{root_dir}', '../')
         html = html.replace('{layout_dir}', '../_layout')
         html = html.replace('{github_repo_url}', sys.argv[1] if len(sys.argv) > 1 else 'https://www.github.com')
 
@@ -224,6 +225,7 @@ with open('_build/container.html', 'r', encoding='utf-8') as html_container_file
 
     html = html_container_template.replace('{content}', theme_html_content)
     html = html.replace('{script}', theme_javascript)
+    html = html.replace('{root_dir}', '')
     html = html.replace('{layout_dir}', '_layout')
     html = html.replace('{github_repo_url}', sys.argv[1] if len(sys.argv) > 1 else 'https://www.github.com')
 
