@@ -8,7 +8,7 @@ The Python script **build.py** parses and converts JSON files into the correspon
 If you are setting up a fresh repository, these are the steps to properly configure AWS CodeBuild process:
 
 - Sign-in into GitHub.com, click the user button (top right), select "Settings", "Developer settings", "Personal access tokens", "Generate new token", 
-enter any name, and check everything under "repo". You will get the new token. Copy and store it somewhere, as otherwise it will be lost.
+enter any name, and check everything under "repo", "admin:repo_hook" and "admin:org_hook". You will get the new token. Copy and store it somewhere, as otherwise it will be lost.
 - You must have an AWS account that allows you to manage CodeBuild
 - Login into AWS, navigate to the CodeBuild and select "Build projects"
 - Click "Create build project"
@@ -16,9 +16,9 @@ enter any name, and check everything under "repo". You will get the new token. C
    - Enter a unique project name, without spaces
 - In the "Source" section:
    - Select "GitHub" in "Source provider"
-   - Select "Repository in my GitHub account"
-   - Select the actual repository
    - Enter your GitHub person token (which you got in the first step after "Generate new token")
+   - Select "Repository in my GitHub account"
+   - Enter the full URL of this repository in the format ```https://github.com/<account>/<repo>```, since this repository might not be under your personal repositories, so it might not be listed in the selection.
 - In the "Primary source webhook events" section:
    - Check "Rebuild every time a code change is pushed to this repository"
    - Select "Single build"
@@ -45,8 +45,8 @@ enter any name, and check everything under "repo". You will get the new token. C
 - Click "Create build project"
 - After the CodeBuild project is created, click it and then select "Build details" below.
 - In the "Primary source webhook events" section, there is a link for "Webhook". Click it, it will navigate you to GitHub, 
-where you only have to select "Pull requests" and "Pushes" under "Let me select individual events.". Save the webhook
+where you only have to select "Pull requests" and "Pushes" under "Let me select individual events.". Save the webhook.
 
 Now you can test the build process, by modifying any of the JSON files and committing it. After a couple of minutes, when the build process is finished, 
-there should be some commits with a commit message "[CodeBuild]". This will indicate that the CodeBuild script did actually generated HTML files.
+there should be some commits with a commit message "[CodeBuild]". This will indicate that the CodeBuild script did actually generated HTML files. Also, the CodeBuild log will appear in the "_build/build.log" file.
    
