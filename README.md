@@ -19,25 +19,25 @@ The pins you will upload to Pin Library need to be configured in [EO Browser](ht
 
 Save your chosen location as pin, by clicking on the pin icon in the top menu on the left (as highlighted with a red rectancle). 
 
-<img src="/_imgs/Readme/location.png" width="457">
+<img src="/_imgs/Readme/location.png" width="840">
 
 ### 1.2. Edit your pins
 
 Open the Pin tab on top (blue rectangle on the image above), to display all your pins. 
 
-Edit each pin to change its name and add a description in [Markdown](https://learnxinyminutes.com/docs/markdown/). Click on the pen icon on the right to change the name, and confirm it by clicking the green check mark on the right. Then expand the arrows on bottom right, to open the description panel. Use Markdown to add a description and confirm it by clicking the green check mark on bottom right. 
+Edit each pin to change its name and add a description in [Markdown](https://learnxinyminutes.com/docs/markdown/). Click on the pen icon on the right to change the name, and confirm it by clicking the green check mark on the right. Then expand the arrows on the bottom right, to open the description panel. Use Markdown to add a description and confirm it by clicking the green check mark on the bottom right. 
 
 ![edit_pin](/_imgs/Readme/pin.png)
 
 _**Mini Markdown guide:**_
 - Headings are made using #. More #, smaller heading. For example: `# My Heading`, or `## My smaller heading`. Note that you need a space after the #. 
-- Lists are made simply using - sign before each line. 
+- Lists are made simply using - or * sign before each line. 
 - To add links, write `[Text](www.url.com)`, which will display what you write in square brackets as clickable text with a link. 
 - To add images, commit them to a folder and then access it with the following structure: `![ImageName](/imgFolder/imgName.png)`. Note that you can't do this in EO Browser directly. 
 - Use ** before and after text to make it bold (e.g. `**Text**`) and use _ before and after text to make it italic (eg. `_Text_`)
 - Use `<br/>` to make page breaks
 
-You can delete the pins by clicking the trash can icon on the left, and you can organize the sequence of pins by clicking the drag icon (dots on the left) and rearranging them by dragging one on top of the other. The sequence of the pins in EO Browser will be the same as the sequence of pins in the Pin library, unless manually editing a JSON file. 
+You can delete pins by clicking the trash can icon on the left, and you can organize the sequence of pins by clicking the drag icon (dots on the left) and rearranging them by dragging one on top of the other. The sequence of the pins in EO Browser will be the same as the sequence of pins in the Pin library, unless manually edited in the JSON file. 
 
 ![delete_rearrange_pins](/_imgs/Readme/delete.png)
 
@@ -49,7 +49,7 @@ Export pins from EO Browser by clicking the Export button. Note that all the pin
 
 ## 2. Contribute the Whole Theme
 
-To contribute content to pin library, you need the following: 
+To contribute content to the pin library, you need the following: 
 - A JSON file with EO Browser pins (check section 2)
 - Installed git and the Pin Library repository cloned (see [this guide](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) to learn how to use git)
 - Images for each pin downloaded
@@ -60,8 +60,8 @@ The image below displays the structure of the JSON file exported from EO Browser
 The red rectangle shows the structure of a single pin; each pin is included in curly brackets {}, which are all a part of a large array ([]) and separated by commas. 
 - Pin ID: A unique pin ID, shown with a blue rectangle. You can find the ID next to the `"_id"`, first in line. Copy only the value between "". 
 - Pin Title: Shown in green rectangle. It is a value of `"title"`. 
-- Description: The description you added in EO Browser. You can edit this description anytime. Note that you can add links to image as well, and that the description is in Markdown. 
-- Group: shown in purple rectangle. Optional parameter. You can use it to group pins together to be displayed as one group on the pin library. 
+- Description: The description you added in EO Browser. You can edit this description anytime. Note that you can add links to images as well, and that the description is in Markdown. 
+- Group: shown in purple rectangle. Optional parameter. You can use it to group pins together to be displayed as one group in the pin library. 
 - highResUrl: If you have a high resolution image uploaded on Flickr or other similar website, you can add the link here. 
 
 ![json](/_imgs/Readme/json.png)
@@ -116,14 +116,12 @@ Note that you can also add a non-image element to the group, such as a photograp
 
 Additionally, you can add a URL link to a high resolution image of the pin, if available, to the `"highResImageUrl"` parameter. 
 
-When you're done, commit your changes and push to the repository. Create a merge request. You're done!
+When you're done, commit your changes and push to the repository. Create a pull request. You're done!
 
 ### 2.5. Contribute to Existing Themes
 
-- To add a new pin to the existing theme, export the particular pin from EO Browser and copy it from the JSON file (only the pin content, which is between the `{}` symbols) to the JSON file of the theme. Make sure that all pins have a comma at the end, except the last one. 
+- To add a new pin to an existing theme, export the particular pin from EO Browser and copy it from the JSON file (only the pin content, which is between the `{}` symbols) to the JSON file of the theme. Make sure that all pins have a comma at the end, except the last one. 
 - Don't forget to add an image to the pin, if you're adding a new one. 
 - To update an image, replace the image with another one, and make sure the name of the image stays the same, to keep the connection to the pin. 
 - To edit a description, title or group, you need to edit it directly in the JSON file. 
 - Check the previous chapters for more information.
-
-
