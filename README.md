@@ -19,7 +19,7 @@ The pins you will upload to Pin Library need to be configured in [EO Browser](ht
 
 Save your chosen location as pin, by clicking on the pin icon in the top menu on the left (as highlighted with a red rectancle). 
 
-<img src="/_imgs/Readme/location.png" width="40">
+<img src="/_imgs/Readme/location.png" width="457">
 
 ### 1.2. Edit your pins
 
