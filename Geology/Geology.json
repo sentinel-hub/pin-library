@@ -172,7 +172,7 @@
       "evalscript":"",
       "evalscripturl":"",
       "themeId":"GEOLOGY",
-      "gain":"1.4",
+      "gain":1.4,
       "description":"Instead of its roaring waves and scary storms, the Caribbean sea often offers amazing natural wonders below its otherwise uncertain surface. [The Great Blue Hole of Belize](https://www.marineinsight.com/environment/what-is-the-great-blue-hole-of-belize/), located off the coast of Belize, is one of such wonders. Circular in shape with a diameter of 300 m, the water depth in this hole is 125 m, which gives it a deep blue color in contrast with the aquamarine color of the water neighboring it. Researchers say this giant underwater [sinkhole](https://www.usgs.gov/special-topic/water-science-school/science/sinkholes?qt-science_center_objects=0#qt-science_center_objects) was originally formed during the last glacial period as a limestone cave when the sea levels were lower. As the ocean began to rise due to [thawing](https://www.nationalgeographic.com/environment/global-warming/big-thaw/) of polar ice caps, the cave system flooded and eventually collapsed, creating a “vertical cave” in the ocean. As such, this swallow hole is popular among divers, who flock to the area to see the geological formations that now lie in the ocean’s depths. [Researcher divers](https://geographical.co.uk/people/explorers/item/3132-explore-belize-blue-hole) have found huge [stalactites and stalagmites](https://oceanexplorer.noaa.gov/facts/stalactite.html) below the surface, some even reaching 9 – 12 m in length. They say that the deeper one goes, the water becomes clearer and the formations, more complex. The Great Blue Hole is part of the larger Belize Barrier Reef Reserve System, a World Heritage Site of UNESCO.",
       "fromTime":"2020-01-22T00:00:00.000Z",
       "highResImageUrl": "https://www.flickr.com/photos/sentinelhub/50315870083/",
@@ -296,24 +296,6 @@
       "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/239b83d8-51e9-4f78-805b-7ee9929c1e58",
       "evalscript": "",
       "evalscripturl": "",
-      "dataFusion": [],
-      "tag": "",
-      "gain": 1,
-      "gamma": 1,
-      "redRange": [
-          0,
-          1
-      ],
-      "greenRange": [
-          0,
-          1
-      ],
-      "blueRange": [
-          0,
-          1
-      ],
-      "demSource3D": "MAPZEN",
-      "terrainViewerSettings": null,
       "description": "The Senj Archipelago includes 3 major islands - [Prvić](https://en.wikipedia.org/wiki/Prvi%C4%87), [St. Grgur](https://en.wikipedia.org/wiki/Sveti_Grgur) and [Goli Otok](https://en.wikipedia.org/wiki/Goli_Otok). All three islands have large areas of barren limestone rock surface, with a directly visible structure due to the lack of vegetation. In addition, sun glint patterns on the water surface allow the interpretation of local wind effects, especially near the shore.",
       "extra": {
          "thumbnailPath": "fig/Senj_Archipelago_Geology_thumbnail.jpg"
@@ -335,24 +317,6 @@
       "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/18f7c336-5a6f-468e-8870-926baadc118e",
       "evalscript": "",
       "evalscripturl": "",
-      "dataFusion": [],
-      "tag": "",
-      "gain": 1,
-      "gamma": 1,
-      "redRange": [
-          0,
-          1
-      ],
-      "greenRange": [
-          0,
-          1
-      ],
-      "blueRange": [
-          0,
-          1
-      ],
-      "demSource3D": "MAPZEN",
-      "terrainViewerSettings": null,
       "description": "This set of uninhabited islands and rocky peaks really tests the limits of satellite image preprocessing: Due to the extremely steep slopes, some pixels are prone to overcorrection to high brightness. In the south of the island, the refraction of wave arcs can be observed in this image. [Learn more](https://whc.unesco.org/en/list/387/).",
       "extra": {
          "thumbnailPath": "fig/Sea_Stacks_Geology_thumbnail.jpg"

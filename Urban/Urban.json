@@ -575,24 +575,6 @@
       "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/bf6e668a-8214-44f3-9a3d-8ec3976d58c9",
       "evalscript": "",
       "evalscripturl": "",
-      "dataFusion": [],
-      "tag": "",
-      "gain": 1,
-      "gamma": 1,
-      "redRange": [
-          0,
-          1
-      ],
-      "greenRange": [
-          0,
-          1
-      ],
-      "blueRange": [
-          0,
-          1
-      ],
-      "demSource3D": "MAPZEN",
-      "terrainViewerSettings": null,
       "description": "With more than 100 separate siding tracks and an area of 2.8 square km, the freight train classification yard of Maschen is the largest of its kind in Europe. Located South of Hamburg, the station serves as a hub for international freight transport all over Europe. [Learn more](https://en.wikipedia.org/wiki/Maschen_Marshalling_Yard).",
       "extra": {
          "thumbnailPath": "fig/Marshalling_yard_thumbnail.jpg"

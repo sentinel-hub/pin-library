@@ -175,24 +175,6 @@
       "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/4e7f012a-5920-47bc-a0f1-7f075152f077",
       "evalscript": "",
       "evalscripturl": "",
-      "dataFusion": [],
-      "tag": "",
-      "gain": 1,
-      "gamma": 1,
-      "redRange": [
-          0,
-          1
-      ],
-      "greenRange": [
-          0,
-          1
-      ],
-      "blueRange": [
-          0,
-          1
-      ],
-      "demSource3D": "MAPZEN",
-      "terrainViewerSettings": null,
       "description": "[Clew Bay](https://www.clewbay.net/westport-louisburgh-newport/) is a natural ocean bay in County Mayo, Ireland. It has a system of small islands, remnants of sediment transport during the last Ice Age. [Achill Island](https://en.wikivoyage.org/wiki/Achill_Island) can be seen in the north-west of the image, with some spectacular towering cliffs at the westernmost point.",
       "extra": {
          "thumbnailPath": "fig/Clew_Bay_thumbnail.jpg"

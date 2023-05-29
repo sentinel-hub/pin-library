@@ -74,7 +74,7 @@
       "evalscript":"",
       "evalscripturl":"",
       "themeId":"OCEAN",
-      "gamma":"1.2",
+      "gamma":1.2,
       "description":"Roper river is over 1.000 km long, and its irrigation potential is considered to be immense. Using the powerful northern rivers is expected to create numerous jobs and greatly contribute to agricultural development and sustainability. However, some worry the project would require a million hectares of the catchment area to be bulldozed for irrigation agriculture, as well as a dam to be built, which could significantly dry up the river. As the impact on the economy is compelling, the project continues regardless. Read more on the [catchment area](https://web.archive.org/web/20150401172739/http://lrm.nt.gov.au/__data/assets/pdf_file/0003/20766/overview4.pdf) and more on the project [here](https://www.irrigationaustralia.com.au/news/water-its-our-dam-shame) and [here](https://www.topendcoasts.org.au/concern_for_the_roper_river_abc_country_hour).",
       "fromTime":"2019-02-23T00:00:00.000Z",
       "highResImageUrl": "https://www.flickr.com/photos/sentinelhub/49263368336/",
@@ -156,8 +156,8 @@
       "evalscript":"",
       "evalscripturl":"",
       "themeId":"OCEAN",
-      "gain":"1.1",
-      "gamma":"1.2",
+      "gain":1.1,
+      "gamma":1.2,
       "description":"Located 800 km north of Perth in the Indian Ocean, Shark Bay is a unique [UNESCO World Heritage](https://whc.unesco.org/en/about/) site. The bay is renown for having the largest [seagrass](https://ocean.si.edu/ocean-life/plants-algae/seagrass-and-seagrass-beds) meadow in the world (~4.000 square kilometers), forming a feeding ground for large populations of aquatic life, including [dugong](https://www.worldwildlife.org/species/dugong). The seagrass can be seen from space in the shallower areas of the bay, contrasting strongly with the dark brown sand on the surrounding land. The water in Shark Bay is up to twice as salty as the sea, forming one of few marine environments in the world with [hypersaline waters](https://www.sharkbay.org/nature/geology/salinity/) and hosts [stromatolites](https://www.bushheritage.org.au/species/stromatolites), colonies of algae that build mounds and are among the oldest forms of life on earth.",
       "fromTime":"2019-01-10T00:00:00.000Z",
       "group": "Shark Bay, Australia (True Color/Water Quality Viewer)",
@@ -179,8 +179,8 @@
       "evalscript":"",
       "evalscripturl":"",
       "themeId":"OCEAN",
-      "gain":"2.0",
-      "gamma":"1.5",
+      "gain":2.0,
+      "gamma:"1.5,
       "description":"[Barrier reef of New Caledonia](https://whc.unesco.org/en/list/1115/) is protected as a UNESCO World heritage site, due to its outstanding coral reef biodiversity and lagoon beauty. It is comprised of six marine clusters and is one of the three most extensive reef systems in the world. The ecosystems are intact, with healthy populations of great diversity. They provide habitat to a number of emblematic or threatened marine species such as turtles, whales or dugongs whose population here is the third largest in the world. This varied reef landscape ranges from extensive double barrier systems, offshore reefs and coral islands, to the near-shore reticulate reef formations. This beauty continues below the surface with dramatic displays of coral diversity, massive coral structures, together with arches, caves and major fissures in the reefs.",
       "fromTime":"2019-09-29T00:00:00.000Z",
       "highResImageUrl": "https://www.flickr.com/photos/sentinelhub/50097616942/",
@@ -224,24 +224,6 @@
       "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/eac23bce-39e7-4eac-a4b0-2837bb04c44f",
       "evalscript": "",
       "evalscripturl": "",
-      "dataFusion": [],
-      "tag": "",
-      "gain": 1,
-      "gamma": 1,
-      "redRange": [
-          0,
-          1
-      ],
-      "greenRange": [
-          0,
-          1
-      ],
-      "blueRange": [
-          0,
-          1
-      ],
-      "demSource3D": "MAPZEN",
-      "terrainViewerSettings": null,
       "description": "The Vistula is the longest river in Poland and the ninth-longest river in Europe. The unregulated sections of the Vistula river show a system of islands, gravel bars and meanders. The use of infrared false colour highlights the dark water surface and shows the vegetation in different shades of red. [Learn more](http://awsassets.panda.org/downloads/vistula.pdf).",
       "extra": {
          "thumbnailPath": "fig/Vistula_river_thumbnail.jpg"
@@ -263,24 +245,6 @@
       "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/eac23bce-39e7-4eac-a4b0-2837bb04c44f",
       "evalscript": "",
       "evalscripturl": "",
-      "dataFusion": [],
-      "tag": "",
-      "gain": 1,
-      "gamma": 1,
-      "redRange": [
-          0,
-          1
-      ],
-      "greenRange": [
-          0,
-          1
-      ],
-      "blueRange": [
-          0,
-          1
-      ],
-      "demSource3D": "MAPZEN",
-      "terrainViewerSettings": null,
       "description": "The rivers Tagliamento, Meduna and Cellina are unregulated gravel-bed rivers that mainly transport water from the Alps to the Adriatic sea during the snowmelt period. In the current view, the [Tagliamento](https://wilderness-society.org/wild-river-tagliamento-in-northern-italy/) in the East has visible water surfaces while the Meduna and the Cellina have none. The view is a Short-Wave Infrared (SWIR) composite, showing vegetation in shades of green, bare soil in brown, gravel in white and water in black.\n\n**Timelapse**: View [here](https://sentinelshare.page.link/KiA6) in EO Browser.",
       "extra": {
          "thumbnailPath": "fig/Tagliamento_river_thumbnail.jpg"
@@ -302,24 +266,6 @@
       "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/eac23bce-39e7-4eac-a4b0-2837bb04c44f",
       "evalscript": "",
       "evalscripturl": "",
-      "dataFusion": [],
-      "tag": "",
-      "gain": 1,
-      "gamma": 1,
-      "redRange": [
-          0,
-          1
-      ],
-      "greenRange": [
-          0,
-          1
-      ],
-      "blueRange": [
-          0,
-          1
-      ],
-      "demSource3D": "MAPZEN",
-      "terrainViewerSettings": null,
       "description": "The lowland area immediately east of [Lake Neusiedl](https://www.nationalparksaustria.at/en/national-park-neusiedler-see.html) in Austria is home to many salt pans and lakes. In the current view, some of them are dry with a white salt crust, others are dry with dark brown sediment, while some have open water and are coloured green by algae growth. On the western side of the picture, the dynamics of the reeds on the lakeshore can be observed: Dense, young reeds grow green near the open water, while aging, more fragmented reeds occupy the areas further from the shore.",
       "extra": {
          "thumbnailPath": "fig/Salt_pans_thumbnail.jpg"
