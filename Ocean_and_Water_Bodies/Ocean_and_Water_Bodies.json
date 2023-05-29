@@ -207,5 +207,122 @@
       "extra": {
          "thumbnailPath": "fig/waves_thumbnail.jpg"
       }
+   },
+   {
+      "_id": "64370789-9efa-4698-96f3-8641cd97706b-pin",
+      "title": "Vistula River, Poland (False color)",
+      "group": null,
+      "highResImageUrl": null,
+      "datasetId": "S2L2A",
+      "themeId": "OCEAN-NORMAL-MODE",
+      "layerId": "2_FALSE-COLOR",
+      "lat": 52.42969,
+      "lng": 19.95529,
+      "zoom": 13,
+      "fromTime": "2023-04-22T00:00:00.000Z",
+      "toTime": "2023-04-22T23:59:59.999Z",
+      "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/eac23bce-39e7-4eac-a4b0-2837bb04c44f",
+      "evalscript": "",
+      "evalscripturl": "",
+      "dataFusion": [],
+      "tag": "",
+      "gain": 1,
+      "gamma": 1,
+      "redRange": [
+          0,
+          1
+      ],
+      "greenRange": [
+          0,
+          1
+      ],
+      "blueRange": [
+          0,
+          1
+      ],
+      "demSource3D": "MAPZEN",
+      "terrainViewerSettings": null,
+      "description": "The Vistula is the longest river in Poland and the ninth-longest river in Europe. The unregulated sections of the Vistula river show a system of islands, gravel bars and meanders. The use of infrared false colour highlights the dark water surface and shows the vegetation in different shades of red. [Learn more](http://awsassets.panda.org/downloads/vistula.pdf).",
+      "extra": {
+         "thumbnailPath": "fig/Vistula_river_thumbnail.jpg"
+      }
+   },
+   {
+      "_id": "622bcdc8-72e0-4d11-8705-b5cc6d84b27e-pin",
+      "title": "Tagliamento River, Italy (SWIR)",
+      "group": null,
+      "highResImageUrl": null,
+      "datasetId": "S2L2A",
+      "themeId": "OCEAN-NORMAL-MODE",
+      "layerId": "5_SWIR",
+      "lat": 46.09508,
+      "lng": 12.82156,
+      "zoom": 13,
+      "fromTime": "2023-05-05T00:00:00.000Z",
+      "toTime": "2023-05-05T23:59:59.999Z",
+      "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/eac23bce-39e7-4eac-a4b0-2837bb04c44f",
+      "evalscript": "",
+      "evalscripturl": "",
+      "dataFusion": [],
+      "tag": "",
+      "gain": 1,
+      "gamma": 1,
+      "redRange": [
+          0,
+          1
+      ],
+      "greenRange": [
+          0,
+          1
+      ],
+      "blueRange": [
+          0,
+          1
+      ],
+      "demSource3D": "MAPZEN",
+      "terrainViewerSettings": null,
+      "description": "The rivers Tagliamento, Meduna and Cellina are unregulated gravel-bed rivers that mainly transport water from the Alps to the Adriatic sea during the snowmelt period. In the current view, the [Tagliamento](https://wilderness-society.org/wild-river-tagliamento-in-northern-italy/) in the East has visible water surfaces while the Meduna and the Cellina have none. The view is a Short-Wave Infrared (SWIR) composite, showing vegetation in shades of green, bare soil in brown, gravel in white and water in black.\n\n**Timelapse**: View [here](https://sentinelshare.page.link/KiA6) in EO Browser.",
+      "extra": {
+         "thumbnailPath": "fig/Tagliamento_river_thumbnail.jpg"
+      }
+   },
+   {
+      "_id": "011d9308-cb0b-421a-aaba-a73f1cf71247-pin",
+      "title": "Salt Pans and Lakes of Seewinkel, Austria",
+      "group": null,
+      "highResImageUrl": null,
+      "datasetId": "S2L2A",
+      "themeId": "OCEAN-NORMAL-MODE",
+      "layerId": "1_TRUE_COLOR",
+      "lat": 47.77801,
+      "lng": 16.82445,
+      "zoom": 14,
+      "fromTime": "2022-08-03T00:00:00.000Z",
+      "toTime": "2022-08-03T23:59:59.999Z",
+      "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/eac23bce-39e7-4eac-a4b0-2837bb04c44f",
+      "evalscript": "",
+      "evalscripturl": "",
+      "dataFusion": [],
+      "tag": "",
+      "gain": 1,
+      "gamma": 1,
+      "redRange": [
+          0,
+          1
+      ],
+      "greenRange": [
+          0,
+          1
+      ],
+      "blueRange": [
+          0,
+          1
+      ],
+      "demSource3D": "MAPZEN",
+      "terrainViewerSettings": null,
+      "description": "The lowland area immediately east of [Lake Neusiedl](https://www.nationalparksaustria.at/en/national-park-neusiedler-see.html) in Austria is home to many salt pans and lakes. In the current view, some of them are dry with a white salt crust, others are dry with dark brown sediment, while some have open water and are coloured green by algae growth. On the western side of the picture, the dynamics of the reeds on the lakeshore can be observed: Dense, young reeds grow green near the open water, while aging, more fragmented reeds occupy the areas further from the shore.",
+      "extra": {
+         "thumbnailPath": "fig/Salt_pans_thumbnail.jpg"
+      }
    }
 ]
