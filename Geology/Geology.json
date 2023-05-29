@@ -279,5 +279,83 @@
       "extra": {
          "thumbnailPath": "fig/Richat_Structure_thumbnail.jpg"
       }
-   }
+   },
+   {
+      "_id": "1dc541ba-793e-4d2d-a158-e83d3dcc0c8c-pin",
+      "title": "Senj Archipelago, Croatia",
+      "group": null,
+      "highResImageUrl": null,
+      "datasetId": "S2L2A",
+      "themeId": "GEOLOGY-NORMAL-MODE",
+      "layerId": "1_TRUE_COLOR",
+      "lat": 44.87746,
+      "lng": 14.78125,
+      "zoom": 13,
+      "fromTime": "2022-07-19T00:00:00.000Z",
+      "toTime": "2022-07-19T23:59:59.999Z",
+      "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/239b83d8-51e9-4f78-805b-7ee9929c1e58",
+      "evalscript": "",
+      "evalscripturl": "",
+      "dataFusion": [],
+      "tag": "",
+      "gain": 1,
+      "gamma": 1,
+      "redRange": [
+          0,
+          1
+      ],
+      "greenRange": [
+          0,
+          1
+      ],
+      "blueRange": [
+          0,
+          1
+      ],
+      "demSource3D": "MAPZEN",
+      "terrainViewerSettings": null,
+      "description": "The Senj Archipelago includes 3 major islands - [Prvić](https://en.wikipedia.org/wiki/Prvi%C4%87), [St. Grgur](https://en.wikipedia.org/wiki/Sveti_Grgur) and [Goli Otok](https://en.wikipedia.org/wiki/Goli_Otok). All three islands have large areas of barren limestone rock surface, with a directly visible structure due to the lack of vegetation. In addition, sun glint patterns on the water surface allow the interpretation of local wind effects, especially near the shore.",
+      "extra": {
+         "thumbnailPath": "fig/Senj_Archipelago_Geology_thumbnail.jpg"
+      }
+  },
+  {
+      "_id": "41d67448-5351-4d2e-ab39-84706e993637-pin",
+      "title": "Sea Stacks of Boreray Island, St. Kilda Archipelago, UK",
+      "group": null,
+      "highResImageUrl": null,
+      "datasetId": "S2L1C",
+      "themeId": "GEOLOGY-NORMAL-MODE",
+      "layerId": "1_TRUE_COLOR",
+      "lat": 57.87031,
+      "lng": -8.49196,
+      "zoom": 15,
+      "fromTime": "2019-06-21T00:00:00.000Z",
+      "toTime": "2019-06-21T23:59:59.999Z",
+      "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/18f7c336-5a6f-468e-8870-926baadc118e",
+      "evalscript": "",
+      "evalscripturl": "",
+      "dataFusion": [],
+      "tag": "",
+      "gain": 1,
+      "gamma": 1,
+      "redRange": [
+          0,
+          1
+      ],
+      "greenRange": [
+          0,
+          1
+      ],
+      "blueRange": [
+          0,
+          1
+      ],
+      "demSource3D": "MAPZEN",
+      "terrainViewerSettings": null,
+      "description": "This set of uninhabited islands and rocky peaks really tests the limits of satellite image preprocessing: Due to the extremely steep slopes, some pixels are prone to overcorrection to high brightness. In the south of the island, the refraction of wave arcs can be observed in this image. [Learn more](https://whc.unesco.org/en/list/387/).",
+      "extra": {
+         "thumbnailPath": "fig/Sea_Stacks_Geology_thumbnail.jpg"
+      }
+  }
 ]

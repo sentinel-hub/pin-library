@@ -302,5 +302,44 @@
       "extra": {
          "thumbnailPath": "fig/Jordan_Agriculture_thumbnail.jpg"
       }
-   }
+   },
+   {
+      "_id": "cc6dd3cd-3a6e-4e2c-913f-78d50b4d43ee-pin",
+      "title": "Rapeseed Flowering in Mecklenburg-Vorpommern (True color)",
+      "group": null,
+      "highResImageUrl": null,
+      "datasetId": "S2L2A",
+      "themeId": "AGRICULTURE-NORMAL-MODE",
+      "layerId": "1_TRUE-COLOR",
+      "lat": 53.49673,
+      "lng": 13.58202,
+      "zoom": 12,
+      "fromTime": "2022-05-18T00:00:00.000Z",
+      "toTime": "2022-05-18T23:59:59.999Z",
+      "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/c6c712d5-e6a0-49a8-8aa3-85346b3df8a4",
+      "evalscript": "",
+      "evalscripturl": "",
+      "dataFusion": [],
+      "tag": "",
+      "gain": 1,
+      "gamma": 1,
+      "redRange": [
+          0,
+          1
+      ],
+      "greenRange": [
+          0,
+          1
+      ],
+      "blueRange": [
+          0,
+          1
+      ],
+      "demSource3D": "MAPZEN",
+      "terrainViewerSettings": null,
+      "description": "[Oilseed rape](https://en.wikipedia.org/wiki/Rapeseed) is one of the main crops produced in Europe and is mainly used to produce [biodiesel](https://www.eia.gov/energyexplained/biofuels/biodiesel-rd-other-basics.php). During the flowering period (late April-early May), the fields are coloured by the distinctive yellow flowers, which can also be observed from space.\n\n**Timelapse**: View [here](https://sentinelshare.page.link/knVQ) in EO Browser.",
+      "extra": {
+         "thumbnailPath": "fig/Rapeseed_Agriculture_thumbnail.jpg"
+      }
+  }
 ]
