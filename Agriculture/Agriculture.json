@@ -172,8 +172,8 @@
       "evalscript":"",
       "evalscripturl":"",
       "themeId":"AGRICULTURE",
-      "gain":"2",
-      "gamma":"1.7",
+      "gain":2,
+      "gamma":1.7,
       "description":"The agriculture north-east of the city [Mumbwa](https://www.investincentralzambia.com/wordpress/mumbwa-district-profile/) in Zambia’s Central Province, is blessed by good climatic conditions as well as fertile soils. The main crops in the region are maize, cotton, soya beans, and sunflowers. Next to growing vegetables, the region hosts favorable conditions for livestock farming. The main species are cattle, sheep, and goats. In the western part of the pin several round structures can be observed. A result of center-pivot irrigation using groundwater.",
       "fromTime":"2018-01-08T00:00:00.000Z",
       "highResImageUrl": "https://www.flickr.com/photos/sentinelhub/50304660791/",
@@ -214,8 +214,8 @@
       "evalscript":"",
       "evalscripturl":"",
       "themeId":"AGRICULTURE",
-      "gain":"2",
-      "gamma":"1.7",
+      "gain":2,
+      "gamma":1.7,
       "description":"South African agriculture's biggest challenge is the absence of water since rainfall doesn't come regularly. Hence, [most agricultural fields are irrigated](http://www.limpopo.riverawarenesskit.org/LIMPOPORAK_COM/EN/MANAGEMENT/WATER_INFRASTRUCTURE/IRRIGATION_INFRASTRUCTURE/SOUTH_AFRICA.HTM), helping make Limpopo an important part of the country's agriculture. [Learn more](https://www.globalafricanetwork.com/company-news/a-2020-vision-of-the-agricultural-sector-in-limpopo/).",
       "fromTime":"2019-06-11T00:00:00.000Z",
       "highResImageUrl": "https://www.flickr.com/photos/sentinelhub/49101283122/",
@@ -319,24 +319,8 @@
       "visualizationUrl": "https://services.sentinel-hub.com/ogc/wms/c6c712d5-e6a0-49a8-8aa3-85346b3df8a4",
       "evalscript": "",
       "evalscripturl": "",
-      "dataFusion": [],
-      "tag": "",
       "gain": 1,
       "gamma": 1,
-      "redRange": [
-          0,
-          1
-      ],
-      "greenRange": [
-          0,
-          1
-      ],
-      "blueRange": [
-          0,
-          1
-      ],
-      "demSource3D": "MAPZEN",
-      "terrainViewerSettings": null,
       "description": "[Oilseed rape](https://en.wikipedia.org/wiki/Rapeseed) is one of the main crops produced in Europe and is mainly used to produce [biodiesel](https://www.eia.gov/energyexplained/biofuels/biodiesel-rd-other-basics.php). During the flowering period (late April-early May), the fields are coloured by the distinctive yellow flowers, which can also be observed from space.\n\n**Timelapse**: View [here](https://sentinelshare.page.link/knVQ) in EO Browser.",
       "extra": {
          "thumbnailPath": "fig/Rapeseed_Agriculture_thumbnail.jpg"
